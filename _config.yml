@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/livestream/", text: "Livestream"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/call/", text: "Call for Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
+#  - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/recordings/", text: "Recordings"}
@@ -222,7 +222,7 @@ blogCommentsEnabled: false
 discusShortName: "wtmvienna"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
