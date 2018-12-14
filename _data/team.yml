@@ -101,6 +101,15 @@
     - {name: "facebook", link: "https://www.facebook.com/pilar.huidobro"}
     - {name: "site", link: "http://althaire.github.io"}
 -
+  id: "maeva-dang"
+  name: "Maeva"
+  surname: "Dang"
+  title: "Content and Speakers"
+  thumbnailUrl: "MaevaDang.jpg"
+  team: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maeva-dang-a32691144/"}
+-
   id: "helmuth-breitenfellner"
   name: "Helmuth"
   surname: "Breitenfellner"
