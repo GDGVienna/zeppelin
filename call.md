@@ -5,6 +5,13 @@ permalink: /call/
 isStaticPost: true
 ---
 
+
+### Our Call for Speakers is now closed!
+
+We have sent out first confimations & further updates to all applications.
+Thanks a lot for the overwhelming interest!
+
+{% comment %}
 ### Our Call for Speakers for WTM Vienna 2019 is open!
 
 Women Techmakers Vienna 2019 is an annual conference targeted at women*, 
@@ -49,4 +56,7 @@ All proposals will be carefully reviewed by the Women Techmakers team and you wi
 We are here for you!
 Feel free to contact us for further information or if you need any support
 with preparing your talk proposal.
+
+{% endcomment %}
+
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/call.jpg" style="display:none">
