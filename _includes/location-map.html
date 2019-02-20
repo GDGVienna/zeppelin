@@ -10,12 +10,14 @@
                         {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
                         <li>{{ site.eventStreetAddress }}</li>
                         <li>{{ site.eventPostalCode }} {{ site.eventAddressLocality }}</li>
+{% comment %}
                         <li>
                             {% assign startTime = site.eventStartTime | split: "T" %}
                             <time>{{ startTime[1] }}</time> -
                             {% assign endTime = site.eventEndTime | split: "T" %}
                             <time>{{ endTime[1] }}</time>
                         </li>
+{% endcomment %}
                     </ul>
                 </div>
 {% comment %}
