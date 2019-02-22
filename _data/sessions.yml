@@ -3,30 +3,38 @@
 -
   id: 900
   title: "Registration and Coffee"
-  place: "Hall"
+  place: "Domed Hall"
   service: true
   imageUrl: "other/opening.jpg"
 -
   id: 901
   title: "Welcome and Intro to WTM"
-  place: "Hall"
+  place: "Domed Hall"
   service: true
   imageUrl: "other/opening.jpg"
 -
   id: 200
-  title: "Communication without stereotypes"
-  place: "Room 2"
-  description: "Forget about gender stereotypes in communication and learn what to do to get your message through- to any audience!<br>This interactive workshop will help you find your own, true and effective way of communication!<br>We’ll focus on finding your own strengths in communication so people want to listen to you and you can achieve your goals!<br><br>So  forget about stereotypes! Join us to discover and explore your own, authentic way of communicating!"
+  title: "Chaos meets kids: workshop for junior hackers"
+  place: "Workshop Room"
+  description: "What is a hacker? We talk about hackers, the Chaos Computer Club and hear about the good side of hacking.<br>What services do you use? Together we discover the internet, its services. and the business models. We talk about big data, personalized offers, news and search results. We discuss filter bubbles and what everybody can do to leave them, sometimes.<br>What can you do? We find out what is possible in the settings of different services and apps, We talk about accounts and passwords."
   subtype: "workshop"
-  speakers: ["stasia-lewicka"]
-  subtitle: "10:30 - 12:30"
+  speakers: []
+  subtitle: "09:45 - 10:45"
 -
   id: 201
-  title: "Experiments for kids"
-  place: "Room 2"
-  description: "Let's have fun and get inspired by science! We will be performing several experiments which show us the amazing things that we can do with science.<br><br>Together we will be making our own invisible ink, our very own Slime, researching the cool iodine clock experiment, how to make hot ice, learning the secrets behind 'Elephant toothpaste' and even experimenting with liquid nitrogen!<br><br>All activities will be heavily supervised by professional and experienced researchers.<br><br>The workshop is powered by the Forschungsgruppe Polymerchemie und Technologie and by TUW Innovation Incubation Center.<br><br><i>For kids from age of 9 on.<i>"
+  title: "Women for Clean Energy and Sustainable Development"
+  place: "Workshop Room"
+  description: "The workshop will present UNIDO as a specialized UN agency, outlining the gender dimensions of clean energy technologies and how UNIDO is promoting gender equality and women’s empowerment through the twin track approach of gender mainstreaming and gender-targeted actions. Participants will receive insight into UNIDO’s operations, projects and tools for gender mainstreaming, and will be invited to discuss initiatives that increase women’s access to and participation in developing and implementing sustainable energy solutions."
   subtype: workshop
-  speakers: ["yazgan-mete", "stefan-helfert"]
+  speakers: []
+  subtitle: "11:00 - 12:00"
+-
+  id: 202
+  title: "Lets talk career"
+  place: "Workshop Room"
+  description: "More details coming soon"
+  subtype: workshop
+  speakers: []
   subtitle: "14:00 - 16:00"
 -
   id: 100
