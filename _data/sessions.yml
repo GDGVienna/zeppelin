@@ -84,7 +84,7 @@
   place: "Domed Hall"
   description: "Today, tech startups are heralded everywhere as some of the most forward-thinking, innovative companies in the world. However, gender inequality still remains a surprisingly big problem in tech startups from Silicon Valley, all the way to Vienna, even in this era of #MeToo and overall heightened awareness on the importance of gender equality at the workplace. Why does this problem continue to persist, and what can we do to make things better? Based on research for her dissertation at the WU and TU Entrepreneurship & Innovation MBA Program, Kaitlyn WonJung Chang will present actionable tips to actively break the vicious „Brotopian Cycle“ that countless startups find themselves in."
   subtype: presentation
-  speakers: ["kaitlyn-wonjung-chang"]
+  speakers: []
 -
   id: 107
   title: "How mobile machines will become autonomous. Challenges and opportunities of AI-based systems in industrial vehicles"
