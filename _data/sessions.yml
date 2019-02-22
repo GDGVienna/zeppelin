@@ -47,14 +47,14 @@
   id: 101
   title: "Verification of safety-critical electronics – More than just testing"
   place: "Domed Hall"
-  description: ""
+  description: "What is inside all these devices that protect us from harm every day? What can we do to increase our trust in them? This talk will provide an introduction into safety-related electronics and one method that reduces risks to people: their verification. When hearing verification, many engineers think of boring testing activities.  On the example of the new CERN radiation monitoring electronics (CROME) we will explore the art of hardware verification and discover its software side. After introducing System-on-Chips and FPGAs, two methods for their verification will be explained in more detail: constrained-random simulation and formal property verification. These were the methods I chose during my Master’s thesis project for the verification of a safety-critical FPGA inside the CROME radiation monitors. Finally, I would like to introduce the technical student programme at CERN, which allowed me to write my Master’s thesis there. I want to encourage students to go abroad, open up their minds and explore the world."
   subtype: "presentation"
   speakers: []
 -
   id: 102
   title: "Public transportation: a man’s world?"
   place: "Domed Hall"
-  description: ""
+  description: "Yes, Wiener Linien, like many others in this sector, traditionally tends to be a male-dominated company. Yet, for several years, Vienna’s public transport operator has been self-critically addressing the relative share of female employees in its workforce and has been trying to specifically attract girls and women to embark on technical careers.<br>This strategy relies on apparently minor and obvious issues such as creating an atmosphere at work in which everyone feels comfortable – based on mutual respect, a culture which tolerates errors and face-to-face meetings instead of sending emails. Wiener Linien has trained several employees to become so-called recognition coaches, who accompany managers to meetings and then give them feedback on their communication behaviour.<br>However, the company has also considered how a better work-life balance can be established for underground, tram and bus drivers who work shifts and at weekends. One approach here is based on flexitime models. Driving underground trains on a part-time basis? A pilot project has just been launched to make this option a possibility. <br>Every company wants to have the best employees; Wiener Linien trains these itself. Managers are being called upon to identify high potentials in their departments. A particular focus here is on nominating female employees or, if not, questioning why no female employees have been nominated. These female employees then receive personal support in the form of tailored coaching and mentoring programmes and the like. There are also networking events for managers and female experts which national and international keynote speakers are invited to attend. This is aimed at motivating and encouraging female employees in particular to apply for key existing and future positions.<br>Sabine Wimmer will also be describing her own experiences. What is her day-to-day life at work like in a male-dominated department? And how did she work her way up to being a department head while on part-time parental leave?"
   subtype: presentation
   speakers: []
 -
@@ -68,7 +68,7 @@
   id: 104
   title: "Bias in AI"
   place: "Domed Hall"
-  description: ""
+  description: "Artificial Intelligence (AI) is getting more and more involved in our daily life, often without us even noticing or being aware of its presence. It may come hidden in intelligent smartphone cameras, it may influence us while shopping or it may even decide whether we get hired by a company or not.<br>In order for an AI to function as one, it has to be trained on data before it can actually act intelligently. It may behave in odd, unexpected ways, but one has to remember: Maybe the situation is completely new and it simply has not learned the correct behavior yet. Humans have to constantly learn and adapt over their lives, an AI, however, is trained only on a very limited set of data and thus may develop a completely different and biased view.<br>Which reasons are there to cause such bias, what influences it and how can we attempt to reduce the bias? This talk sheds some light on bias in AI and how to overcome it when developing AI solutions."
   speakers: []
   subtype: presentation
 -
@@ -82,21 +82,21 @@
   id: 106
   title: "How to: Break the Brotopian Cycle"
   place: "Domed Hall"
-  description: ""
+  description: "Today, tech startups are heralded everywhere as some of the most forward-thinking, innovative companies in the world. However, gender inequality still remains a surprisingly big problem in tech startups from Silicon Valley, all the way to Vienna, even in this era of #MeToo and overall heightened awareness on the importance of gender equality at the workplace. Why does this problem continue to persist, and what can we do to make things better? Based on research for her dissertation at the WU and TU Entrepreneurship & Innovation MBA Program, Kaitlyn WonJung Chang will present actionable tips to actively break the vicious „Brotopian Cycle“ that countless startups find themselves in."
   subtype: presentation
   speakers: ["kaitlyn-wonjung-chang"]
 -
   id: 107
   title: "How mobile machines will become autonomous. Challenges and opportunities of AI-based systems in industrial vehicles"
   place: "Domed Hall"
-  description: ""
+  description: "Autonomous mobility is transforming the way we envisage vehicles in all sectors, giving rise to new products, technologies and human machine cooperation.<br>Artificial intelligence based systems will allow to handle the complexity requirements of autonomous working and driving tasks. However, AI based decision processes cannot be validated. Therefore new approaches are necessary to guarantee the dependability of the system in every driving situation and its failsafe behaviour."
   subtype: presentation
   speakers: []
 -
   id: 108
   title: "Digital Water - No Water. No Cloud."
   place: "Domed Hall"
-  description: ""
+  description: "Our daily life is based on interactions, ever more often our communication takes place online. As to say the “real” world is slowly transferred into the digital world. But what if the digital is located on this planet and is based on water as much as we humans do? My talk will deal with the manifestations of the digital “Cloud” the software and hardware platforms supporting data centers, physical transmission links, browser-based applications, and so forth. I will put an emphasis on the environmental impact our online activities have and how the link of art and science can help to communicate this complex relationship. The hypothesis is: No Water. No Cloud. This indicates that the only way to stop the ongoing surveillance of our online activities is to cut the water supply of surveillance agencies. It became clear to me that the Cloud is ultimately dependent on water in form of electricity and cooling systems. I started thinking about the abstract, immaterial system of the Cloud and how it becomes part of our environment. All of a sudden, my cloudy imaginations of this mystical data ship floating weightless through cyberspace turned into a body relying – as my own – on water. Since 2015 I collect pieces of the Cloud and its manifestations to indicate the material world of the immaterial Cloud. One of these Clouds is about to form in a village in Upper Austria. This will be the starting point of our journey through time and space powered by Water."
   subtype: "presentation"
   speakers: []
 -
