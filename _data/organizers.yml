@@ -1,8 +1,8 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Vienna", description: "GDG Vienna - Open and volunteer geek community", link: "http://www.gdg-vienna.at", imageUrl: "gdg-vienna.png", width: "240px"}
     - {name: "WTM Vienna", description: "Women Techmakers Vienna", link: "http://womentechmakers.at/", imageUrl: "wtm-logo.png", width: "240px"}
+    - {name: "GDG Vienna", description: "GDG Vienna - Open and volunteer geek community", link: "http://www.gdg-vienna.at", imageUrl: "gdg-vienna.png", width: "240px"}
 -
   group: "Partners"
   elements:
