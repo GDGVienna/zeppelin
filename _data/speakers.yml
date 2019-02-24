@@ -23,7 +23,7 @@
   active: true
   bio: "Sabine Wimmer heads up the infrastructure department at Wiener Linien. She is therefore responsible for the strategic planning of construction projects, with her and her team checking the offers submitted by construction companies and also assuming responsibility for the budgets allocated to these construction projects. One of her main focuses is on digitalisation: all construction work is digitally captured so that as-completed drawings, track kilometres and similar information is all easily accessible. Sabine studied Engineering at the Vienna University of Technology. At Wiener Linien, she was formerly a sub-department head while on part-time parental leave before being promoted to the position of department head."
   social:
-    - { name: "facebook", link: "www.facebook.com/wienerlinien"}
+    - { name: "facebook", link: "https://www.facebook.com/wienerlinien"}
     - { name: "instagram", link: "http://www.instagram.com/wienerlinien"}
     - { name: "twitter", link: "https://twitter.com/wienerlinien"}
     - { name: "youtube", link: "http://www.youtube.com/user/wienerlinien"}
@@ -46,7 +46,7 @@
   bio: "AI Software Developer with focus on Natural Language Processing"
   social:
     - { name: "facebook", link: "https://www.facebook.com/katrin.strasser"}
-    - { name: "instagram", link: "https://twitter.com/sauarampfa"}
+    - { name: "instagram", link: "https://www.instagram.com/sauarampfa/"}
     - { name: "linkedin", link: "https://www.linkedin.com/in/katrin-strasser-9582755b"}
     - { name: "twitter", link: "https://twitter.com/sauarampfa"}
 -
@@ -88,6 +88,6 @@
   bio: "Christina is a freshwater ecologist and visual artist working at the intersection of art and science. She currently lives in Vienna but travels most of the time along rivers, investigating the relationship between rivers and people. In her work as researcher and lecturer she tries to develop new strategies to deal with human-environment interactions. Lately she is focusing on hidden operations of representation and knowledge organization."
   social:
     - { name: "instagram", link: "https://www.instagram.com/christinatgruber"}
-    - { name: "site", link: "http://christinagruber.tumblr.com"}
+    - { name: "site", link: "https://christinagruber.tumblr.com"}
     - { name: "twitter", link: "https://twitter.com/tiniscapes"}
-    - { name: "website", link: "www.christinagruber.net"}
+    - { name: "website", link: "http://www.christinagruber.net"}
