@@ -1,331 +1,93 @@
+  id: "eva-lettner"
+  name: "Eva"
+  surname: "Lettner"
+  thumbnailUrl: "EvaLettner.jpg"
+  active: true
+  bio: "Eva works as a frontend web developer and is the Co-founder of Women&&Code, an organisation that helps teach women programming skills. Her ultimate goal is for people to acknowledge that hot pink is the best colour in the world. In her downtime, she likes to knit, sew and create."
+  social:
+    - { name: "twitter", link: "https://www.twitter.com/eva_trostlos"}
+-
+  id: "katharina-ceesay-seitz"
+  name: "Katharina"
+  surname: "Ceesay-Seitz"
+  thumbnailUrl: ""
+  active: true
+  bio: "Katharina Ceesay-Seitz is currently working on the verification of safety-critical electronics for radiation monitoring at CERN, the European Organisation for Nuclear Research. This work was part of her Master’s thesis for her studies in Embedded Systems at the TU Wien. Before that she worked as Embedded Software Developer in Vienna (TTControl) and Barcelona (Giesecke & Devrient). During her Bachelor’s studies in Software & Information Engineering, she spent 6 months at the European Space Agency in Madrid."
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/katharina-ceesay-seitz-ba521087"}
+-
+  id: "sabine-wimmer"
+  name: "Sabine"
+  surname: "Wimmer"
+  thumbnailUrl: "SabineWimmer.jpg"
+  active: true
+  bio: "Sabine Wimmer heads up the infrastructure department at Wiener Linien. She is therefore responsible for the strategic planning of construction projects, with her and her team checking the offers submitted by construction companies and also assuming responsibility for the budgets allocated to these construction projects. One of her main focuses is on digitalisation: all construction work is digitally captured so that as-completed drawings, track kilometres and similar information is all easily accessible. Sabine studied Engineering at the Vienna University of Technology. At Wiener Linien, she was formerly a sub-department head while on part-time parental leave before being promoted to the position of department head."
+  social:
+    - { name: "facebook", link: "www.facebook.com/wienerlinien"}
+    - { name: "instagram", link: "http://www.instagram.com/wienerlinien"}
+    - { name: "twitter", link: "https://twitter.com/wienerlinien"}
+    - { name: "youtube", link: "http://www.youtube.com/user/wienerlinien"}
+-
+  id: "sebyll-ildiko-onbasi"
+  name: "Sebyll"
+  surname: "Ildiko Onbasi"
+  thumbnailUrl: "SebyllIldikoOnbasi.jpg"
+  active: true
+  bio: "Sebyll Onbasi has been working for more than two years in Security Consulting. Also, she has been working as a Consultant with the Viennese Start-Up KIVU Technologies with a focus on security, forensics, and startegic network analysis. In her first job role she was a software developer and an intern at the Austrian Central Bank. Sebyll is passionate about tech for good, public safety, and security as well as she is interested in software development and applied cryptography. She is a member of the IEEE Association, Woman Techmakers, OWASP, IACR, and Erich Fromm Society. In her free time, she is reading books about cryptology, software development and psychoanalysis, as well as she is a long distance runner."
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/ildikosebyllonbasi"}
+    - { name: "site", link: "https://medium.com/@ildikosebyllonbasi"}
+-
+  id: "katrin-strasser"
+  name: "Katrin"
+  surname: "Strasser"
+  thumbnailUrl: "KatrinStrasser.jpg"
+  active: true
+  bio: "AI Software Developer with focus on Natural Language Processing"
+  social:
+    - { name: "facebook", link: "https://www.facebook.com/katrin.strasser"}
+    - { name: "instagram", link: "https://twitter.com/sauarampfa"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/katrin-strasser-9582755b"}
+    - { name: "twitter", link: "https://twitter.com/sauarampfa"}
+-
+  id: "jillian-augustine"
+  name: "Jillian"
+  surname: "Augustine"
+  thumbnailUrl: "JillianAugustine.jpg"
+  active: true
+  bio: "Jillian is a biochemist and molecular biologist by training who, after her PhD, jumped feet first into the world of Data Science in Telecommunications. Navigating interactions and experiences in a field desperate for diversity, she creatively applies her research skills on a daily basis as part of the Advanced Analytics & AI Team at A1 Austria."
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/jillianaugustine"}
+    - { name: "twitter", link: "https://twitter.com/jill_augustine"}
 -
   id: "kaitlyn-wonjung-chang"
   name: "Kaitlyn WonJung"
   surname: "Chang"
   thumbnailUrl: "KaitlynWonJungChang.jpg"
-  active: false
-  bio: "Within the 15 years of her career, Kaitlyn has spent 10 years in the Samsung Group, most recently as Managing Director of its in-house creative agency, Cheil Worldwide, overseeing all operations in Austria and Switzerland. Her work has been recognized worldwide by more than 45 international creative and innovation awards including Cannes Lions, Clios and Webbys. Based in Vienna since 2012, she serves multiple different roles as Head of Strategy & Innovation at Kobza and the Hungry Eyes (Kobza Media Group), Vice President and Founding Member of Women of Vienna, Mentor and Entrepreneur in Residence at Lemmings I/O, and most importantly as co-founder and COO of e-commerce tech startup Sellvus. An avid tech optimist, her passion lies in helping to maximize potentials in people through innovation and technology."
+  active: true
+  bio: Born in South Korea, grew up in the U.S. and based in Austria since 2012, Kaitlyn is currently Head of Strategy & Innovation at Kobza and the Hungry Eyes - KTHE GmbH. Previously she has worked 10+ years at the Samsung Group, most recently as Managing Director of Cheil Austria & Switzerland. She has won more than 50 international creative & innovation awards to date and has been selected in 2018 as the sole Austrian representative jury member at Eurobest, a Cannes Lions creative festival, in the categories of Innovation and Creative Data. She also serves as the Vice President of Women of Vienna, a non-profit community of more than 16,500 women* living in or around Vienna, and mentors multiple tech startups in Vienna and Seoul."
   social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/kaitlynchang/"}
     - { name: "facebook", link: "https://www.facebook.com/kaitlyn.chang"}
+    - { name: "instagram", link: "https://www.instagram.com/kaitlynchang"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/kaitlynchang"}
 -
-  id: "lisa-marie-fassl"
-  name: "Lisa-Marie"
-  surname: "Fassl"
-  thumbnailUrl: "LisaMarieFassl.jpg"
-  active: false
-  title: "Managing Director"
-  company: "Austrian Angel Investors Association"
-  bio: "Lisa-Marie Fassl is the Managing Director of the Austrian Angel Investors Association, Austria’s leading network for business angels which connects promising startups with investors. Before moving to Vienna, Lisa was an active member of the startup community in Styria, where she co-founded the npo IdeenTriebwerk Graz. During her studies she focused on Business Information Systems and Entrepreneurship, which led to various scientific studies on the entrepreneurial ecosystem in Austria. Having experienced the Austrian startup community from different perspectives for several years, she’s continually co-founding new projects, her latest being <a href='https://www.femalefounders.at' target='_blank'>femalefounders.at</a>, a network for women in the startup community."
--
-  id: "tanja-sternbauer"
-  name: "Tanja"
-  surname: "Sternbauer"
-  thumbnailUrl: "TanjaSternbauer.jpg"
-  active: false
-  title: "Managing Partner"
-  company: "Startup Live"
-  bio: "Tanja is the Managing Partner of Startup Live, the leading early-stage accelerator program in Europe and one of the biggest entrepreneurial communities world-wide. She is dedicated to foster female entrepreneurship and founded The Female Founders Club, a hub connecting & supporting women within the startup scene. Before her work for the European startup ecosystem, Tanja started her own startup HeyBeauty, a scheduling tool for beauty appointments at the age of 25."
+  id: "christiana-seethaler"
+  name: "Christiana"
+  surname: "Seethaler"
+  thumbnailUrl: "ChristianaSeethaler.jpg"
+  active: true
+  bio: "Director Product Development bei TTControl"
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/tsternbauer/"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/cseethaler"}
 -
-  id: "sabria-lagoun"
-  name: "Sabria"
-  surname: "Lagoun"
-  thumbnailUrl: "SabriaLagoun.jpg"
-  active: false
-  bio: "After finishing her Neuroscience M.Sc. in Marseille, Sabria moved to Vienna to complete a Ph.D. in Cognitive Neurobiology. Alongside her studies, she is involved in scientific communication, and mental illness awareness initiatives. Sabria organized events, hands-on workshops, conceptualized art projects, and is regularly speaking to promote neuroscience knowledge."
+  id: "christina-gruber"
+  name: "Christina"
+  surname: "Gruber"
+  thumbnailUrl: "ChristinaGruber.jpeg"
+  active: true
+  bio: "Christina is a freshwater ecologist and visual artist working at the intersection of art and science. She currently lives in Vienna but travels most of the time along rivers, investigating the relationship between rivers and people. In her work as researcher and lecturer she tries to develop new strategies to deal with human-environment interactions. Lately she is focusing on hidden operations of representation and knowledge organization."
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sabrialagoun"}
--
-  id: "minu-karthika-ganesan"
-  name: "Minu"
-  surname: "Karthika Ganesan"
-  thumbnailUrl: "MinuKarthikaGanesan.jpg"
-  active: false
-  bio: "Minu has a long research career involving various fields of biomedical science. At present she is submitting her Ph.D. in Cardiovascular Biology/tissue engineering at the Medical University of Vienna. Although she loves to work in the lab unraveling the intricate cross-talk between the cellular components of a blood vessel wall, she feels greatly satisfied when she could communicate her scientific research to an audience, which has won her many best science speaker awards."
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/minu-karthika-ganesan-msc-8b525136/"}
--
-  id: "sonja-fischbauer"
-  name: "Sonja"
-  surname: "Fischbauer"
-  thumbnailUrl: "SonjaFischbauer.jpg"
-  active: false
-  bio: "Sonja develops outreach strategies for small businesses and community-rooted organisations. She holds a degree in archaeology from the University of Vienna, worked at excavations and in museum education for 6 years. As a freelance communications consultant, she designs programs to further diversity at tech-events. Her recent project, the mentoring program at the Wikimedia Hackathon 2017 in Vienna, received the Open Minds Austria award for diversity. She loves memes and trains Krav Maga."
-  social:
-    - {name: "twitter", link: "https://twitter.com/sonkiki"}
--
-  id: "mario-arh"
-  name: "Mario"
-  surname: "Arh"
-  company: "EBV Elektronik"
-  title: "Sales Engineer"
-  thumbnailUrl: "MarioArh.jpg"
-  active: false
-  bio: "Mario Arh is an expert in the electronics and semiconductor technologies. Since, 2013, he is a Sales Engineer at EBV Elektronik, working with innovative SMEs and corporations in the field of automotive-, industrial- and consumer electronic applications. In addition to the technical support, Mario is also helping his clients to establish professional and reliable supply chain and logistic processes. Previously he has served as a Quality Engineer at a leading semiconductor company Infineon Technologies Austria. Since 2015, he is also a Mentor at the high-tech incubator INiTS, supporting hardware companies."
--
-  id: "stasia-lewicka"
-  name: "Stasia"
-  surname: "Lewicka"
-  thumbnailUrl: "StasiaLewicka.jpg"
-  active: false
-  bio: "Stasia,  with her diverse professional background, brings the knowledge and the practice together, in engaging, interactive workshops. She worked with big ones- like IBM, and she worked with small, local companies. Brings experience from over 10 years in Customer Service, Marketing, Project management. With communication being always the core of her work, she now teaches you how to develop your own, authentic way of communication in business. She doesn’t believe in perfection, instead she encourages honesty, authenticity and originality. She prefers cats from dogs and always speaks her mind. And is on a mission to help people, and especially women, to get their voices heard!"
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/StasiaLewickaTrainer/"}
-    - {name: "site", link: "https://slewickatrainings.wordpress.com/"}
--
-  id: "tanja-ollinger"
-  name: "Tanja"
-  surname: "Ollinger"
-  company: "BOSCH Group"
-  title: "Senior Manager"
-  thumbnailUrl: "TanjaOllinger.jpg"
-  active: false
-  bio: "Tanja is an experienced high level line manager at Bosch, responsible for about 35 people. During her career she has been in several positions, where she learned how to lead change in the process-centric automotive sector, always finding the ideal balance between agility and robustness."
--
-  id: "gerta-sheganaku"
-  name: "Gerta"
-  surname: "Sheganaku"
-  thumbnailUrl: "GertaSheganaku.jpg"
-  active: false
-  bio: "Gerta recently finished her M.Sc. in Business Informatics at TU Vienna. During her studies she collaborated with multiple research departments at TU Vienna as well as Data61 (Australia). Her research focused on operations research and cloud optimization, combining methods from mathematical programming with latest container-based virtualization technologies. Gerta has also worked as an IT project manager and business process analyst for a software company in Vienna. She has successfully acquired project funding and managed a cross-organizational R&D project facilitating data analytics for manufacturing processes."
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gerta-sheganaku/"}
--
-  id: "yazgan-mete"
-  name: "Yazgan"
-  surname: "Mete"
-  thumbnailUrl: "YazganMete.jpg"
-  active: false
-  bio: "Yazgan Mete obtained her Bachelor’s and Master’s degree in Technical Chemistry at the Technische Universität Wien. She finished her Master thesis in February 2017 and is since working on her PhD thesis focusing on photopolymerization in the research group for Macromolecular Chemistry."
--
-  id: "stefan-helfert"
-  name: "Stefan"
-  surname: "Helfert"
-  thumbnailUrl: "StefanHelfert.jpg"
-  active: false
-  bio: "Stefan earned his BSc in technical chemistry from the Technische Universität Wien, and continued his studies there to earn his MSc degree at the institute of Applied Synthetic Chemistry. Since, his master thesis project was to create an interface between glass surfaces and T-cells, he joined BIOINTERFACE as a PhD student to stay in this field of research. He has special experience in polymer chemistry and photo polymerization techniques."
--
-  id: "karin-hohenthaner"
-  name: "Karin"
-  surname: "Hohenthaner"
-  thumbnailUrl: "KarinHohenthaner.jpg"
-  bio: "Karin Hohenthaner is a senior project manager at A1 Telekom Austria, Vienna. She has been leading various projects, including post-merger integration projects building convergent solutions to unite processes for fixed-line and mobile customers. During and after her studies of International Business Administration, she worked in Spain, Germany and Austria, in various sectors like e-commerce, university administration and telco. She held project management positions as well as expert roles in marketing, customer services and IT, at organizations such as GSI Commerce, Deutsche Post, Vienna University and (for the last eight years) A1 Telekom Austria. Karin is passionate about agile ways of working and leading project teams to success."
--
-  id: "laura-gaetano"
-  name: "Laura"
-  surname: "Gaetano"
-  thumbnailUrl: "LauraGaetano.jpg"
-  bio: "Laura is a manager at Travis Foundation and the organiser of Rails Girls Summer of Code — a 3-month scholarship program to support women in the Open Source community. With a background in the visual arts and a non-traditional career path, she landed in tech as a web developer somewhat by accident. Laura is passionate about making things, Open Source software, feminism, music and space (as in rockets). Her favourite vine is the one of the tiny piglet prancing through the grass."
--
-  id: "josephine-dorado"
-  name: "Josephine"
-  surname: "Dorado"
-  thumbnailUrl: "JosephineDorado.jpg"
-  bio: "Josephine Dorado is an entrepreneur, professor and performing artist whose work focuses on the convergence of physical with digital experiences and social practice arts. Her work has garnered multiple Fulbright awards and a MacArthur Foundation award. Recently, Josephine completed a residency at Museumsquartier in Austria, working with refugees to create virtual reality media narratives and exploring aerial performance-play as social practice. She is President of Fulbright’s NY Chapter, teaches at The New School, and consults for the U.S. State Department’s TechCamps. Previously, Josephine founded Kidz Connect, a virtual cultural exchange program that connected youth internationally through creative collaboration and performance in virtual worlds."
--
-  id: "kristina-kiesel"
-  name: "Kristina"
-  surname: "Kiesel"
-  thumbnailUrl: "KristinaKiesel.jpg"
-  bio: "I am born and raised in Vienna and studied architecture at the Technical University Vienna and the Pratt Institute NY. in 2015 I finished my PhD in Building Physics on 'The Influence of the Urban Micro Climate on the Thermal Performance of Buildings'. I have been working in research and teaching at the Department of Building Physics and Building Ecology at TU Vienna since 2010. My research focuses are urban microclimate, urban density, air quality, building performance and building performance simulation, acoustics and light."
--
-  id: "agnes-scherzer"
-  name: "Agnes"
-  surname: "Scherzer"
-  thumbnailUrl: "AgnesScherzer.jpg"
-  bio: "Agnes is Senior Product Manager at Pivotal Labs, Berlin. She helps start-ups and enterprises establish more user-centered, lean and agile approaches in order to build better products and services. Prior to Pivotal Labs Agnes was responsible for the self-care application portfolio at A1 Telekom Austria and consulted client companies on strategies how to master their Digital Transformation processes. Agnes studied Business Administration and IT Management in Wiener Neustadt and took several courses on related topics at UC Berkeley and Harvard University. She supports the Balanced Team movement and loves to operate at the intersection of user needs, business goals and technical possibilities."
--
-  id: "andrea-mayr-stalder"
-  name: "Andrea"
-  surname: "Mayr-Stalder"
-  thumbnailUrl: "AndreaMayr-Stalder.jpg"
-  bio: "Since the late 1990s, Andrea has worked on numerous artistic and educational Internet projects. She studied visual media (University of Applied Arts; Vienna) and has worked as a system admin and programmer at ISPs in Vienna and New York. Much of her work involves Free Software and she was chairwomen of the LinuxWochen, Vienna. Most recently, she initiated Turtlestitch.org, a platform to combine computing and embroidery."
--
-  id: "nora-sarga"
-  name: "Nóra"
-  surname: "Sárga"
-  thumbnailUrl: "NoraSarga.jpg"
-  bio: "Nora is a Business Development Manager, Coach and Consultant at beteal. She studied and worked in various fields and assembled an interdisciplinary work experience. After a short experiment working with a traditional company she returned and worked for several years with startups, due to the inspiring environment startups provide. After moving to Austria, Nora was the event manager of the Pioneers Festival for 2 years. Inspired by her own need for a healthy work environment, which make employees happy and motivated she started looking for organizational models which enable a greater degree of freedom. Now she is helping companies to bring out their full potential, learn innovation methods and transform into a new level of operation."
--
-  id: "eniko-balint"
-  name: "Enikö"
-  surname: "Balint"
-  thumbnailUrl: "EnikoBalint.jpg"
-  bio: "Eni has started as a developer 9 years ago at an international insurance company, moved upwards the corporate ladder, which was sometimes challenging as a women (+ migrant) in such a male-dominated area. For over 2 years she was leading the distributed business process management team with 22 employees and was responsible for a 7 digit budget. Afterwards she wanted to dive into the startup world, worked for and with startups and decided to build up her own company with the mission of bringing out the potential of individuals and organisations. She thinks adults should play more, this is also what beteal stands for."
--
-  id: "ramon-huidobro"
-  name: "Ramón"
-  surname: "Huidobro"
-  thumbnailUrl: "RamonHuidobro.jpg"
-  bio: "Ramón is a Chilean fellow living in Vienna, Austria. He’s been developing Mac, iOS and Web software for years and loving every minute of it. During the last five years he’s been running the “Computer Game Programming” after-school activity at his old school in Vienna where he teaches kids to make games with different technologies. He’s also currently wrapping up his Software Engineering degree at the Vienna University of Technology, and at the same time helping run the “Ruby Habits” study group. He loves puppies."
--
-  id: "stefanie-duchet"
-  name: "Stefanie"
-  surname: "Duchet"
-  company: "BD, Austria"
-  title: "Team Lead for Project Management"
-  thumbnailUrl: "StefanieDuchet.jpg"
-  bio: "Stefanie is a 31-year-old team lead for project management currently employed at BD, Austria and responsible for implementing medical software projects. Although she has completed a technical study programme with the focus on sports equipment technology she was never a so called “IT pro”. Nevertheless, Stefanie was always attracted by managing IT and technical projects with a certain passion for health tech. The main steps of her career include being part of and establishing a startup in the field of e-Health and ambient assisted living, working as an IT project manager at a Scandinavian IT company and her current job as team lead."
-  social:
-    - {name: "site", link: "http://www.communicationplayground.net/"}
-    - {name: "linkedin", link: "http://at.linkedin.com/in/stefanieduchet"}
-    - {name: "twitter", link: "https://twitter.com/StefanieDuchet"}
--
-  id: "elisabeth-bluemelhuber"
-  name: "Lisi"
-  surname: "Blümelhuber"
-  company: "Compass Group"
-  title: "Software Developer"
-  thumbnailUrl: "ElisabethBluemelhuber.jpg"
-  bio: "Lisi Blümelhuber and Myriam Teicher both work for Compass Gruppe, a company providing Data mining services on business information like the Austrian Business Register. Lisi is an experienced software developer. She focuses on clean code, high-quality software development and build management."
--
-  id: "myriam-teicher"
-  name: "Myriam"
-  surname: "Teicher"
-  company: "Compass Group"
-  title: "Requirements Engineer"
-  thumbnailUrl: "MyriamTeicher.jpg"
-  bio: "Lisi Blümelhuber and Myriam Teicher both work for Compass Gruppe, a company providing Data mining services on business information like the Austrian Business Register. Myriam works as a requirements engineer and UI designer. She likes to improve the users’ lives by designing clean and consistent interfaces."
--
-  id: "irene-fialka"
-  name: "Irene"
-  surname: "Fialka"
--
-  id: "birgit-hofreiter"
-  name: "Birgit"
-  surname: "Hofreiter"
-  company: "TU Wien"
-  title: "Director Entrepreneurship & Innovation Center"
-  thumbnailUrl: "BirgitHofreiter.jpg"
-  bio: "Dr. Birgit Hofreiter is Board Member of AustrianStartups, the Head of the Informatics Innovation Center (i²c) and since the cross-faculty roll out director of the TUW wide Entrepreneurship & Innovation Center offering a bootcamp style StartAcademy for R&D commercialization, a Diploma Supplement on Innovation for students at TUW, a campus located co-working space (i²c FounderSpace) providing an incubation program (TUW i²ncubator), as well as many public events like eg. the Founder & Investor Talk Series (already in season 5) or the i²c NetworkingFriday. Before Birgit dedicated her career the implementation and business development of an Entrepreneurial University, she set up a competence center on inter-organizational business collaborations while with University of Liechtenstein, has been a Post Doc Research Fellow at the University of Technology Sydney, and an Austrian Delegate to UN/CEFACT contributing to standards and recommendations for interoperability. Additionally, she is co-founder of the IEEE Conference on Business Informatics and on the editorial board of community related journals."
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/birgit-hofreiter-38892021"}
-    - {name: "site", link: "https://www.facebook.com/InformaticsInnovationCenter"}
--
-  id: "nino-nanitashvili"
-  name: "Nino"
-  surname: "Nanitashvili"
-  company: "Google Developer Group Tbilisi"
-  title: "Founder"
-  thumbnailUrl: "NinoNanitashvili.jpg"
-  bio: "Nino Nanitashvili has been founder of the first ever Google Developer Group in Georgia (at that time called GTUG). Throughout 4 years of leadership she has been organizer of numbers of small to large scale events and conferences. In addition to GDG, Nino has broad experience at international, governmental and non-governmental institutions working on social issues, civic engagement and transformation through technologies. She leads Women Techmakers community in Georgia, teaches kids in the regions basic computer programming, advocates for digital accessibility and uses computer games for connecting youth in conflict divides virtually."
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
-    - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
--
-  id: "timea-turdean"
-  name: "Timea"
-  surname: "Turdean"
-  company: "Google Developer Group"
-  title: "Team leader"
-  thumbnailUrl: "TimeaTurdean.jpg"
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+TimeaTurdean_imy"}
-    - {name: "twitter", link: "https://twitter.com/TimeaTurdean"}
-    - {name: "github", link: "https://github.com/therealimy"}
-    - {name: "facebook", link: "https://www.facebook.com/timea.turdean"}
-    - {name: "site", link: "http://www.timeaturdean.com/"}
--
-  id: "sanja-selak"
-  name: "Sanja"
-  surname: "Selak"
-  company: "Origimm (‘Origins of Immunity’)"
-  title: "Founder, inventor and CEO"
-  bio: "Dr. Sanja Selak is the founder, inventor and CEO of Origimm (‘Origins of Immunity’), an Austrian biotechnology company developing a completely new way of treating common acne, based on immunotherapy against one of the main causes of acne, the bacterium Propionibacterium acnes."
-  thumbnailUrl: "SanjaSelak.jpg"
-  social:
-    - {name: "linkedin", link: "https://at.linkedin.com/in/sselak"}
-    - {name: "site", link: "http://www.origimm.com"}
--
-  id: "astrid-woollard"
-  name: "Astrid"
-  surname: "Woollard"
-  company: "Institute of Science and Technology Austria"
-  title: "Technology Transfer Associate"
-  bio: "Dr Astrid Woollard is a technology transfer professional with vast experience in establishing and running companies (including IP strategy, business strategy, business development, and fundraising).<br>Astrid currently works at the Institute of Science and Technology Austria and acts as an independent IP strategy advisor for startups. Previously, Astrid worked for Oxford University’s technology transfer organization Isis Innovation, and was Security Policy Advisor for an EU FP7 big data project at the STFC’s Scientific Computing Department.<br>Before moving into the technology transfer world, Astrid had worked for many years in the pharmaceutical industry by which she acquired detailed knowledge about the drug development process and associated technologies."
-  thumbnailUrl: "AstridWoollard.jpg"
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/astridwoollard"}
--
-  id: "rina-ahmed"
-  name: "Rina"
-  surname: "Ahmed"
-  company: "Microsoft"
-  title: "Technical Evangelist"
-  bio: "Rina Ahmed is Software Engineer in the Commercial Software Engineering Group of Microsoft. She codes with customers and partners on AI and Machine Learning solutions. She also has experience in supporting developers with cloud solutions and client development as Technical Evangelist."
-  thumbnailUrl: "RinaAhmed.jpg"
-  active: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/rinaahm"}
--
-  id: "logiscool"
-  name: "Logiscool"
-  surname: ""
-  bio: "Logiscool is a coding school for kids age 7-15 located in Vienna’s 3rd district.<br>We believe that coding is an essential skill of the 21st century - it is the foreign language of our times. Kids should actively create, not only passively consume digitally.  We teach the fundamentals of coding, a way of thinking, that is applicable in all mainstream programming languages. We designed a playful, fun and creative learning experience for our students that is delivered by our young and enthusiastic trainer team. Our courses run once a week for 90min, with 5-10 kids in a class, learning with peers at the same age. For more information and registration visit <a href='http://www.logischool.at' target='_blank'>www.logiscool.at</a>."
-  thumbnailUrl: "../partners/logiscool2.jpg"
--
-  id: "franz-knipp"
-  name: "Franz"
-  surname: "Knipp"
-  company: "qnipp Gmbh"
-  title: "Founder and CEO"
-  thumbnailUrl: "FranzKnipp.jpg"
-  bio: "Dipl.-Ing. Franz Knipp is passionate about computers and coding since the age of ten. After studying and working in Vienna, he founded a company in his home village to offer high-tech jobs in the rural area. He implements prototypes and complete solutions of web and mobile applications.<br>In 2014 Franz Knipp started his coding workshops called <a href='http://code14.org/' target='_blank'>Code 14</a> and <a href='http://dreamicode.com/' target='_blank'>Dreamicode</a> to share his passion with youths in the age of 10 to 14. About 100 participants had the chance to take their first steps in the field of programming until now."
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/franzknipp"}
-    - {name: "site", link: "http://qnipp.com/"}
--
-  id: "horst-jens"
-  name: "Horst"
-  surname: "Jens"
-  company: "spielend-programieren"
-  title: "Kids' Programming Instructor"
-  bio: "Horst Jens is founder of vienna based computer programming education company 'spielend­programmieren' and enjoys teaching game programming to young children using free/libre/open­source software."
-  thumbnailUrl: "HostJens.jpg"
-  social:
-    - {name: "web", link: "http://spielend-programmieren.at/de:kontakt"}
--
-  id: "satya-dash"
-  name: "Satya Sandha"
-  surname: "Dash"
-  company: "Kapsch TrafficCom AG"
-  title: "Corporate Entrepreneur"
-  bio: "Speaker identifies herself as holistic corporate Entrepreneur, Innovator and Visionary ( Business model and Technological solution).<br/>Grew up in Odisha, India and left home in 2003 to start a life of her own in a new culture and language. Started hardware/software design degree education in German, only after learning the language within 7 months in the University of Applied Science, Hagenberg, in Austria.<br/>Worked previously in different industry sectors such as semiconductor and consulting before joining Kapsch TrafficCom as a developer in R&D in 2010.<br/>Got her disruptive business model idea based on Service Oriented Architecture funded for €101,000 directly by her current company's board and has dedicated herself entirely to work on her project."
-  thumbnailUrl: "SatyaDash.jpg"
--
-  id: "melania-gagea"
-  name: "Melania"
-  surname: "Gagea"
-  company: "Frequentis"
-  title: "Leading Expert Defence Systems"
-  bio: "Working with Frequentis since 1997; 2010 – 2014 working as a seconded expert from the industry in SESAR Joint Undertaking – the management of the SESAR – Single European Sky Air Traffic Management Research – addressing the future of the Air Traffic Management in Europe (and not only). Actual working as a Leading Expert Defence Systems within Frequentis.\nBorn in Romania.\nLoving to learn foreign languages, travelling, gardening, reading, music … if I would only have the time for all my hobbies..."
-  thumbnailUrl: "MelaniaGagea.jpg"
--
-  id: "zeynep-ergonenc"
-  name: "Zeynep"
-  surname: "Ergönenc"
-  bio: "I received my bachelor's degree in Chemistry from Hacettepe University in Turkey and did my master's degree in material science at University of Vienna, and conducted a research internship on 'Synthesis and Characterization of Superparamagnetic Nanoparticles' at ICMAB research institute in Barcelona. Currently I am a PhD student in the field of computational material science at the University of Vienna."
-  thumbnailUrl: "ZeynepErgonenc.jpg"
--
-  id: "meral-akin-hecke"
-  name: "Meral"
-  surname: "Akin-Hecke"
-  title: "Digital Champion Austria"
-  company: "EU Codeweek"
-  bio: "Meral Akin-Hecke has been appointed Digital Champion Austria in June 2013. Digital Champions are ambassadors for the Digital Agenda, appointed by their Members States to help every European become digital. 2014 she initiated WerdeDigital.at - a platform to raise awareness and teach about digital media literacy. In her role as Digital Champion Austria she started EU Codeweek action week in Austria with 55 events in 2014. Meral Akin-Hecke studied Business Informatics at the Technical University of Vienna. She is originally from Istanbul, Turkey and graduated there from the Austrian School St. Georg's College. She started her career as software consultant at SAP and went on at the Austrian Broadcasting Company ORF. She is one of the Executive Board Members of Open Knowledge Foundation Austria and supports the idea of an 'open society'."
-  thumbnailUrl: "MeralAkin-Hecke.png"
--
-  id: "simonetta-di-pippo"
-  name: "Simonetta"
-  surname: "Di Pippo"
-  company: "UNITED NATIONS - Office for Outer Space Affairs"
-  title: "Director"
-  thumbnailUrl: "pippo.png"
--
-  id: "visda-goudarzi"
-  name: "Visda"
-  surname: "Goudarzi"
-  title: "Scientific-Artistic Audio Researcher"
-  company: "Institute for Electronic Music and Acoustics"
+    - { name: "instagram", link: "https://www.instagram.com/christinatgruber"}
+    - { name: "site", link: "http://christinagruber.tumblr.com"}
+    - { name: "twitter", link: "https://twitter.com/tiniscapes"}
+    - { name: "website", link: "www.christinagruber.net"}
