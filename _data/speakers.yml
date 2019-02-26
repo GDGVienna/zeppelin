@@ -76,7 +76,7 @@
   surname: "Seethaler"
   thumbnailUrl: "ChristianaSeethaler.jpg"
   active: true
-  bio: "Director Product Development at TTControl, a joint-venture company of TTTech and HYDAC International."
+  bio: "Christiana Seethaler holds a Master of Science degree in electronics and computer science from the Technical University of Graz and completed an executive MBA program with focus on project and process management. After a few years of professional experience in embedded software development she joined TTTech in 2001. There she held various positions in project and product management with a focus on safety related electronic controllers. In 2013 she took over the position as a technical head of the business unit Off-Highway at TTTech and director product development at TTControl. Her professional interests are in the areas of embedded software, functional safety and autonomous driving."
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/cseethaler"}
 -
@@ -91,3 +91,54 @@
     - { name: "site", link: "https://christinagruber.tumblr.com"}
     - { name: "twitter", link: "https://twitter.com/tiniscapes"}
     - { name: "website", link: "http://www.christinagruber.net"}
+-
+  id: "giorgia-pasqualetto"
+  name: "Giorgia"
+  surname: "Pasqualetto"
+  thumbnailUrl: "GiorgiaPasqualetto.png"
+  active: true
+  bio: "Giorgia graduated in Energy Engineering from the University of Padua (Italy). At UNIDO, she focuses on technical assistance projects that promote energy efficiency and the use of renewable energy in industries in Eastern Europe, Latin America and the Caribbean. She also co-authored studies on the impact of the adoption energy management systems and ISO 50001 in the industrial sector. She believes that equal inclusion of women is a crucial element in the clean energy transition."
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/giorgia-p"}
+-
+  id: "katharina-proestler"
+  name: "Katharina"
+  surname: "Proestler"
+  thumbnailUrl: ""
+  active: true
+  bio: "Katharina has more than 9 years professional experience in the area of sustainable energy technologies and has been involved in the sector from different aspects and sectors including public, private and academia. She studied environmental technologies, international relations, business administration, and law at the University of Applied Sciences Aschaffenburg (Germany), Technical University Vienna (Austria), University of Alicante (Spain), and Solvay Business School (Belgium). Both her academic background and professional experience combine different disciplines, which characterize her strength: working at the junction of nexus dimensions. At UNIDO she is working since 2014 on promoting gender equality and women’s empowerment in the department of energy and manages several cleantech projects, mainly in South East Asia."
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/katharina-proestler-4b145b8b"}
+-
+  id: "priyanka-teeluck"
+  name: "Priyanka"
+  surname: "Teeluck"
+  thumbnailUrl: ""
+  active: true
+  bio: "Priyanka is a specialist working on the interlinkages between gender equality and climate change. She studied environmental economics and management, and has experience in integrating gender considerations throughout climate activities.  As a Gender Expert for UNIDO, she promotes gender equality and women’s empowerment throughout UNIDO’s activities in industrial sectors."
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/priyanka-teeluck-7a476a65/"}
+-
+  id: "susanne-leeb"
+  name: "Susanne"
+  surname: "Leeb"
+  thumbnailUrl: "SusanneLeeb.jpg"
+  active: true
+  bio: "Susanne is a coach, trainer and HR expert with studies in Business Administration, HR Management and Coaching, 13 years of experience in HR and 2 years in career counseling in international, architectural and academic environment."
+  social:
+    - { name: "facebook", link: "https://www.facebook.com/TUCareerCenter"}
+    - { name: "instagram", link: "https://www.instagram.com/tucareercenterwien"}
+    - { name: "linkedin", link: "https://www.linkedin.com/company/tu-career-center-gmbh"}
+    - { name: "xing", link: "https://www.xing.com/companies/tucareercentergmbh"}
+-
+  id: "daniela-haiden-schroll"
+  name: "Daniela"
+  surname: "Haiden-Schroll"
+  thumbnailUrl: "DanielaHaidenSchroll.jpg"
+  active: true
+  bio: "Daniela is a coach, trainer and HR expert with studies in Psychology, Diagnostics and Educational Science, 13 years of experience in HR  and career counseling in international, research and academic environment."
+  social:
+    - { name: "facebook", link: "https://www.facebook.com/TUCareerCenter"}
+    - { name: "instagram", link: "https://www.instagram.com/tucareercenterwien"}
+    - { name: "linkedin", link: "https://www.linkedin.com/company/tu-career-center-gmbh"}
+    - { name: "xing", link: "https://www.xing.com/companies/tucareercentergmbh"}

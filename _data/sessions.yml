@@ -26,7 +26,7 @@
   place: "Workshop Room"
   description: "The workshop will present UNIDO as a specialized UN agency, outlining the gender dimensions of clean energy technologies and how UNIDO is promoting gender equality and women’s empowerment through the twin track approach of gender mainstreaming and gender-targeted actions. Participants will receive insight into UNIDO’s operations, projects and tools for gender mainstreaming, and will be invited to discuss initiatives that increase women’s access to and participation in developing and implementing sustainable energy solutions."
   subtype: workshop
-  speakers: []
+  speakers: ["giorgia-pasqualetto", "katharina-proestler", "priyanka-teeluck"]
   subtitle: "11:00 - 12:00"
 -
   id: 202
@@ -34,7 +34,7 @@
   place: "Workshop Room"
   description: "More details coming soon"
   subtype: workshop
-  speakers: []
+  speakers: ["susanne-leeb", "daniela-haiden-schroll"]
   subtitle: "14:00 - 16:00"
 -
   id: 100
