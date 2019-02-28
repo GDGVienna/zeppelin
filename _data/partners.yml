@@ -5,6 +5,7 @@
 -
   group: "Silver Sponsor"
   elements:
+    - {name: "TheVentury", description: "TheVentury - Progress through Entrepreneurship", link: "https://theventury.com/", imageUrl: "the-ventury.png", width: "220px"}
     - {name: "Capgemini", description: "Capgemini Group", link: "https://www.capgemini.com/", imageUrl: "capgemini-logo.png", width: "300px"}
 -
   group: "Platinum Sponsor"
