@@ -32,7 +32,7 @@
   id: 202
   title: "Lets talk career"
   place: "Workshop Room"
-  description: "More details coming soon"
+  description: "The TU career Workshop is designed to support participants in both career planning (theory and practice), career management, and career strategies and types. The participants will learn about how to set, manage and reach their career goals and objectives.  The TU career experts will also introduce the typical career paths and present what are the strategies for income development."
   subtype: workshop
   speakers: ["susanne-leeb", "daniela-haiden-schroll"]
   subtitle: "14:00 - 16:00"
@@ -61,7 +61,7 @@
   id: 103
   title: "Computer Forensics"
   place: "Domed Hall"
-  description: ""
+  description: "Digital forensic science is the process of obtaining, analyzing and using digital evidence in investigations or criminal proceedings. Digital evidence ranges from images of child sexual exploitation to the location of a mobile phone. We look at how evidence is obtained, legislation and regulation, and efforts to address challenges faced by practitioners. A digital investigation is a process where we develop and test hypotheses that answer questions about digital events. This is done using by scientific methods where we develop a hypothesis using evidence that we find and then test the hypothesis by looking for additional evidence that shows the hypothesis is impossible. Digital evidence is a digital object that contains reliable information that supports or refutes our hypothesis. There are some fundamental concepts to grasp about evidence in general and digital evidence in particular. Evidence also exists in a legal domain. There are 193 member states of the United Nations, but worldwide there are many more legal systems. Based on that, the legal coverage in this talk is widely-used general principles. In general terms, there are very few explicit references to the specific laws of any country. The talk is focusing on "state of the art" in areas of forensic specialization. The main topics of the talk are cybercrime, encryption, social media, legal and regulatory requirements, challenges and debates, digital evidence and investigations involving networks (social media, mobile, and telecommunications technology)."
   subtype: presentation
   speakers: ["sebyll-ildiko-onbasi"]
 -
@@ -75,7 +75,7 @@
   id: 105
   title: "From Test Tube to Data Lake"
   place: "Domed Hall"
-  description: ""
+  description: "When I tell people where I work and what I studied, the response is always one of surprise. If you were to say that molecular biology research and telecommunications data science have nothing to do with each other, you’d be right… but also wrong. In my talk I will share with you my take on careers and answer some of the career-related questions that are often posed to me on this topic. I will talk about my transition from academia in the life sciences, into the telecommunications industry, and my experiences along the way. I will introduce you to the world of data science at A1 Telekom Austria, how we manage and protect your data, and how we use it to improve the user experience of our customers. Using examples from my current day-to-day work, I will show you how the two worlds are more similar than you might think."
   speakers: ["jillian-augustine"]
   subtype: presentation
 -
