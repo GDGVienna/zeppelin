@@ -13,7 +13,7 @@
   name: "Katharina"
   surname: "Ceesay-Seitz"
   company: "CERN, the European Organisation for Nuclear Research"
-  title: "Master student in TU Wien (Embedded Systems) "
+  title: "Master student in TU Wien (Embedded Systems)"
   thumbnailUrl: "KatharinaCeesaySeitz.jpg"
   active: true
   bio: "Katharina Ceesay-Seitz is currently working on the verification of safety-critical electronics for radiation monitoring at CERN, the European Organisation for Nuclear Research. This work was part of her Master’s thesis for her studies in Embedded Systems at the TU Wien. Before that she worked as Embedded Software Developer in Vienna (TTControl) and Barcelona (Giesecke & Devrient). During her Bachelor’s studies in Software & Information Engineering, she spent 6 months at the European Space Agency in Madrid."
@@ -79,7 +79,7 @@
   title: "COO"
   thumbnailUrl: "KaitlynWonJungChang.jpg"
   active: true
-  bio: "Born in Korea, raised in the U.S. and in based in Austria since 2012, Kaitlyn WonJung Chang has 15 years' working experience in the intersection between tech and creativity. She has worked for 10 years at Samsung Group and led the Austrian branch office as Managing Director of Cheil Austria & Switzerland, the in-house creative agency of Samsung. She has won more than 50 international and Austrian innovation and creative awards and currently works as COO at Kobza and the Hungry Eyes - KTHE GmbH, an Austrian independent creative agency. In her "second life" she dedicates her free time to serving as Vice President for the nonprofit organization Women of Vienna, the biggest community for women* in Austria with more than 16,500 members, and mentors and advises startups in both Vienna and Seoul."
+  bio: "Born in Korea, raised in the U.S. and in based in Austria since 2012, Kaitlyn WonJung Chang has 15 years' working experience in the intersection between tech and creativity. She has worked for 10 years at Samsung Group and led the Austrian branch office as Managing Director of Cheil Austria & Switzerland, the in-house creative agency of Samsung. She has won more than 50 international and Austrian innovation and creative awards and currently works as COO at Kobza and the Hungry Eyes - KTHE GmbH, an Austrian independent creative agency. In her \"second life\" she dedicates her free time to serving as Vice President for the nonprofit organization Women of Vienna, the biggest community for women* in Austria with more than 16,500 members, and mentors and advises startups in both Vienna and Seoul."
   social:
     - { name: "facebook", link: "https://www.facebook.com/kaitlyn.chang"}
     - { name: "instagram", link: "https://www.instagram.com/kaitlynchang"}
