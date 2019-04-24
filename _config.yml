@@ -76,6 +76,7 @@ heroButtons:
  # - {link: "https://wtm-vienna-2019.eventbrite.com", text: "Register Now"}
  # - {permalink: "/call/", text: "Call for Speakers"}
  # - {permalink: "/livestream/", text: "Livestream"}
+  - {link: "https://youtu.be/_YztVGcwdAc", text: "2019 Event Video"}
 
 # About Block
 aboutTitle: "About Women Techmakers Vienna"
