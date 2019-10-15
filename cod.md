@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conduct of Conduct
+title: Code of conduct
 permalink: /cod/
 isStaticPost: true
 ---
