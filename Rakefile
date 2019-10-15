@@ -16,3 +16,7 @@ end
 task :jekyll do
   system "jekyll build"
 end
+
+task :server do
+  system "jekyll serve"
+end
