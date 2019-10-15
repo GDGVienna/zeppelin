@@ -1,21 +1,100 @@
 ---
 layout: post
-title: Code of conduct
+title: Conduct of Conduct
 permalink: /cod/
 isStaticPost: true
 ---
 
-All attendees, speakers, sponsors and volunteers at Women Techmakers Vienna are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We rely on your help ensuring a safe and comfortable environment for everybody. 
+Women Techmakers Vienna is dedicated to being open to everyone and making the conference a safe place for all. We do not discriminate based on ethnic background, religion, gender, sexuality, body shape, or disability. We do not tolerate any harassment.
+Actions stronger than a warning will be taken at the discretion of two or more members of the Women Techmakers organizer team.
 
-Women Techmakers Vienna is an event dedicated to providing a **conference experience without harassment** for everyone, regardless of gender, sexual orientation, disability, physical appearance, race or religion. We do not tolerate harassment of conference participants in any form. 
-We kindly ask all participants, sponsors and volunteers to **refrain from inappropriate behaviour.** Examples of inappropriate behaviour which are not tolerated under any circumstance include, but are not limited to: sexual language and imagery, verbal or physical harassment, theft. Any participant exhibiting any of the aforementioned behaviour will be sanctioned or expelled from the event at the discretion of the organisers. 
-Sponsors also must abide to this code of conduct. In particular we ask them not to use sexualized images, activities or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. 
+False reports will be treated harshly. Personal disputes should be handled privately, unless actual harassment occurs.
+
+_Women Techmakers Vienna reserves the right to remove any participant, sponsor or attendee at any time for any reason._
+
+This policy covers all organized events for the Women Techmakers Vienna, including social events.
+
+Purpose
+-------
+
+A primary goal of all the conferences and user groups that refer to this Code of Conduct is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).
+
+This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+
+We invite all those who participate in our events to help us create safe and positive experiences for everyone.
 
 
-Should you encounter harassment or notice someone else being harassed, please **contact the organisers immediately, or, in worse situations, contact the police directly at 112.** Organisers are ready to help in all situations and will handle them with care. 
+Open [Source/Culture/Tech] Citizenship
+--------------------------------------
 
-We expect all participants, sponsors, volunteers to abide by this code of conduct and we look forward to a successful and welcoming event. If you have questions or would like to report incidents of harassment pre- or post-event, please contact us at: [team@womentechmakers.at](mailto:team@womentechmakers.at).
+A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
-_This code of conduct was adapted from [jsist.org/#code-of-conduct](http://jsist.org/#code-of-conduct) and [devfest.at/cod](http://devfest.at/cod/)._
+Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+
+
+Expected Behavior
+-----------------
+
+*	Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+*	Exercise consideration and respect in your speech and actions.
+*	Attempt collaboration before conflict.
+*	Refrain from demeaning, discriminatory, or harassing behavior and speech.
+*	Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+
+
+Unacceptable Behavior
+---------------------
+
+Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+
+Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
+
+
+Consequences of Unacceptable Behavior
+-------------------------------------
+
+Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+
+
+If You Witness or Are Subject to Unacceptable Behavior
+------------------------------------------------------
+
+If you are subject to or witness unacceptable behavior,
+or have any other concerns, please notify a community organizer as soon as
+possible. You can find a list of organizers to contact for each of the
+supporters of this code of conduct at the bottom of this page. Additionally,
+community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+
+_Participants, sponsors, speakers or attendees who are being harassed, intimidated, or are dealing with otherwise improper behaviour are encouraged to report it immediately to an official Women Techmakers organizer team member. Organizer team members are identified by the red highlighted badges._
+
+Alternate methods of reporting issues include:
+
+* email [team@womentechmakers.at](mailto:team@womentechmakers.at)
+* call the Vienna police department at 112
+
+
+Addressing Grievances
+---------------------
+
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the event organizers with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+
+
+Scope
+-----
+
+We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
+
+
+License and attribution
+-----------------------
+
+This is based on the [Berlin Code of Conduct](http://berlincodeofconduct.org/).
+
+Berlin Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. It is based on the [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
