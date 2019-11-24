@@ -190,3 +190,26 @@
     - {name: "github", link: "https://github.com/nikgraf"}
     - {name: "twitter", link: "https://twitter.com/nikgraf"}
     - {name: "facebook", link: "https://www.facebook.com/nik.graf"}
+-
+  id: "cornelia-roider"
+  name: "Cornelia"
+  surname: "Roider"
+  team: true
+  thumbnailUrl: "CorneliaRoider.jpg"
+  social:
+    - {name: "site", link: "https://www.xing.com/profile/Cornelia_Roider"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cornelia-roider-2451a1195/"}
+-
+  id: "elisa-murgia"
+  name: "Elisa"
+  surname: "Murgia"
+  team: true
+  thumbnailUrl: "ElisaMurgia.jpg"
+  social:
+    - {name: "linkedin", link: "https://at.linkedin.com/in/elisa-murgia-b46a7724"}
+-
+  id: "florian-rauch"
+  name: "Florian"
+  surname: "Rauch"
+  team: true
+  thumbnailUrl: "FlorianRauch.jpg"
