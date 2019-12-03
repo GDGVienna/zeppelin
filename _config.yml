@@ -53,6 +53,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/recordings/", text: "Recordings"}
  - {permalink: "/photos/", text: "Photos"}
+ - {link: "https://www.meetup.com/Women-Techmakers-Vienna/", text: "Meetup"}
  - {permalink: "/cod/", text: "Code of Conduct"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
