@@ -53,7 +53,6 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/recordings/", text: "Recordings"}
  - {permalink: "/photos/", text: "Photos"}
- - {link: "https://www.meetup.com/Women-Techmakers-Vienna/", text: "Meetup"}
  - {permalink: "/cod/", text: "Code of Conduct"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -218,6 +217,7 @@ footerBlocks:
    - {link: "https://plus.google.com/+WomentechmakersAt", text: "Google+"}
    - {link: "https://twitter.com/WTMVienna", text: "Twitter"}
    - {link: "https://www.facebook.com/WomenTechmakersVienna", text: "Facebook"}
+   - {link: "https://www.meetup.com/Women-Techmakers-Vienna/", text: "Meetup"}
    # - {permalink: "/feed.xml", icon: "rss"}
 
 # Blog
