@@ -46,9 +46,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/livestream/", text: "Livestream"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {link: "https://speaker.at/wtmvienna-2020/", text: "Call for Speakers"}
- - {permalink: "/schedule/", text: "Program"}
+# - {permalink: "/schedule/", text: "Program"}
  # - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/recordings/", text: "Recordings"}
