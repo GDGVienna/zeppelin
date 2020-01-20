@@ -149,7 +149,7 @@
   surname: "Edem"
   title: "Information Technology"
   thumbnailUrl: "MarcEdem.jpg"
-  team: false
+  team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
