@@ -47,7 +47,7 @@ navigationLinks:
  # - {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/livestream/", text: "Livestream"}
 # - {permalink: "/speakers/", text: "Speakers"}
- - {link: "https://speaker.at/wtmvienna-2020/", text: "Call for Speakers"}
+# - {link: "https://speaker.at/wtmvienna-2020/", text: "Call for Speakers"}
 # - {permalink: "/schedule/", text: "Program"}
  # - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
  - {permalink: "/team/", text: "Team"}
@@ -58,11 +58,11 @@ navigationLinks:
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  # - {link: "https://wtm-vienna-2019.eventbrite.com", text: "Register Now"}
- - {link: "https://speaker.at/wtmvienna-2020/", text: "Call for Speakers"}
+# - {link: "https://speaker.at/wtmvienna-2020/", text: "Call for Speakers"}
  # - {permalink: "/livestream/", text: "Livestream"}
 rightNavigationButtons:
  # - {link: "https://wtm-vienna-2019.eventbrite.com", text: "Register Now"}
- - {link: "https://speaker.at/wtmvienna-2020/", text: "Call for Speakers"}
+# - {link: "https://speaker.at/wtmvienna-2020/", text: "Call for Speakers"}
  # - {permalink: "/livestream/", text: "Livestream"}
 
 # Hero Block
@@ -75,7 +75,7 @@ eventDateISO: "2019-03-09T09:30+01:00"
 # typeoutFallback: "2015"
 heroButtons:
  # - {link: "https://wtm-vienna-2019.eventbrite.com", text: "Register Now"}
- - {link: "https://speaker.at/wtmvienna-2020/", text: "Call for Speakers"}
+# - {link: "https://speaker.at/wtmvienna-2020/", text: "Call for Speakers"}
  # - {permalink: "/livestream/", text: "Livestream"}
 # - {link: "https://youtu.be/_YztVGcwdAc", text: "2019 Event Video"}
 
