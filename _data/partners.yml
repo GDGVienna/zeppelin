@@ -10,20 +10,20 @@
 #    - {name: "Wiener Linien", description: "Wiener Linien", link: "https://www.wienerlinien.at/karriere", imageUrl: "wienerlinien-logo.jpg", width: "220px"}
 #    - {name: "TTTech", description: "TTTech Computertechnik AG", link: "https://www.tttech.com/", imageUrl: "tttech-logo.jpg", width: "220px"}
 #    - {name: "TU Career Center", description: "TU Career Center", link: "https://www.tucareer.com/", imageUrl: "tu-career-center.png", width: "220px"}
--
-  group: "Gold Sponsor"
-  elements:
+#-
+#  group: "Gold Sponsor"
+#  elements:
 #    - {name: "Bosch", description: "Bosch - Technik fürs Leben", link: "http://www.bosch-career.at/", imageUrl: "bosch-logo.jpg", width: "220px"}
 #    - {name: "iqcard", description: "iqcard", link: "https://www.iqcard.at/", imageUrl: "iqcard-logo.svg", width: "220px"}
 #    - {name: "frequentis", description: "Frequentis", link: "https://www.frequentis.com/", imageUrl: "frequentis-logo.jpg"}
 #    - {name: "PwC", description: "PwC Österreich", link: "https://www.pwc.at/", imageUrl: "pwc-logo.png", width: "160px"}
 #    - {name: "AIT", description: "AIT", link: "", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg"}
--
-  group: "Silver Sponsor"
-  elements:
+#-
+#  group: "Silver Sponsor"
+#  elements:
 #    - {name: "Capgemini", description: "Capgemini Group", link: "https://www.capgemini.com/", imageUrl: "capgemini-logo.png", width: "300px"}
 #    - {name: "TheVentury", description: "TheVentury - Progress through Entrepreneurship", link: "https://theventury.com/", imageUrl: "the-ventury.png", width: "160px"}
--
-  group: "With support of"
-  elements:
+#-
+#  group: "With support of"
+#  elements:
 #    - {name: "Helga", description: "Helga", link: "http://www.hallohelga.at/", imageUrl: "helga-logo.png", width: "100px"}
