@@ -92,7 +92,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere - men &amp; women"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "sessions, workshops &amp; discussion"}
- - {count: "10", specialCharacter: "+", info: "speakers", detail: "local professionals"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "professional and first time speakers"}
  # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -135,13 +135,13 @@ venueFeatures: ["What to say", "about the location", "where it is"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "wtmvie19"
+twitterHashTag: "wtmvie2020"
 twitterFeed: "/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Sponsors"
-partnersC4sponsorsButton: "Become a Sponsor"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a Partner"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -230,7 +230,7 @@ showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The core team of Women Techmakers Vienna 2019 consists of enthusiastic volunteers that are trying to make a difference in the world of STEM. The core team has different responsibilities and together with the support of collaborators (also volunteers) and sponsors we are working on making Women Techmakers Vienna 2019 an event where everyone is welcome and we can reach fruitful outcomes together."
+aboutUs: "The core team of Women Techmakers Vienna 2020 consists of enthusiastic volunteers that are trying to make a difference in the world of STEM. The core team has different responsibilities and together with the support of collaborators (also volunteers) and sponsors we are working on making Women Techmakers Vienna 2020 an event where everyone is welcome and we can reach fruitful outcomes together."
 
 #Workshop for kids Block
 kidsWStitel: "Learn Game programming by using Scratch"

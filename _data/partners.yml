@@ -1,19 +1,22 @@
 -
-  group: "General Sponsor"
+  group: "General Partners"
   elements:
-    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "logo-google.png", width: "200px"}
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "logo-google.png", width: "220px"}
+    - {name: "Women of Vienna", description: "Women of Vienna", link: "http://www.womenofvienna.org/", imageUrl: "wov-logo.png", width: "220px"}
 -
-  group: "Platinum Sponsor"
+  group: "Platinum Partners"
   elements:
     - {name: "willhaben", description: "willhaben internet service GmbH & Co KG", link: "https://www.willhaben.at/", imageUrl: "willhaben-logo.png", width: "220px"}
+    - {name: "TU Gender Competence", description: "TU Gender Competence", link: "https://www.tuwien.ac.at/dle/genderkompetenz/", imageUrl: "tu-gender-competence.jpg", width: "220px"}
+    - {name: "AIT", description: "AIT", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg", width: "220px"}
 #    - {name: "EVB", description: "EBV", link: "https://www.avnet.com", imageUrl: "ebv-logo.jpg", width: "260px"}
 #    - {name: "Wiener Linien", description: "Wiener Linien", link: "https://www.wienerlinien.at/karriere", imageUrl: "wienerlinien-logo.jpg", width: "220px"}
 #    - {name: "TTTech", description: "TTTech Computertechnik AG", link: "https://www.tttech.com/", imageUrl: "tttech-logo.jpg", width: "220px"}
 #    - {name: "TU Career Center", description: "TU Career Center", link: "https://www.tucareer.com/", imageUrl: "tu-career-center.png", width: "220px"}
 -
-  group: "Gold Sponsor"
+  group: "Gold Partners"
   elements:
-    - {name: "Cloudflight", description: "Cloudflight - Co-Creating Digital Value", link: "https://www.cloudflight.io/", imageUrl: "cloudflight-logo.png", width: "220px"}
+    - {name: "Cloudflight", description: "Cloudflight - Co-Creating Digital Value", link: "https://www.cloudflight.io/", imageUrl: "cloudflight-logo.png", width: "180px"}
 #    - {name: "Bosch", description: "Bosch - Technik fürs Leben", link: "http://www.bosch-career.at/", imageUrl: "bosch-logo.jpg", width: "220px"}
 #    - {name: "iqcard", description: "iqcard", link: "https://www.iqcard.at/", imageUrl: "iqcard-logo.svg", width: "220px"}
 #    - {name: "frequentis", description: "Frequentis", link: "https://www.frequentis.com/", imageUrl: "frequentis-logo.jpg"}
