@@ -10,9 +10,10 @@
 #    - {name: "Wiener Linien", description: "Wiener Linien", link: "https://www.wienerlinien.at/karriere", imageUrl: "wienerlinien-logo.jpg", width: "220px"}
 #    - {name: "TTTech", description: "TTTech Computertechnik AG", link: "https://www.tttech.com/", imageUrl: "tttech-logo.jpg", width: "220px"}
 #    - {name: "TU Career Center", description: "TU Career Center", link: "https://www.tucareer.com/", imageUrl: "tu-career-center.png", width: "220px"}
-#-
-#  group: "Gold Sponsor"
-#  elements:
+-
+  group: "Gold Sponsor"
+  elements:
+    - {name: "Cloudflight", description: "Cloudflight - Co-Creating Digital Value", link: "https://www.cloudflight.io/", imageUrl: "cloudflight-logo.png", width: "220px"}
 #    - {name: "Bosch", description: "Bosch - Technik fürs Leben", link: "http://www.bosch-career.at/", imageUrl: "bosch-logo.jpg", width: "220px"}
 #    - {name: "iqcard", description: "iqcard", link: "https://www.iqcard.at/", imageUrl: "iqcard-logo.svg", width: "220px"}
 #    - {name: "frequentis", description: "Frequentis", link: "https://www.frequentis.com/", imageUrl: "frequentis-logo.jpg"}
