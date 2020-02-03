@@ -1,4 +1,76 @@
 -
+  id: "the-peculiar-life-of-a-polymath"
+  title: "The peculiar life of a polymath"
+  description: ""
+  subtype: "presentation"
+  youtube: "PdlY8-oOSmk"
+  year: "2019"
+  speakers: ["eva-lettner"]
+  thumbnailUrl: "the-peculiar-life-of-a-polymath.jpg"
+-
+  id: "verification-of-safety-critical-electronics-more-than-just-testing"
+  title: "Verification of safety-critical electronics - More than just testing"
+  description: ""
+  subtype: "presentation"
+  youtube: "iOr3hkcJwK8"
+  year: "2019"
+  speakers: ["katharina-ceesayseitz"]
+  thumbnailUrl: "verification-of-safety-critical-electronics-more-than-just-testing.jpg"
+-
+  id: "public-transportation-a-man-s-world"
+  title: "Public transportation: a man’s world?"
+  description: ""
+  subtype: "presentation"
+  youtube: "W7d5KwyIMFw"
+  year: "2019"
+  speakers: ["sabine-wimmer"]
+  thumbnailUrl: "public-transportation-a-man-s-world.jpg"
+-
+  id: "bias-in-ai"
+  title: "Bias in AI"
+  description: ""
+  subtype: "presentation"
+  youtube: "J_4pLBmB7MY"
+  year: "2019"
+  speakers: ["katrin-strasser"]
+  thumbnailUrl: "bias-in-ai.jpg"
+-
+  id: "from-test-tube-to-data-lake"
+  title: "From Test Tube to Data Lake"
+  description: ""
+  subtype: "presentation"
+  youtube: "VFFU282Fkn8"
+  year: "2019"
+  speakers: ["jillian-augustine"]
+  thumbnailUrl: "from-test-tube-to-data-lake.jpg"
+-
+  id: "how-to-break-the-brotopian-cycle"
+  title: "How to: Break the Brotopian Cycle"
+  description: ""
+  subtype: "presentation"
+  youtube: "eLpAfoZ3DSg"
+  year: "2019"
+  speakers: ["kaitlyn-chang"]
+  thumbnailUrl: "how-to-break-the-brotopian-cycle.jpg"
+-
+  id: "how-mobile-machines-will-become-autonomous"
+  title: "How mobile machines will become autonomous"
+  description: ""
+  subtype: "presentation"
+  youtube: "ZY10Q1caG4o"
+  year: "2019"
+  speakers: ["christiana-seethaler"]
+  thumbnailUrl: "how-mobile-machines-will-become-autonomous.jpg"
+-
+  id: "digital-water-no-water-no-cloud"
+  title: "Digital Water - No Water. No Cloud."
+  description: ""
+  subtype: "presentation"
+  youtube: "gQyl76GMraE"
+  year: "2019"
+  speakers: ["christina-gruber"]
+  thumbnailUrl: "digital-water-no-water-no-cloud.jpg"
+-
   id: "new-frontiers-in-tissue-engineering"
   title: "New frontiers in Tissue Engineering"
   description: ""
