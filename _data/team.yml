@@ -66,6 +66,15 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/philippeffenberger"}
     - {name: "twitter", link: "https://twitter.com/peffenberger"}
 -
+  id: "jose-garcia"
+  name: "Jose"
+  surname: "Garcia"
+  team: true
+  thumbnailUrl: "josegarcia.jpg"
+  social:
+    - {name: "github", link: "https://github.com/joseapintor"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jose-antonio-garcia-pintor"}
+-
   id: "nik-graf"
   name: "Nik"
   surname: "Graf"
