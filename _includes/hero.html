@@ -15,6 +15,7 @@
 <!--            <p><a href="https://twitter.com/search?q=%23REPLACE_WITH_CURRENT_MOTTO" target="_blank">#REPLACE_WITH_CURRENT_MOTTO</a></p>-->
             <p>TU Vienna, Kuppelsaal</p>
             <p><em>14th of March 2020</em></p>
+            <p><strong>Registration opens on 15th February</strong></p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
