@@ -11,7 +11,7 @@
     - {name: "AIT", description: "AIT", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg", width: "220px"}
 #    - {name: "EVB", description: "EBV", link: "https://www.avnet.com", imageUrl: "ebv-logo.jpg", width: "260px"}
 #    - {name: "Wiener Linien", description: "Wiener Linien", link: "https://www.wienerlinien.at/karriere", imageUrl: "wienerlinien-logo.jpg", width: "220px"}
-#    - {name: "TTTech", description: "TTTech Computertechnik AG", link: "https://www.tttech.com/", imageUrl: "tttech-logo.jpg", width: "220px"}
+    - {name: "TTTech", description: "TTTech Computertechnik AG", link: "https://www.tttech.com/", imageUrl: "tttech-logo.jpg", width: "220px"}
 #    - {name: "TU Career Center", description: "TU Career Center", link: "https://www.tucareer.com/", imageUrl: "tu-career-center.png", width: "220px"}
 -
   group: "Gold Partners"
