@@ -3,6 +3,7 @@
   elements:
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "logo-google.png", width: "220px"}
     - {name: "Women of Vienna", description: "Women of Vienna", link: "http://www.womenofvienna.org/", imageUrl: "wov-logo.png", width: "220px"}
+    - {name: "TU I2C", description: "TU Innovation Incubation Center", link: "https://i2c.tuwien.ac.at/", imageUrl: "i2center-logo.jpg", width: "220px"}
 -
   group: "Platinum Partners"
   elements:
