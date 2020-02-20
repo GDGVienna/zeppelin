@@ -14,91 +14,83 @@
   imageUrl: "other/opening.jpg"
 -
   id: 200
-  title: "Chaos meets kids: workshop for junior hackers"
-  place: "Workshop Room"
-  description: "What is a hacker? We talk about hackers, the Chaos Computer Club and hear about the good side of hacking.<br>What services do you use? Together we discover the internet, its services. and the business models. We talk about big data, personalized offers, news and search results. We discuss filter bubbles and what everybody can do to leave them, sometimes.<br>What can you do? We find out what is possible in the settings of different services and apps, We talk about accounts and passwords."
-  subtype: "workshop"
-  speakers: []
-  subtitle: "09:45 - 10:45"
--
-  id: 201
-  title: "Women for Clean Energy and Sustainable Development"
-  place: "Workshop Room"
-  description: "The workshop will present UNIDO as a specialized UN agency, outlining the gender dimensions of clean energy technologies and how UNIDO is promoting gender equality and women’s empowerment through the twin track approach of gender mainstreaming and gender-targeted actions. Participants will receive insight into UNIDO’s operations, projects and tools for gender mainstreaming, and will be invited to discuss initiatives that increase women’s access to and participation in developing and implementing sustainable energy solutions."
-  subtype: workshop
-  speakers: ["giorgia-pasqualetto", "katharina-proestler", "priyanka-teeluck"]
-  subtitle: "11:00 - 12:00"
--
-  id: 202
-  title: "Lets talk career"
+  title: "TU Career Workshop"
   place: "Workshop Room"
   description: "The TU career Workshop is designed to support participants in both career planning (theory and practice), career management, and career strategies and types. The participants will learn about how to set, manage and reach their career goals and objectives.  The TU career experts will also introduce the typical career paths and present what are the strategies for income development."
+  subtype: "workshop"
+  speakers: ["TBA"]
+  subtitle: "10:30 - 12:30"
+-
+  id: 201
+  title: "How to Teach Kids Programming?"
+  place: "Workshop Room"
+  description: "Scientists predict that in a dozen or so years programming will be one of the basic communication skills. We all know the advantages of learning to program - developing logical thinking skills, problem-solving and high value in the labor market are just some of them. All this means that more and more people see the need to teach children programming. But how do you start? What to put special emphasis on and what educational tools to choose? Where to find inspiration? You will find the answers to all these questions during my workshop. We will focus on practice, not on theory so be prepared for great games and riddles you can later use with your kid. Remember, not only kids learn through play!"
   subtype: workshop
-  speakers: ["susanne-leeb", "daniela-haiden-schroll"]
-  subtitle: "14:00 - 16:00"
+  speakers: ["TBA"]
+  subtitle: "14:00 - 17:00?"
 -
   id: 100
-  title: "The peculiar life of a polymath"
+  title: "Keynote"
   place: "Domed Hall"
-  description: "Have you ever looked back and thought: This was never supposed to happen! Sometimes life has its own plans for us and messes up all our carefully prepared next steps. This has happened to me multiple times and has led me from becoming a linguist to a software engineer and many other things along the way. This is a story of learning, growing, not giving up and dealing with all the stuff life throws at you."
+  description: "TBA"
   subtype: presentation
-  speakers: ["eva-lettner"]
+  speakers: ["timea-turdean"]
 -
   id: 101
-  title: "Verification of safety-critical electronics – More than just testing"
+  title: "Career Transition: Find Your Fit and Make the Move"
   place: "Domed Hall"
-  description: "What is inside all these devices that protect us from harm every day? What can we do to increase our trust in them? This talk will provide an introduction into safety-related electronics and one method that reduces risks to people: their verification. When hearing verification, many engineers think of boring testing activities.  On the example of the new CERN radiation monitoring electronics (CROME) we will explore the art of hardware verification and discover its software side. After introducing System-on-Chips and FPGAs, two methods for their verification will be explained in more detail: constrained-random simulation and formal property verification. These were the methods I chose during my Master’s thesis project for the verification of a safety-critical FPGA inside the CROME radiation monitors. Finally, I would like to introduce the technical student programme at CERN, which allowed me to write my Master’s thesis there. I want to encourage students to go abroad, open up their minds and explore the world."
+  description: "Career transition is more common in tech than we think and without a practical goal and a strategic plan in place, it can be an overwhelming experience for many. Some people may think about switching domains forever but the will never make the move due to the fear of failure. That can eventually lead to a mediocre career where verticle or horizontal growth becomes stagnant. While transitioning requires self-discipline and planning but in order to do this effectively and successfully, the power of a supportive professional network, mentoring and sponsorship cannot be undermined. This talk takes a practical approach towards successfully achieving that goal."
   subtype: "presentation"
-  speakers: ["katharina-ceesay-seitz"]
+  speakers: ["huma-hamid"]
 -
   id: 102
-  title: "Public transportation: a man’s world?"
+  title: "Creating more Inclusive Products and Services"
   place: "Domed Hall"
-  description: "Yes, Wiener Linien, like many others in this sector, traditionally tends to be a male-dominated company. Yet, for several years, Vienna’s public transport operator has been self-critically addressing the relative share of female employees in its workforce and has been trying to specifically attract girls and women to embark on technical careers.<br>This strategy relies on apparently minor and obvious issues such as creating an atmosphere at work in which everyone feels comfortable – based on mutual respect, a culture which tolerates errors and face-to-face meetings instead of sending emails. Wiener Linien has trained several employees to become so-called recognition coaches, who accompany managers to meetings and then give them feedback on their communication behaviour.<br>However, the company has also considered how a better work-life balance can be established for underground, tram and bus drivers who work shifts and at weekends. One approach here is based on flexitime models. Driving underground trains on a part-time basis? A pilot project has just been launched to make this option a possibility. <br>Every company wants to have the best employees; Wiener Linien trains these itself. Managers are being called upon to identify high potentials in their departments. A particular focus here is on nominating female employees or, if not, questioning why no female employees have been nominated. These female employees then receive personal support in the form of tailored coaching and mentoring programmes and the like. There are also networking events for managers and female experts which national and international keynote speakers are invited to attend. This is aimed at motivating and encouraging female employees in particular to apply for key existing and future positions.<br>Sabine Wimmer will also be describing her own experiences. What is her day-to-day life at work like in a male-dominated department? And how did she work her way up to being a department head while on part-time parental leave?"
+  description: "We often generate and evaluate product ideas based on what we know, and, in consequence, based on our biases. But every design decision we make can raise or lower barriers to participation in society. If we use our own biases as a starting point, we end up with products designed for people of a certain age, gender, language and physical ability. Inclusive design is a method of designing products, services and experiences that draws on the full spectrum of human diversity."
   subtype: presentation
-  speakers: ["sabine-wimmer"]
+  speakers: ["andra-bria"]
 -
   id: 103
-  title: "(Computer) Forensics and Crime"
+  title: "How We can control Computers with our Thoughts using Brain-Computer Interfacing"
   place: "Domed Hall"
-  description: "Digital forensic science is the process of obtaining, analyzing and using digital evidence in investigations or criminal proceedings. Digital evidence ranges from images of child sexual exploitation to the location of a mobile phone. We look at how evidence is obtained, legislation and regulation, and efforts to address challenges faced by practitioners. A digital investigation is a process where we develop and test hypotheses that answer questions about digital events. This is done using by scientific methods where we develop a hypothesis using evidence that we find and then test the hypothesis by looking for additional evidence that shows the hypothesis is impossible. Digital evidence is a digital object that contains reliable information that supports or refutes our hypothesis. There are some fundamental concepts to grasp about evidence in general and digital evidence in particular. Evidence also exists in a legal domain. There are 193 member states of the United Nations, but worldwide there are many more legal systems. Based on that, the legal coverage in this talk is widely-used general principles. In general terms, there are very few explicit references to the specific laws of any country. The talk is focusing on \"state of the art\" in areas of forensic specialization. The main topics of the talk are cybercrime, encryption, social media, legal and regulatory requirements, challenges and debates, digital evidence and investigations involving networks (social media, mobile, and telecommunications technology)."
+  description: "Mind control seems like a far-fetched idea from science fiction films, but what many people don't realize is that we already possess the technology to control computers with only our thoughts. The field of Brain-Computer Interfacing (BCI) is creating some very exciting possibilities, especially for people who are physically disabled and unable to move and/or communicate. This talk will give you an introduction to the basic concepts of BCI and how our team at the University of Vienna is applying brain wave analysis and machine learning in order for paralyzed patients to control a computer game with only their thoughts."
   subtype: presentation
-  speakers: ["sebyll-ildiko-onbasi"]
+  speakers: ["melanie-balaz"]
 -
   id: 104
-  title: "Bias in AI"
+  title: "Panel Discussion"
   place: "Domed Hall"
-  description: "Artificial Intelligence (AI) is getting more and more involved in our daily life, often without us even noticing or being aware of its presence. It may come hidden in intelligent smartphone cameras, it may influence us while shopping or it may even decide whether we get hired by a company or not.<br>In order for an AI to function as one, it has to be trained on data before it can actually act intelligently. It may behave in odd, unexpected ways, but one has to remember: Maybe the situation is completely new and it simply has not learned the correct behavior yet. Humans have to constantly learn and adapt over their lives, an AI, however, is trained only on a very limited set of data and thus may develop a completely different and biased view.<br>Which reasons are there to cause such bias, what influences it and how can we attempt to reduce the bias? This talk sheds some light on bias in AI and how to overcome it when developing AI solutions."
-  speakers: ["katrin-strasser"]
+  description: ""
+  speakers: ["TBA"]
   subtype: presentation
 -
   id: 105
-  title: "From Test Tube to Data Lake"
+  title: "Superwomen in Engineering"
   place: "Domed Hall"
-  description: "When I tell people where I work and what I studied, the response is always one of surprise. If you were to say that molecular biology research and telecommunications data science have nothing to do with each other, you’d be right… but also wrong. In my talk I will share with you my take on careers and answer some of the career-related questions that are often posed to me on this topic. I will talk about my transition from academia in the life sciences, into the telecommunications industry, and my experiences along the way. I will introduce you to the world of data science at A1 Telekom Austria, how we manage and protect your data, and how we use it to improve the user experience of our customers. Using examples from my current day-to-day work, I will show you how the two worlds are more similar than you might think."
-  speakers: ["jillian-augustine"]
+  description: "Women can be superheros too! Women in STEM are also able to make significant contributions to society and be successful in a male dominant environment. Engineering is about developing technologies in order to make an impact on the daily lives everyone in the world. Furthermore, women in STEM are able to achieve this without losing their femininity."
+  speakers: ["barbara-handler"]
   subtype: presentation
 -
   id: 106
-  title: "How to: Break the Brotopian Cycle"
+  title: "Non-Code Contribution to Open Source: My Story of Imposter Syndrome, Personal Growth and Open Minds."
   place: "Domed Hall"
-  description: "Today, tech startups are heralded everywhere as some of the most forward-thinking, innovative companies in the world. However, gender inequality still remains a surprisingly big problem in tech startups from Silicon Valley, all the way to Vienna, even in this era of #MeToo and overall heightened awareness on the importance of gender equality at the workplace. Why does this problem continue to persist, and what can we do to make things better? Based on research for her dissertation at the WU and TU Entrepreneurship & Innovation MBA Program, Kaitlyn WonJung Chang will present actionable tips to actively break the vicious „Brotopian Cycle“ that countless startups find themselves in."
+  description: "A healthy open source community needs developers and non-developers alike. Really? What is non-code contribution and why should someone want to do that? My personal story will show what got me into devoting my spare time to open source projects, why open source communities are always looking for help and what you could help with if you’re not a programmer (yet) - ie. what is non-code contribution. Last but not least I will explain & show what one can gain from contributing to open source projects and how this empowers us. I plan to shortly introduce what open source is and give some examples of os-projects & why I think that 'open' concepts that derived from the open source idea (like open knowledge, open science, open data, open source tomato seeds and many more) give answers to some big sociopolitical challenges of our time. But the focus of my talk shall be put on my personal experiences with open source and open source communities (like Drupal). Hereby I will show how welcoming and respectful os communities are to newbies. I will share insights I gained, things I learnt and how the community encouraged me to step out of my comfort zone but also provided a safety net. How I could try and learn new things, personally grow and meet interesting people. I will show how my engagement in os until today helps me beat impostor syndrome, how my mindset and leadership style changed and why I created Open Minds, the Austrian Open Source Award. I will explain how all of this led to a new job and resulted in a happy life with a healthy work life balance, enough family time with the baby and a highly appreciated career path where I can learn and grow and am able to try something new and experiment (with the backup of an amazing team ;). What you will learn: 1. what is open source, the open source mindset & values 2. hands-on examples of what you could contribute (non-code) 3. your benefits of getting involved (personal & professional/career) 4. how to find and approach an interesting community"
+  speakers: ["ulrike-strommer"]
   subtype: presentation
-  speakers: ["kaitlyn-wonjung-chang"]
 -
   id: 107
-  title: "How mobile machines will become autonomous. Challenges and opportunities of AI-based systems in industrial vehicles"
+  title: "How AI is Enhancing Journalism"
   place: "Domed Hall"
-  description: "Autonomous mobility is transforming the way we envisage vehicles in all sectors, giving rise to new products, technologies and human machine cooperation.<br>Artificial intelligence based systems will allow to handle the complexity requirements of autonomous working and driving tasks. However, AI based decision processes cannot be validated. Therefore new approaches are necessary to guarantee the dependability of the system in every driving situation and its failsafe behaviour."
+  description: "From war zone reporter bots to social listening tools, artificial intelligence and machine learning practices have crept their way into newsrooms. This talk will explore some of the ways these technologies are used in modern journalism and touch on what’s coming next."
   subtype: presentation
-  speakers: ["christiana-seethaler"]
+  speakers: ["carolyn-stransky"]
 -
   id: 108
-  title: "Digital Water - No Water. No Cloud."
+  title: "Co-Create the Future of Your Profession"
   place: "Domed Hall"
-  description: "Our daily life is based on interactions, ever more often our communication takes place online. As to say the “real” world is slowly transferred into the digital world. But what if the digital is located on this planet and is based on water as much as we humans do? My talk will deal with the manifestations of the digital “Cloud” the software and hardware platforms supporting data centers, physical transmission links, browser-based applications, and so forth. I will put an emphasis on the environmental impact our online activities have and how the link of art and science can help to communicate this complex relationship. The hypothesis is: No Water. No Cloud. This indicates that the only way to stop the ongoing surveillance of our online activities is to cut the water supply of surveillance agencies. It became clear to me that the Cloud is ultimately dependent on water in form of electricity and cooling systems. I started thinking about the abstract, immaterial system of the Cloud and how it becomes part of our environment. All of a sudden, my cloudy imaginations of this mystical data ship floating weightless through cyberspace turned into a body relying – as my own – on water. Since 2015 I collect pieces of the Cloud and its manifestations to indicate the material world of the immaterial Cloud. One of these Clouds is about to form in a village in Upper Austria. This will be the starting point of our journey through time and space powered by Water."
-  subtype: "presentation"
-  speakers: ["christina-gruber"]
+  description: "How an agile mindset empowered me to found a rising UX team. Pushing a new field or profession in the company can be quite tough and sometimes also taxing. Especially as a woman it's sometimes even harder as we might be afraid of taking over a lot of new responsibilities or 'stabbing into a bee's nest'. As UX Designer in a software development company it's sometimes easier to introduce UX at clients than developing this field further in your own company. That is why I want so share some lessons I learned during my journey, which started as a lone UX designer and brought me to lay the foundation for a rising team. An essential component of my path was to overcome the feeling that I'm not prepared for the upcoming challenges and to find a way to convince my colleagues and leaders to trust in me and my plans. People who attend my talk will learn how an agile mindset can help to revolutionize a discipline in the own company, what obstacles may come up and possible ways to tackle them. Everyone shall leave inspired and ready to drive their personal topics forward in their companies."
+  subtype: presentation
+  speakers: ["daniela-hellmann"]
 -
   id: 300
   title: "Partners"
@@ -128,22 +120,22 @@
 -
   id: 904
   title: "Lightning Talks"
-  place: "Room 1"
+  place: "Domed Hall"
   service: true
   language: "en"
   imageUrl: "other/lightning.jpg"
 -
   id: 905
   title: "Closing"
-  place: "Room 1"
+  place: "Domed Hall"
   service: true
   language: "en"
   imageUrl: "other/closing.jpg"
 -
   id: 906
   title: "Afterparty"
-  place: "Lanea"
-  description: "Awesome Afterparty: taking place at Lanea, in walking distance from the conference"
+  place: "TBA"
+  description: "Awesome Afterparty"
   subtype: party
   service: true
   imageUrl: "other/party.png"
