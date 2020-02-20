@@ -27,7 +27,12 @@
 #  group: "Silver Sponsor"
 #  elements:
 #    - {name: "Capgemini", description: "Capgemini Group", link: "https://www.capgemini.com/", imageUrl: "capgemini-logo.png", width: "300px"}
-#    - {name: "TheVentury", description: "TheVentury - Progress through Entrepreneurship", link: "https://theventury.com/", imageUrl: "the-ventury.png", width: "160px"}
+#    - {name: "TheVentury", description: "TheVentury - Progress through Entrepreneurship", link: "https://theventury.com/", imageUrl: "the-ventury.png", width: "160px"}#-
+-
+  group: "Food Partners"
+  elements:
+    - {name: "HAKUMA", description: "HAKUMA Handels GmbH", link: "https://www.hakuma.com/", imageUrl: "hakuma-logo.png", width: "220px"}
+    - {name: "MAKAvA", description: "MAKAvA delighted GmbH", link: "https://makava.at/", imageUrl: "makava-logo.jpg", width: "220px"}
 #-
 #  group: "With support of"
 #  elements:
