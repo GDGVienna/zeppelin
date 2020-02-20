@@ -36,23 +36,23 @@
     -
         startTime: "12:40"
         endTime: "14:00"
-        sessionIds: [902, 0]
+        sessionIds: [902, 201]
     -
         startTime: "14:00"
         endTime: "14:45"
-        sessionIds: [104, 202]
+        sessionIds: [104, 201]
     -
         startTime: "14:45"
         endTime: "15:00"
-        sessionIds: [903, 202]
+        sessionIds: [903, 201]
     -
         startTime: "15:00"
         endTime: "15:30"
-        sessionIds: [105, 202]
+        sessionIds: [105, 201]
     -
         startTime: "15:30"
         endTime: "16:00"
-        sessionIds: [106, 202]
+        sessionIds: [106, 201]
     -
         startTime: "16:00"
         endTime: "16:15"
