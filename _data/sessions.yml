@@ -14,11 +14,11 @@
   imageUrl: "other/opening.jpg"
 -
   id: 200
-  title: "TU Career Workshop"
+  title: "The Voice of Diversity - the Key Success Factor of the Modern Working World?"
   place: "Workshop Room"
-  description: "The TU career Workshop is designed to support participants in both career planning (theory and practice), career management, and career strategies and types. The participants will learn about how to set, manage and reach their career goals and objectives.  The TU career experts will also introduce the typical career paths and present what are the strategies for income development."
+  description: "Diversity - Equality - Inclusion: Diversity in the workplace is more than raising the women´s quota or having employees of different backgrounds. Inclusion has to the be the goal in order to fully grasp the strengths and knowledge that each individual employee has. Do you agree and what does this mean for you specifically? Let´s develop a roadmap for a successful Diversity Management Strategy for a modern working world together! Initially we will give an introduction into the topic (definition, status quo, figures, best practice examples etc.) and then we will work with the participants on the topic, exchange and discuss ideas and experiences and develop possible strategies!"
   subtype: "workshop"
-  speakers: ["TBA"]
+  speakers: ["susanne-leeb"]
   subtitle: "10:30 - 12:30"
 -
   id: 201
@@ -26,7 +26,7 @@
   place: "Workshop Room"
   description: "Scientists predict that in a dozen or so years programming will be one of the basic communication skills. We all know the advantages of learning to program - developing logical thinking skills, problem-solving and high value in the labor market are just some of them. All this means that more and more people see the need to teach children programming. But how do you start? What to put special emphasis on and what educational tools to choose? Where to find inspiration? You will find the answers to all these questions during my workshop. We will focus on practice, not on theory so be prepared for great games and riddles you can later use with your kid. Remember, not only kids learn through play!"
   subtype: workshop
-  speakers: ["TBA"]
+  speakers: ["dominika"]
   subtitle: "14:00 - 16:00"
 -
   id: 100
