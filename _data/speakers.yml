@@ -188,3 +188,42 @@
         name: 'xing',
         link: 'https://www.xing.com/companies/tucareercentergmbh',
       }
+- id: 'daniela-hellmann'
+  name: 'Daniela'
+  surname: 'Hellmann'
+  company: 'Cloudflight'
+  title: 'UI/UX Designer'
+  thumbnailUrl: 'DanielaHellmann.jpg'
+  active: true
+  bio: 'Daniela is a UX enthusiast that loves to share her passion about Usability, Human Computer Interaction, User Experience, and Design. What she really enjoys about being a UX designer is working with various professions and exploring new business fields by "looking behind the scenes". Her goal is to create digital concepts and applications that support their users instead of aggravating them. Currently Daniela is working at Cloudflight (former Catalysts) as UI/UX Designer where she helps to break down and solve complex problems in various teams. Prior to Cloudflight she spent 2 years at the University of Applied Science in St. Pölten in the HCI research group.'
+  social:
+    - {
+        name: 'linkedin',
+        link: 'https://at.linkedin.com/in/daniela-hellmann-0b746b18b',
+      }
+- id: 'huma-hamid'
+  name: 'Huma'
+  surname: 'Hamid'
+  company: 'Cisco'
+  title: 'Technical Product Manager'
+  thumbnailUrl: 'HumaHamid.jpg'
+  active: true
+  bio: 'Huma Hamid is a tech-maker by heart a volunteer by soul, with a passion to build digital products, platforms, teams, and communities. She is currently part of the platform technology group within Learning@Cisco as a technical product manager, and the Cofounder and former President at Pakistani Women in Computing (PWiC), a USA based non-profit organization, and an AnitB.org affiliated global STEM community. During her 15+ years of journey in tech, she has been part of several R&D and engineering groups focused on building digital platforms and products to serve industries like infrastructure and construction engineering, network and communication engineering, digital learning and customer experience. In tech, she has led a curiosity-driven career and wore multiple hats across all the different stages of a software development life cycle. She believes in taking charge of her personal development and growth and providing equal access to learning and growth opportunities for everyone . Huma is also part of several global STEM communities and actively volunteers for causes impacting people and technology.'
+  social:
+    - {
+        name: 'linkedin',
+        link: 'https://www.linkedin.com/in/huma-hamid',
+      }
+- id: 'melanie-balaz'
+  name: 'Melanie'
+  surname: 'Balaz'
+  company: 'Erste Group IT'
+  title: 'Software Developer'
+  thumbnailUrl: 'MelanieBalaz.jpg'
+  active: true
+  bio: 'Melanie Balaz works as Software Developer and studies Informatics at the University of Vienna. She is particularly interested in combining IT and science and is currently involved in an Neuroinformatics research project working with EEG and paralysed patients. She is very passionate about sharing knowledge and getting people excited about the endless possibilities of technology.'
+  social:
+    - {
+      name: 'linkedin',
+      link: 'https://at.linkedin.com/in/melanie-balaz-13ab78132',
+    }
