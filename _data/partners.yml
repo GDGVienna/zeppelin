@@ -33,7 +33,7 @@
   elements:
     - {name: "HAKUMA", description: "HAKUMA Handels GmbH", link: "https://www.hakuma.com/", imageUrl: "hakuma-logo.png", width: "220px"}
     - {name: "MAKAvA", description: "MAKAvA delighted GmbH", link: "https://makava.at/", imageUrl: "makava-logo.jpg", width: "220px"}
-    - {name: "Zeus Soda", description: "Zeus Soda GmbH", link: "https://zeus-soda.com/", imageUrl: "zeus-soda-logo.jpg", width: "220px"}
+    - {name: "Zeus Soda", description: "Zeus Soda GmbH", link: "https://zeus-soda.com/", imageUrl: "zeus-soda-logo.png", width: "220px"}
 #-
 #  group: "With support of"
 #  elements:
