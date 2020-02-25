@@ -24,15 +24,15 @@
     -
         startTime: "11:00"
         endTime: "11:30"
-        sessionIds: [903, 200]
+        sessionIds: [903, 0]
     -
         startTime: "11:30"
         endTime: "12:00"
-        sessionIds: [102, 200]
+        sessionIds: [102, 0]
     -
         startTime: "12:10"
         endTime: "12:40"
-        sessionIds: [103, 200]
+        sessionIds: [103, 0]
     -
         startTime: "12:40"
         endTime: "14:00"
@@ -44,15 +44,15 @@
     -
         startTime: "14:45"
         endTime: "15:00"
-        sessionIds: [903, 201]
+        sessionIds: [903, 0]
     -
         startTime: "15:00"
         endTime: "15:30"
-        sessionIds: [105, 201]
+        sessionIds: [105, 0]
     -
         startTime: "15:30"
         endTime: "16:00"
-        sessionIds: [106, 201]
+        sessionIds: [106, 0]
     -
         startTime: "16:00"
         endTime: "16:15"
