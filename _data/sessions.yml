@@ -32,7 +32,7 @@
   id: 100
   title: "Keynote"
   place: "Domed Hall"
-  description: "TBA"
+  description: ""
   subtype: presentation
   speakers: ["timea-turdean"]
 -
