@@ -22,9 +22,9 @@
   subtitle: "10:30 - 12:30"
 -
   id: 201
-  title: "How to Teach Kids Programming?"
+  title: "Basic Programming for Kids"
   place: "Workshop Room"
-  description: "Scientists predict that in a dozen or so years programming will be one of the basic communication skills. We all know the advantages of learning to program - developing logical thinking skills, problem-solving and high value in the labor market are just some of them. All this means that more and more people see the need to teach children programming. But how do you start? What to put special emphasis on and what educational tools to choose? Where to find inspiration? You will find the answers to all these questions during my workshop. We will focus on practice, not on theory so be prepared for great games and riddles you can later use with your kid. Remember, not only kids learn through play!"
+  description: "The workshop is about basics in programming. Participants will learn what is an algorithm and the most important commands: if/else/when/for. They will also test it in practice 'coding' some tasks for the robot with prepared cards. I did that workshop last year at Greenlight 4 Girls in Cracow and we had a lot of fun together."
   subtype: workshop
   speakers: ["dominika"]
   subtitle: "14:00 - 16:00"
