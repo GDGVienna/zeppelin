@@ -20,7 +20,7 @@
     - {name: "Cloudflight", description: "Cloudflight - Co-Creating Digital Value", link: "https://www.cloudflight.io/", imageUrl: "cloudflight-logo.png", width: "180px"}
 #    - {name: "Bosch", description: "Bosch - Technik fürs Leben", link: "http://www.bosch-career.at/", imageUrl: "bosch-logo.jpg", width: "220px"}
 #    - {name: "iqcard", description: "iqcard", link: "https://www.iqcard.at/", imageUrl: "iqcard-logo.svg", width: "220px"}
-#    - {name: "frequentis", description: "Frequentis", link: "https://www.frequentis.com/", imageUrl: "frequentis-logo.jpg"}
+    - {name: "Frequentis", description: "Frequentis AG", link: "https://www.frequentis.com/", imageUrl: "frequentis-logo.jpg"}
 #    - {name: "PwC", description: "PwC Österreich", link: "https://www.pwc.at/", imageUrl: "pwc-logo.png", width: "160px"}
 #    - {name: "AIT", description: "AIT", link: "", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg"}
 #-
