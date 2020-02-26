@@ -24,7 +24,7 @@
   id: 201
   title: "Basic Programming for Kids (8-12 years)"
   place: "Workshop Room"
-  description: "The workshop is about basics in programming. Participants will learn what is an algorithm and the most important commands: if/else/when/for. They will also test it in practice 'coding' some tasks for the robot with prepared cards. I did that workshop last year at Greenlight 4 Girls in Cracow and we had a lot of fun together."
+  description: "The workshop is about basics in programming. Participants will learn what is an algorithm and the most important commands: if/else/when/for. They will also test it in practice 'coding' some tasks for the robot with prepared cards."
   subtype: workshop
   speakers: ["dominika"]
   subtitle: "14:00 - 16:00"
