@@ -240,3 +240,45 @@
       name: 'linkedin',
       link: 'https://www.linkedin.com/in/timeaturdean',
     }
+- id: 'andra-bria'
+  name: 'Andra'
+  surname: 'Bria'
+  company: ''
+  title: ''
+  thumbnailUrl: 'AndraBria.jpg'
+  active: true
+  bio: 'My approach to problem-solving is social science meets technology meets creative culture. I use it from advising early stage startups on how to launch their business and optimise their product to top brands on how to communicate and innovate. I also use it for my own entrepreneurial endeavours.'
+- id: 'barbara-herndler'
+  name: 'Barbara'
+  surname: 'Herndler'
+  company: ''
+  title: ''
+  thumbnailUrl: ''
+  active: true
+  bio: 'I am a female engineer who has been working in the engineering sector since 2011. I originally come from South Africa, where I started my career as an Engineer in Training (EIT) when working at a power station (generation). I then moved into the electrical distribution environment where I was a performance enhancement engineer. In this role I was responsible for improving the performance of the electricity distribution networks (eg, fault finding, analysis and problem solving). This included conducting various line inspections and cable replacement. My work also included finding solutions to ensure that large birds (vultures, eagles etc) are not harmed by electrical apparatus. I then moved to Austria, where I began working within a research environment. In this role I have worked on EU projects which investigates new smart grid technologies. I have a good perception of the differences between first world and third world technologies within the electrical engineering sector. I have worked in a male dominant environment and have presented a presentation where I have shown that one is able to be a successful women in engineering, without the need to lose ones femininity.'
+- id: 'carolyn-stransky'
+  name: 'Carolyn'
+  surname: 'Stransky'
+  company: 'Meeshkan'
+  title: 'Frontend Developer'
+  thumbnailUrl: 'CarolynStransky.jpg'
+  active: true
+  bio: "Carolyn (she/her) is a frontend developer and former journalist based in Berlin, Germany. She's currently working at Meeshkan, a machine learning startup based in Helsinki. Out of the office, she’s a Mozilla Tech Speaker and organizer of the BerlinJS and QueerJS meetups. You’ll usually find her taking selfies in the nearest restroom mirror."
+  social:
+    - {
+      name: 'linkedin',
+      link: 'https://de.linkedin.com/in/carolstran',
+    }
+- id: 'ulrike-strommer'
+  name: 'Ulrike'
+  surname: 'Strommer'
+  company: 'Cloudflight'
+  title: 'Requirements Engineer/Product Owner and Scrum Master'
+  thumbnailUrl: 'UlrikeStrommer.jpg'
+  active: true
+  bio: 'Ulrike joined her first open source project 7 years ago and quickly became involved, currently as Vice Chairman of Drupal Austria. In 2017 she co-founded Open Minds - the Austrian Open Source Award & Open Source Ball [an event with more than 400 participants to highlight and celebrate Austrian open source heroes and heroines]. In her professional life she is working as a Requirements Engineer/Product Owner and Scrum Master at Catalysts/Cloudflight. But the latest of her projects seems to be the most important one: Matilda, born in September 2018.'
+  social:
+    - {
+      name: 'linkedin',
+      link: 'https://at.linkedin.com/in/ulrike-strommer-a05a3b2',
+    }
