@@ -6,7 +6,7 @@
     - {name: "Women in AI Austria", description: "Women in AI Austria", link: "https://www.womeninai.co/", imageUrl: "women-in-ai-austria-logo.png", width: "220px"}
     - {name: "TU I2C", description: "TU Innovation Incubation Center", link: "https://i2c.tuwien.ac.at/", imageUrl: "i2center-logo.jpg", width: "220px"}
     - {name: "Vienna Data Science Group", description: "Vienna Data Science Group", link: "https://viennadatasciencegroup.at/", imageUrl: "vienna-data-science-group-logo.png", width: "220px"}
-    - {name: "Women in Data Science Vienna", description: "Women in Data Science Vienna", link: "#", imageUrl: "wids-vienna-logo.png", width: "220px"}
+    - {name: "Women in Data Science Vienna", description: "Women in Data Science Vienna", link: "https://www.vdsg.at/widsvienna/", imageUrl: "wids-vienna-logo.png", width: "220px"}
 -
   group: "Platinum Partners"
   elements:
