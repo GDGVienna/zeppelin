@@ -20,11 +20,11 @@
     -
         startTime: "10:30"
         endTime: "11:00"
-        sessionIds: [101, 200]
+        sessionIds: [101, 0]
     -
         startTime: "11:00"
         endTime: "11:30"
-        sessionIds: [903, 0]
+        sessionIds: [903, 200]
     -
         startTime: "11:30"
         endTime: "12:00"
