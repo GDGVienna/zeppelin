@@ -1,68 +1,78 @@
 <!-- Begin Hero Section -->
-<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
-    {% include navigation.html %}
-    <div class="content-wrapper">
+<section id="top-section-hero" class="top-section-hero top-section image-section"
+         style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
+  {% include navigation.html %}
+  <div class="content-wrapper">
     <div class="jumbotron">
-        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-         <div class="row text-center">
+      <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+        <div class="row text-center">
           <div class="col-lg-3 col-md-2 col-sm-2">
-            <img src="/img/wtm-logo.png" class="center-block image-responsive" style="padding-top:10px; padding-left: 10px;">
+            <img src="/img/wtm-logo.png" class="center-block image-responsive"
+                 style="padding-top:10px; padding-left: 10px;">
           </div>
           <div class="col-lg-8 col-md-10 col-sm-10">
-            {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
-            <!-- <p>{{ site.heroSubtitle }}</p> -->
-<!--            <p><a href="https://twitter.com/search?q=%23REPLACE_WITH_CURRENT_MOTTO" target="_blank">#REPLACE_WITH_CURRENT_MOTTO</a></p>-->
-<!--            <p>TU Vienna, Kuppelsaal</p>-->
-<!--            <p><em>14th of March 2020</em></p>-->
-            <p style="font-size: 18px">
-                The WTMVIE team has decided to postpone the conference to sometime at the <strong>end of August beginning of September</strong>.
-<!--                <a role="button"-->
-<!--                   class="btn btn-primary waves-effect waves-button waves-float"-->
-<!--                   href="https://www.eventbrite.at/e/women-techmakers-vienna-2020-registration-96499343133">-->
-<!--                    Register-->
-<!--                </a>-->
-            </p>
-            {% for button in site.heroButtons %}
-            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            {% endfor %}
-            {% comment %}
-            <div id="clockdiv">
-              <div>
-                <span class="days"></span>
-                <div class="smalltext">Days</div>
+            {% assign heroText = site.heroTitle | split:"
+            <typeout>" %}
+              <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span
+                  class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+              <!-- <p>{{ site.heroSubtitle }}</p> -->
+              <!--            <p><a href="https://twitter.com/search?q=%23REPLACE_WITH_CURRENT_MOTTO" target="_blank">#REPLACE_WITH_CURRENT_MOTTO</a></p>-->
+              <!--            <p>TU Vienna, Kuppelsaal</p>-->
+              <!--            <p><em>14th of March 2020</em></p>-->
+              <p style="font-size: 18px">
+                The WTMVIE team has decided to postpone the conference to sometime at the <strong>end of
+                August beginning of September</strong>.
+                <!--                <a role="button"-->
+                <!--                   class="btn btn-primary waves-effect waves-button waves-float"-->
+                <!--                   href="https://www.eventbrite.at/e/women-techmakers-vienna-2020-registration-96499343133">-->
+                <!--                    Register-->
+                <!--                </a>-->
+              </p>
+              {% for button in site.heroButtons %}
+              <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}"
+                 class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if
+                 button.link !=null %}target="_blank" {% endif %}>{{ button.text }}</a>
+              {% endfor %}
+              {% comment %}
+              <div id="clockdiv">
+                <div>
+                  <span class="days"></span>
+                  <div class="smalltext">Days</div>
+                </div>
+                <div>
+                  <span class="hours"></span>
+                  <div class="smalltext">Hours</div>
+                </div>
+                <div>
+                  <span class="minutes"></span>
+                  <div class="smalltext">Minutes</div>
+                </div>
+                <div>
+                  <span class="seconds"></span>
+                  <div class="smalltext">Seconds</div>
+                </div>
               </div>
-              <div>
-                <span class="hours"></span>
-                <div class="smalltext">Hours</div>
-              </div>
-              <div>
-                <span class="minutes"></span>
-                <div class="smalltext">Minutes</div>
-              </div>
-              <div>
-                <span class="seconds"></span>
-                <div class="smalltext">Seconds</div>
-              </div>
-            </div>
-            <a target='_blank' href='https://play.google.com/store/apps/details?id=at.wtmvienna.app&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img style='width:180px;' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
-            {% endcomment %}
+              <a target='_blank'
+                 href='https://play.google.com/store/apps/details?id=at.wtmvienna.app&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img
+                  style='width:180px;' alt='Get it on Google Play'
+                  src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+              {% endcomment %}
           </div>
-         </div>
-            <div class="row event-video">
-                <p>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_YztVGcwdAc" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
-                </p>
-            </div>
         </div>
+        <div class="row event-video">
+          <p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/_YztVGcwdAc" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+          </p>
+        </div>
+      </div>
     </div>
     <a href="#about" class="explore">
-        <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
-            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
-        </svg>
+      <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
+        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
+      </svg>
     </a>
-    </div>
+  </div>
 </section>
 <!-- End Hero Section -->
