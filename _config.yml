@@ -51,8 +51,8 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/recordings/", text: "Recordings"}
- - {permalink: "/photos/", text: "Photos"}
+# - {permalink: "/recordings/", text: "Recordings"}
+ - {permalink: "/photos/", text: "Photos 2018"}
  - {permalink: "/cod/", text: "Code of Conduct"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
