@@ -28,6 +28,14 @@
               <!--                    Register-->
               <!--                </a>-->
             </p>
+            <br/>
+            <p style="font-size: 18px">
+              If you want to register for a lightning talk you can do that by filling out the google form
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfC6Pf3aC51kZ6gdLq2h1UTcQh_Ugsj-DH84xPjc-K1jmXr2g/viewform"
+                 target="_blank">
+                here
+              </a>
+            </p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}"
                class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if
