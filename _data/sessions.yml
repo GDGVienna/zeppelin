@@ -119,24 +119,37 @@
   imageUrl: "other/coffeebreak.jpg"
 -
   id: 904
+  title: "Break"
+  place: "Hall"
+  service: true
+  imageUrl: "other/coffeebreak.jpg"
+-
+  id: 905
   title: "Lightning Talks"
   place: "Domed Hall"
   service: true
   language: "en"
   imageUrl: "other/lightning.jpg"
 -
-  id: 905
+  id: 906
   title: "Closing"
   place: "Domed Hall"
   service: true
   language: "en"
   imageUrl: "other/closing.jpg"
 -
-  id: 906
+  id: 907
   title: "Afterparty"
   place: "TBA"
   description: "Awesome Afterparty"
   subtype: party
   service: true
   imageUrl: "other/party.png"
+-
+  id: 908
+  title: "Breakfast"
+  place: "TBA"
+  description: "Online Breakfast"
+  service: true
+  imageUrl: "other/coffeebreak.png"
 
