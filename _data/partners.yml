@@ -8,6 +8,7 @@
     - {name: "Vienna Data Science Group", description: "Vienna Data Science Group", link: "https://viennadatasciencegroup.at/", imageUrl: "vienna-data-science-group-logo.png", width: "220px"}
     - {name: "Women in Data Science Vienna", description: "Women in Data Science Vienna", link: "https://www.vdsg.at/widsvienna/", imageUrl: "wids-vienna-logo.png", width: "220px"}
     - {name: "WomenTech", description: "WomenTech LLC", link: "http://www.womentech.net/", imageUrl: "women-tech-network-logo.png", width: "220px"}
+    - {name: "TU Career Center", description: "TU Career Center", link: "https://www.tucareer.com/", imageUrl: "tu-career-center.png", width: "220px"}
 -
   group: "Platinum Partners"
   elements:
