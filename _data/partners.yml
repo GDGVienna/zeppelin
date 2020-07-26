@@ -27,7 +27,7 @@
 #    - {name: "iqcard", description: "iqcard", link: "https://www.iqcard.at/", imageUrl: "iqcard-logo.svg", width: "220px"}
 #    - {name: "Frequentis", description: "Frequentis AG", link: "https://www.frequentis.com/", imageUrl: "frequentis-logo.jpg", width: "180px"}
 #    - {name: "ÖBB", description: "ÖBB - Österreichische Bundesbahnen", link: "https://www.oebb.at/", imageUrl: "oebb-logo.png", width: "180px"}
-#    - {name: "AIT", description: "AIT", link: "", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg"}
+    - {name: "AIT", description: "AIT", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg"}
 #-
 #  group: "Silver Sponsor"
 #  elements:
