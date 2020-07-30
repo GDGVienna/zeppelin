@@ -2,7 +2,7 @@
   group: "Platinum Partners"
   elements:
     - {name: "willhaben", description: "willhaben internet service GmbH & Co KG", link: "https://jobsbei.willhaben.at/", imageUrl: "willhaben-logo.png", width: "220px"}
-    - {name: "TU Gender Competence", description: "TU Gender Competence", link: "https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/", imageUrl: "tu-gender-competence.jpg", width: "220px"}
+    - {name: "AIT", description: "AIT", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg"}
 #    - {name: "AIT", description: "AIT", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg", width: "220px"}
 #    - {name: "EVB", description: "EBV", link: "https://www.avnet.com", imageUrl: "ebv-logo.jpg", width: "260px"}
 #    - {name: "Wiener Linien", description: "Wiener Linien", link: "https://www.wienerlinien.at/karriere", imageUrl: "wienerlinien-logo.jpg", width: "220px"}
@@ -16,7 +16,6 @@
 #    - {name: "iqcard", description: "iqcard", link: "https://www.iqcard.at/", imageUrl: "iqcard-logo.svg", width: "220px"}
 #    - {name: "Frequentis", description: "Frequentis AG", link: "https://www.frequentis.com/", imageUrl: "frequentis-logo.jpg", width: "180px"}
 #    - {name: "ÖBB", description: "ÖBB - Österreichische Bundesbahnen", link: "https://www.oebb.at/", imageUrl: "oebb-logo.png", width: "180px"}
-    - {name: "AIT", description: "AIT", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg"}
 #-
 #  group: "Silver Sponsor"
 #  elements:
@@ -35,6 +34,7 @@
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "logo-google.png", width: "220px"}
     - {name: "Women of Vienna", description: "Women of Vienna", link: "http://www.womenofvienna.org/", imageUrl: "wov-logo.png", width: "220px"}
     - {name: "Women in AI Austria", description: "Women in AI Austria", link: "https://www.womeninai.co/", imageUrl: "women-in-ai-austria-logo.png", width: "220px"}
+    - {name: "TU Gender Competence", description: "TU Gender Competence", link: "https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/", imageUrl: "tu-gender-competence.jpg", width: "220px"}
     - {name: "TU I2C", description: "TU Innovation Incubation Center", link: "https://i2c.tuwien.ac.at/", imageUrl: "i2center-logo.jpg", width: "220px"}
     - {name: "Vienna Data Science Group", description: "Vienna Data Science Group", link: "https://viennadatasciencegroup.at/", imageUrl: "vienna-data-science-group-logo.png", width: "220px"}
     - {name: "Women in Data Science Vienna", description: "Women in Data Science Vienna", link: "https://www.vdsg.at/widsvienna/", imageUrl: "wids-vienna-logo.png", width: "220px"}
