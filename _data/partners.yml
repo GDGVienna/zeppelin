@@ -2,7 +2,7 @@
   group: "Platinum Partners"
   elements:
     - {name: "willhaben", description: "willhaben internet service GmbH & Co KG", link: "https://jobsbei.willhaben.at/", imageUrl: "willhaben-logo.png", width: "220px"}
-    - {name: "AIT", description: "AIT", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg"}
+    - {name: "AIT", description: "AIT", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg", width: "220px"}
 #    - {name: "AIT", description: "AIT", link: "https://www.ait.ac.at/en/", imageUrl: "ait-logo.jpg", width: "220px"}
 #    - {name: "EVB", description: "EBV", link: "https://www.avnet.com", imageUrl: "ebv-logo.jpg", width: "260px"}
 #    - {name: "Wiener Linien", description: "Wiener Linien", link: "https://www.wienerlinien.at/karriere", imageUrl: "wienerlinien-logo.jpg", width: "220px"}
