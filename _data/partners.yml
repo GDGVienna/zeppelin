@@ -44,6 +44,7 @@
     - {name: "Women in Mobility", description: "Women in Mobility", link: "https://www.womeninmobility.de/wien", imageUrl: "wim-logo.png", width: "220px"}
     - {name: "WeDO5", description: "WeDO5", link: "http://wedo5.io/", imageUrl: "wedo5-logo.png", width: "220px"}
     - {name: "FEMtech", description: "FEMtech", link: "https://www.femtech.at/", imageUrl: "femtech-logo.png", width: "400px"}
+    - {name: "Female Founders", description: "Female Founders", link: "https://www.femalefounders.global/", imageUrl: "femalefounders-logo.png", width: "300px"}
 #  group: "With support of"
 #  elements:
 #    - {name: "Helga", description: "Helga", link: "http://www.hallohelga.at/", imageUrl: "helga-logo.png", width: "100px"}
