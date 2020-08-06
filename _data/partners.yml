@@ -45,6 +45,9 @@
     - {name: "WeDO5", description: "WeDO5", link: "http://wedo5.io/", imageUrl: "wedo5-logo.png", width: "220px"}
     - {name: "FEMtech", description: "FEMtech", link: "https://www.femtech.at/", imageUrl: "femtech-logo.png", width: "400px"}
     - {name: "Female Founders", description: "Female Founders", link: "https://www.femalefounders.global/", imageUrl: "femalefounders-logo.png", width: "300px"}
+    - {name: "#TheNewITGirls", description: "#TheNewITGirls", link: "https://www.thenewitgirls.com/", imageUrl: "the-new-it-girls-logo.png", width: "200px"}
+    - {name: "BLUE&MINT", description: "BLUE&MINT", link: "https://www.facebook.com/groups/BLUEandMINT/", imageUrl: "blue-and-mint-logo.png", width: "200px"}
+    - {name: "Herizon", description: "Herizon", link: "https://www.herizoncollective.com/", imageUrl: "herizon-logo.png", width: "200px"}
 #  group: "With support of"
 #  elements:
 #    - {name: "Helga", description: "Helga", link: "http://www.hallohelga.at/", imageUrl: "helga-logo.png", width: "100px"}
