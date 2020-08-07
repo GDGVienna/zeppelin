@@ -1,6 +1,7 @@
 -
   date: "2020-08-07"
   dateReadable: "7th of August 2020 (times in CEST)"
+  timezoneLink: "https://everytimezone.com/s/a8139d15"
   tracks:
     - {title: "Online", color: "#90be4e"}
 #    - {title: "Kuppel Seminarraum", color: "#03a9f4"}
@@ -44,6 +45,7 @@
 -
   date: "2020-08-08"
   dateReadable: "8th of August 2020"
+  timezoneLink: "https://everytimezone.com/s/48284f15"
   tracks:
     - {title: "Online", color: "#90be4e"}
   #    - {title: "Kuppel Seminarraum", color: "#03a9f4"}

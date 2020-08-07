@@ -6,7 +6,7 @@
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <h6 class="schedule-table-heading">
                 To see when the event will start you can check
-                <a href="https://everytimezone.com/s/a8139d15" target="_blank">here</a>
+                <a href="{{ day.timezoneLink }}" target="_blank">here</a>
             </h6>
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label">Day {{ forloop.index }}</div>
