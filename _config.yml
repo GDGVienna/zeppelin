@@ -74,7 +74,8 @@ eventDateISO: "2019-03-09T09:30+01:00"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
- # - {link: "https://wtm-vienna-2019.eventbrite.com", text: "Register Now"}
+  - {link: "https://www.youtube.com/embed/bKgzgo5Iq5s", text: "Watch day 1"}
+  - {link: "https://www.youtube.com/embed/n6YOhTDHtuk", text: "Watch day 2"}
 # - {link: "https://speaker.at/wtmvienna-2020/", text: "Call for Speakers"}
  # - {permalink: "/livestream/", text: "Livestream"}
 # - {link: "https://youtu.be/_YztVGcwdAc", text: "2019 Event Video"}
