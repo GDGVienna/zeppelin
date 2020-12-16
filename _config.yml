@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "Women Techmakers Vienna"
 email: "team@womentechmakers.at"
@@ -20,6 +19,22 @@ googleAnalyticsTrackingId: "UA-21611117-7"
 googleAnalyticsSiteUrl: "womentechmakers.at"
 mapsApiKey: AIzaSyDdSs0a4BfmcelrPHBsNHU4zX0ultCVQzw
 siteVerification: ""
+
+# Podcast
+podcast:
+  title: Gender Equality Over Coffee
+  description: Let's talk intersectional gender equality from the perspective of organizations and individuals that strive for a more inclusive world.
+  url: /podcast.xml
+  author: Women Techmakers Vienna
+  email: wtmvie@gmail.com
+  logo: /img/podcast/logo.JPG
+  language: en
+  category: Business
+  subcategory: Non-Profit
+  type: episodic
+  explicit: false
+  complete: 'no'
+  block: 'no'
 
 # Organizer Info
 organizerName: "GDG Vienna"
