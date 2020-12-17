@@ -36,10 +36,6 @@ podcast:
   complete: 'no'
   block: 'no'
 
-collections:
-  podcast:
-    output: true
-
 # Organizer Info
 organizerName: "GDG Vienna"
 organizerAlternateName: "Google Developer Group Vienna"
@@ -346,5 +342,7 @@ hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
 
 collections:
+  podcast_episodes:
+    output: true
   strategy:
     output: true
