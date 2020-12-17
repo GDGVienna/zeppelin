@@ -1,8 +1,7 @@
 ---
 layout: podcast
-title: Intro
+title: Introduction - The what where and why of Gender Equality over Coffee
 author: Women Techmakers Vienna
-season: 0
 episode: 0
 episodeType: full
 explicit: false
@@ -10,5 +9,6 @@ audio: https://sample.net/audio.opus
 length: 3927
 ---
 
-Ok Wow HERE WE GO
+## Introduction
 
+- Hey Ra
