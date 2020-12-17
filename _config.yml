@@ -36,6 +36,10 @@ podcast:
   complete: 'no'
   block: 'no'
 
+collections:
+  podcast:
+    output: true
+
 # Organizer Info
 organizerName: "GDG Vienna"
 organizerAlternateName: "Google Developer Group Vienna"
