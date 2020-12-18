@@ -1,8 +1,17 @@
 ---
 layout: post
-title: Podcast
+title: Gender Equality over Coffee
+image: ../podcast/logo.JPG
 permalink: /podcast/
-isStaticPost: false
 ---
 
+<h2>We're on <a href="https://twitter.com/GenderCoffee">Twitter</a>!</h2>
+
+{% for episode in site.podcast_episodes %}
+  <h3 class="h2">
+    <a href="{{ episode.url | prepend: site.baseurl }}" class="title">
+      {{ episode.title }}
+  </h3>
+  <p>{{ episode.date | date: site.date_format }}</p>
+{% endfor %}
 
