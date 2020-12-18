@@ -10,6 +10,10 @@ explicit: false
 audio: https://ia601404.us.archive.org/11/items/episode0_202012/episode0.mp3
 ---
 
-## Introduction
+# Transcript
 
-- Hey Ra
+- **TIMEA**: Hey Ramón!
+- **RAMÓN**: Hey Timea!
+- **TIMEA**: Let's talk gender equality.
+- **RAMÓN**: I love the idea. Lemme just grab get my coffee, I hope you've got yours, too!
+- **TIMEA**: Yep, right here.

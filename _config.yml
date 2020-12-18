@@ -69,6 +69,7 @@ navigationLinks:
 # - {permalink: "/recordings/", text: "Recordings"}
  - {permalink: "/photos/", text: "Photos 2018"}
  - {permalink: "/cod/", text: "Code of Conduct"}
+ - {permalink: "/podcast/", text: "Podcast"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
