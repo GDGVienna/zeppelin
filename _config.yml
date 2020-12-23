@@ -2,12 +2,12 @@
 plugins:
 - jekyll-sitemap
 safe: true
+date_format: "%b %-d, %Y"
 
 # Build Settings
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
-
 
 # Site Settings
 title: "Women Techmakers Vienna"
@@ -20,6 +20,22 @@ googleAnalyticsTrackingId: "UA-21611117-7"
 googleAnalyticsSiteUrl: "womentechmakers.at"
 mapsApiKey: AIzaSyDdSs0a4BfmcelrPHBsNHU4zX0ultCVQzw
 siteVerification: ""
+
+# Podcast
+podcast:
+  title: Gender Equality Over Coffee
+  description: Let's talk intersectional gender equality from the perspective of organizations and individuals that strive for a more inclusive world.
+  url: /podcast.xml
+  author: Women Techmakers Vienna
+  email: wtmvie@gmail.com
+  logo: /img/podcast/logo.JPG
+  language: en
+  category: Business
+  subcategory: Non-Profit
+  type: episodic
+  explicit: false
+  complete: 'no'
+  block: 'no'
 
 # Organizer Info
 organizerName: "GDG Vienna"
@@ -54,6 +70,7 @@ navigationLinks:
 # - {permalink: "/recordings/", text: "Recordings"}
  - {permalink: "/photos/", text: "Photos 2018"}
  - {permalink: "/cod/", text: "Code of Conduct"}
+ - {permalink: "/podcast/", text: "Podcast"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -327,5 +344,7 @@ hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
 
 collections:
+  podcast_episodes:
+    output: true
   strategy:
     output: true
