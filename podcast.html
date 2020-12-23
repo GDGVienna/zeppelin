@@ -11,7 +11,7 @@ permalink: /podcast/
 
 {% for episode in site.podcast_episodes %}
   <h3 class="h2">
-    <a href="{{ episode.url | prepend: site.baseurl }}" class="title">
+    <a href="{{ episode.url | prepend: site.baseurl }}.html" class="title">
       {{ episode.title }}
   </h3>
   <p>{{ episode.date | date: site.date_format }}</p>
