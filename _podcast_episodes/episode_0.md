@@ -7,7 +7,7 @@ image: ../podcast/logo.JPG
 episode: 0
 episodeType: full
 explicit: false
-duration: 394
+length: 394
 audio: https://ia601404.us.archive.org/11/items/episode0_202012/episode0.mp3
 ---
 
