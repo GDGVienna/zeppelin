@@ -8,10 +8,14 @@ episode: 0
 episodeType: full
 explicit: false
 length: 394
+date: 2020-12-29
 audio: https://ia601404.us.archive.org/11/items/episode0_202012/episode0.mp3
 ---
 
 ## Show notes
+
+Watch us on YouTube:
+https://www.youtube.com/watch?v=I2CUgQ37Vkc
 
 Here we are! Timea and Ramón go over their feelings of embarking on a new
 podcast journey, what they hope to learn and where this experience will take
