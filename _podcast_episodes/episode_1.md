@@ -117,292 +117,271 @@ conference I notice that if  they don't have a code of conduct I'll find "hmm
 I should really ask them why they don't have a code of conduct". There's a blog
 post by Ashe Dryden that I will post in the show notes about why it's important
 to have a code of conduct for you as a speaker as an attendee and even as an
-organizer to feel safe. But that's enough of my monologue I'm curious Timea
-what's the history of women techmakers and the code of conduct if
+organizer to feel safe. But that's enough of my monologue. I'm curious Timea,
+what's the history of Women Techmakers and the code of conduct if
 that's not putting you on the spot
-- then i don't know yeah um
-we've we've been working on it several times so i think this is like the third
-fourth iteration that we have on our website the last time actually pilar um i
-think worked on it maybe together with you
-- is it uh i i think two years ago i
-adapted the berlin code of conduct yeah that's the one i have yes so um i i
-can't say that i personally was much involved in the topic um but you and pilar
+- **TIMEA**: I know, yeah,
+we've been working on it several times so I think this is like the third or
+fourth iteration that we have on our website. The last time actually Pilar I
+think worked on it maybe together with you.
+- **RAMÓN**: Is it? I think two years ago I
+adapted the Berlin code of conduct, yeah that's the one.
+- **TIMEA**: Yes, so I
+can't say that I personally was much involved in the topic, but you and Pilar
 had a very good point especially from your experiences from other conferences
-that this is something that should be very important and not taken for granted
-so i remember as the fact that yes we changed it we improved it and then we had
+that this is something that should be very important and not taken for granted.
+So I remember as the fact that, yes, we changed it we improved it and then we had
 a dedicated space always in the beginning of the conference and also on our
-chat platforms to flash that there's a code of contact contact if something is
-going wrong then you can um talk to xyz at the conference so i think in the
-past two years that became for us uh must uh part of the best practice because
-you know we want to build an inclusive conference and atmosphere where
-everybody's safe and i think that's just one big step that needs to happen for
+chat platforms to flash that there's a code of conduct contact if something is
+going wrong then you can talk to XYZ at the conference so I think in the
+past two years that became for us a must, part of the best practices because
+we want to build an inclusive conference and atmosphere where
+everybody's safe, and I think that's just one big step that needs to happen for
 us to be taken seriously
-- absolutely i think i think i think the
-the big sticking point of code of conduct is that of enforceability right
-because one thing is to just have a copy-paste code of conduct and say we're
-done here and then when an incident actually happens you can't you don't know
-how to act on it so because it's not set in crystal terms what happens if a
-code of conduct breach happens it takes place so it i i've met a lot of folks
-uh in my journey who or a few conferences that say something like but we're all
-adults we don't need a code of conduct it'll be fine we'll figure it out and a
-lot of the times those are the events and those are the people to whom with
-whom these let's say discrep these transgressions take place you know
-- beyond conferences i
+- **RAMÓN**: Absolutely. I think the
+the big sticking point of the code of conduct is that of enforceability, right?
+Because one thing is to just have a copy-paste code of conduct and say we're
+done here and then when an incident actually happens you don't know
+how to act on it, because it's not set in crystal terms what happens if a
+code of conduct breach happens. So I've met a lot of folks
+ in my journey who- or a few conferences that say something like "but we're all
+adults we don't need a code of conduct it'll be fine we'll figure it out" and a
+lot of the times those are the events and those are the people with
+whom these let's say these transgressions take place, you know.
+- **TIMEA**: Beyond conferences I
 think this is necessary in companies as well and some of the companies have it
-and it's called you know anti-harassment for example or whatever you want to
-call it as a policy um and it shouldn't be taken lightly because you have to
-have a guideline of what how should i act if something happens and you have to
-have like if you have a code of contact you have a very good argument to um
-showcase that there was a wrongdoing that's all what i want to say about that
-yeah
-- no i thank you though i think i think i
-know that i know that in the past i've as as you hinted earlier i've kind of me
-and my my sister we've kind of been the sticklers that are coming constantly
-code of conducting uh and then trying to you know and push that to be enforced
-further i think i think what we've done now is get us to a point as well
-something i'd like to touch on is um to whom it applies because what i find
-interesting about a code of conduct is also that you know it an uh an attendee
-needs to abide by the code of conduct a speaker needs to abide by the code of
-conduct it's a little more involved because they also need to make sure that
-with their speed with their with their talk with their slides they don't break
-the code of cognitive but as organizers we need to abide by the code of
-contract as well as humans we can mess up and so what one thing for example if
-i may uh uh if i may um ruminate about here is i'm wondering what can we do to
-enforce a cloud of to have a team of folks enforce the code of conduct
+and it's called, you know, anti-harassment, for example, or whatever you want to
+call it as a policy. And it shouldn't be taken lightly because you have to
+have a guideline of how should I act if something happens and you have to
+have, if you have a code of contact you have a very good argument to
+showcase that there was a wrongdoing that's all what I want to say about that, yeah.
+- **RAMÓN**: No, I thank you. Though I think, I
+know that in the past I've as as you hinted earlier me
+and my sister we've kind of been the sticklers that are coming constantly to the
+code of conduct and then trying to push that to be enforced
+further I think what we've done now is get us to a point as well
+something I'd like to touch on is to whom it applies, because what I find
+interesting about a code of conduct is also that an attendee
+needs to abide by the code of conduct, a speaker needs to abide by the code of
+conduct (it's a little more involved because they also need to make sure that
+with their talk with their slides they don't break
+the code of conduct), but as organizers we need to abide by the code of
+contract, as well. As humans, we can mess up and so what one thing for example if
+I may ruminate about here is I'm wondering what can we do to
+enforce to have a team of folks enforce the code of conduct
 separated separatedly from the organizing team do you know what i mean
-- yeah
-it's something like you don't see the forest because of the trees kind of as an
+- **TIMEA**: Yeah, it's something like you don't see the forest because of the trees.
+- **RAMÓN**: Kind of, as an
 organizer maybe if as an organizer you could also break the code of conduct and
-then how do you enforce a code of conduct on yourself how do how do your fellow
+then how do you enforce a code of conduct on yourself how do your fellow
 attendees enforce a code of conduct on you without breaking some sort of
 hierarchy that may or may not exist inside that organization team because for
-example maybe one thing we could go into in a bit is that women techmakers on a
-yearly basis for the last i'm not sure how many years you're going to correct
-me in a moment has had rotating lead organizers right so what happens if that
+example maybe one thing we could go into in a bit is that Women Techmakers on a
+yearly basis for the last, I'm not sure how many years you're going to correct
+me in a moment has had rotating lead organizers, right, so what happens if that
 lead organizer breaks the code of conduct that's where the argument comes in
 for having a team separate from the organizing team called the code of conduct
-enforcement team or code of conduct team without making it sound too
-- i see what you mean
-- yeah
-have you have you had any experience with that
-- i can relate to it but i haven't had
-experience with it for me it's always like you okay i've been there for women
-time makers constantly for the last eight years and yes the every year the main
-organizer changes but it has to do a lot with my how i approach people like i i
-want to say that i always trust people and put always the good first and i'm
-sometimes in the wrong but i expect my fellow organizer or organizers to make
-me aware if i'm doing something wrong or if somebody else is doing something
-wrong so that's why we are so many i mean we are many and we can do that i've
-never had the problem that we never had actually the problem to that extent
-that somebody didn't i mean do something wrong yeah and i mean if that's the
-point then i think you would as an organizer immediately not feel good in the
-team anymore because then we that means that we don't share the same values
-- uh oh right yeah you mean that yeah
-- so it's sort of like
-yeah i think did you have any experience um i i i i guess sorry i'm sorry to
-put you on the spot just discussing here it's fine yeah um no i mean i've been
-you know as as it may become clear if we do more of it if we do end up turning
-it this into a long-running podcast i go to a lot of conferences and i really
-like them so i i'm always looking into how other teams are organizing theirs i
-i find it interesting to to to see how these people try to create uh an
-inclusive safe environment so that people can thrive connect communicate and
-and grow it grow in their careers grow as people so have i have i seen inc have
-i you know been witness to conferences that have had incidents yes of course i
-mean these things happen especially behind the scenes a lot more than we take
-than we take for granted um and i think it's i think it's i find it interesting
-to think how can we that's why that's why i find myself a lot of the time
-thinking how can we prevent uh incidents like these from taking place
-especially from an organizational standpoint and i think i think you put it
-quite well to email when you said you know that this person a person who's in
-an organizational team who witnesses something that they don't like they if if
+enforcement team or code of conduct team without making it sound too...
+- **TIMEA**: I see what you mean.
+- **RAMÓN**: Yeah have you had any experience with that?
+- **TIMEA**: I can relate to it but I haven't had
+experience with it. For me it's always like, okay I've been there for Women
+Techmakers constantly for the last eight years and yes the every year the main
+organizer changes but it has to do a lot with my how I approach people. I
+want to say that I always trust people and put always the good first and I'm
+sometimes in the wrong but I expect my fellow organizer or organizers to make
+me aware if I'm doing something wrong or if somebody else is doing something
+wrong, so that's why we are so many. I mean we are many and we can do that. We never had actually the problem to that extent
+that somebody didn't- do something wrong. And I mean if that's the
+point then I think you would as an organizer immediately not feel good in the
+team anymore because then we that means that we don't share the same values. So it's sort of like
+yeah I think did you have any experience?
+- **RAMÓN**: I'm sorry to
+put you on the spot.
+- **TIMEA**: Just discussing here it's fine.
+- **RAMÓN**: Yeah, no, I mean I've been, as it may become clear if we do more of it, if we do end up turning
+it this into a long-running podcast, I go to a lot of conferences and I really
+like them so I'm always looking into how other teams are organizing theirs. I find it interesting to to to see how these people try to create an
+inclusive safe environment so that people can thrive, connect, communicate, and
+and grow in their careers grow as people, so I have seen, have
+been witness to conferences that have had incidents, yes, of course. I
+mean, these things happen especially behind the scenes a lot more than we take
+than we take for granted. And I think- I find it interesting
+to think how can we- that's why I find myself a lot of the time
+thinking how can we prevent incidents like these from taking place
+especially from an organizational standpoint, a I think you put it
+quite well when you said you know that this person a person who's in
+an organizational team who witnesses something that they don't like they if
 if they don't speak up if anything it says more about the the structure itself
-of the team that's not working which fortunately i don't i think i think i can
-confidently say we haven't had yet in women tech makers yeah
-- if i have a
-team member that doesn't speak up that i'm failing absolutely with what we're
-doing here like it's that i would see as a fail yeah in the first place and
-likely i'm hoping that we didn't have that yeah
-- yeah hopefully um so but but let's
-let's go into that because i think so there's a few conferences i go to that do
-have rotating teams for example there's the european ruby conference that what
-they do every year is it takes place in a different uh city in europe and also
-headed up by a completely different team so like nobody who organized last
-year's euroco in uh in and um in the netherlands will be organizing the one
-that takes place next year in helsinki okay so i'm i'm curious what was what
-was the impetus for trying this with women techmakers by having a lead
-organizer be different every year
-- well it wasn't necessarily the plan that
-it's every year different it's just quite some work yeah and after organizing
-it for a year you want you want a break sure that's one aspect and the second
-aspect is it's just natural because you want to develop yourself so i already
-did this i learned a lot what's next yeah like what can i do next to grow and
-that can be that you take again a different role potentially on on different
-tasks and you learn there something or yeah it also happens that we have
-members that left to join other organizations or just focus on their careers
-that's also absolutely fine so the whole rotating is it just it kind of it just
+of the team that's not working, which fortunately I don't, I think can
+confidently say we haven't had yet in Women Techmakers yet.
+- **TIMEA**: If I have a team member that doesn't speak up then I'm failing absolutely with what we're
+doing here. Like, it's that I would see as a fail in the first place and
+likely I'm hoping that we didn't have that, yeah.
+- **RAMÓN**: Yeah, hopefully. But let's
+let's go into that because I think so there's a few conferences I go to that do
+have rotating teams. For example there's the European ruby conference that what
+they do every year is it takes place in a different city in europe, and also
+headed up by a completely different team, so nobody who organized last
+year's EuRuKo in the Netherlands will be organizing the one
+that takes place next year in Helsinki so I'm curious what was the impetus for trying this with Women Techmakers by having a lead
+organizer be different every year?
+- **TIMEA**: Well, it wasn't necessarily the plan that
+it's every year different, it's just quite some work, yeah, and after organizing
+it for a year you want a break, sure, that's one aspect, and the second
+aspect is it's just natural because you want to develop yourself. So I already
+did this, I learned a lot, what's next? Like what can I do next to grow and
+that can be that you take again a different role potentially on different
+tasks and you learn there something, or it also happens that we have
+members that left to join other organizations or just focus on their careers,
+that's also absolutely fine. So the whole rotating is just it just
 kind of happened like that and at the same time it leaves a space for someone
-else to grow in this role i can't say that everybody who was in a main
-organizer position had all the skills and know-how from the get-go but there
-was opportunity to grow into this and to learn from it um so it's natural and
-that's one aspect but the rest of the team uh i'm happy to say that we have
+else to grow in this role. I can't say that everybody who was in a main
+organizer position had all the skills and know-how from the get-go, but there
+was opportunity to grow into this and to learn from it so it's natural and
+that's one aspect, but the rest of the team, I'm happy to say that we have
 kind of a core team that kind of is the same every year and that gives you
 extra support because you know the people already that you're gonna be working
-with there are friendships that are created internally so there's a support
-system that's awesome however i can't say that it's perfect because um to be
+with, there are friendships that are created internally so there's a support
+system. However I can't say that it's perfect because to be
 super honest here we also had the case where the main organizer after the
-conferences were almost burned out or actually burned out because it's it's you
-know full-time job you do this on the side main organizer means more or less
-being a project manager for a huge conference huge 200 100 200 people which is
-not little
-- it's pretty big
-- you have a team
-of six seven people uh different tasks that you have to juggle and manage and
-then i think that the month right before the conference is super intense yeah
-uh and i can't say that it's perfect in how we organize ourselves because it
-was um always the feedback sometimes the feedback that after the confidence
-there's like like a burnout of the main organizer and that's something that i
-wanted to overcome and we for that reason we had last year the conference where
-we had two main organizers um it kind of worked and it actually it actually
+conferences were almost burned out, or actually burned out, because it's you
+know, full-time job, you do this on the side... 'Main organizer' means more or less
+being a project manager for a huge conference huge 200 people which is
+not little.
+- **RAMÓN**: It's pretty big.
+- **TIMEA**: You have a team
+of sixm seven people, different tasks that you have to juggle and manage and
+then I think that the month right before the conference is super intense, and I can't say that it's perfect in how we organize ourselves because it
+was, always the feedback sometimes the feedback that after the confidence that
+there's a burnout of the main organizer and that's something that I
+wanted to overcome, and we, for that reason, we had last year the conference where
+we had two main organizers it kind of worked and it actually, it actually
 more worked than it didn't and we definitely didn't have this feedback of it
-was too much for one person
-- that's good
-- um this year he was just one
-make an organizer but the problem was not the conference was the fact that we
-had to cancel it one week before everything was set up and we were like let's
-go and then the log down happened and then we had to like shift it and sometime
-in june we got back on track and was like okay let's do it online so that was
-that was a different disappointment for the main organizer yeah however the
-details i would actually like to discuss with the actual main organizers
+was too much for one person.
+- **RAMÓN**: That's good.
+- **TIMEA**: This year he was just one, Mahek, an organizer but the problem was not the conference was the fact that we
+had to cancel it one week before everything was set up and we were like "let's
+go", and then the lockdown happened and then we had to shift it, and sometime
+in June we got back on track and was like 'okay let's do it online'. So that was
+that was a different disappointment for the main organizer. However the
+details I would actually like to discuss with the actual main organizers
 themselves because we want to invite them on the podcast
-- absolutely i think i think giving them
-giving them the the space to talk about what their experiences are what they
-learned and
-- yeah the good and the bad
-- the good and the bad yeah warts and all as they say
-on that note timia for you because you've been doing this for a while could you
-you know enumerate these these sex these success these successes that you've
-had
-- oh well i i think i want to
-categorize this into personal successes and community successes so first of all
-i already mentioned that one big goal of mine and dream was that we have the
-conference in the coopers al that was that was a big success for me um i never
-thought that i could see in a volunteer organization so much dedication that
-transforms in a sustainable team that stays the same over years that for me is
-the is is a huge feedback positive uh feedback yeah that the people just want
-to stick around yeah so that's for me personally also beyond my expectation
-- yeah it's been a while yes
-- you know you're also in here for what
-three years now so yeah do you know why you stick around but obviously there's
-something
-- i'm not going anywhere anytime soon
-- awesome
-um and that's we managed to grow organically to 200 attendees at the conference
-which is what we had last year the last face-to-face conference plus the
+- **RAMÓN**: Absolutely. I think giving them
+giving them the space to talk about what their experiences are, what they
+learned and...
+- **TIMEA**: Yeah, the good and the bad.
+- **RAMÓN**: The good and the bad yeah, warts and all, as they say...
+On that note, Timea, for you because you've been doing this for a while could you
+you know enumerate these these successes that you've
+had?
+- **TIMEA**: Oh, well, I think I want to
+categorize this into personal successes and community successes. So first of all,
+I already mentioned that one big goal of mine and dream was that we have the
+conference in the Kuppelsaal that was that was a big success for me. I never
+thought that I could see in a volunteer organization so much dedication that
+transforms into a sustainable team that stays the same over years. That for me is a huge positive feedback, yeah, that the people just want
+to stick around. So that's for me personally also beyond my expectation. You know, you're also in here for what
+three years now so yeah do you know why you stick around? Obviously there's
+something.
+- **RAMÓN**: I'm not going anywhere anytime soon.
+- **TIMEA**: Awesome, and that's we managed to grow organically to 200 attendees at the conference
+which is what we had last year, the last face-to-face conference, plus the
 enormous positive feedback from the community that we actually managed to
-create an inclusive environment welcoming that's also something that we that
-happened organically for it's not i can't really say or i don't even have
-particular pawn points to say okay we did this on purpose to become inclusive
+create an inclusive environment, welcoming, that's also something that we that
+happened organically for I can't really say or I don't even have
+particular points to say 'okay we did this on purpose' to become inclusive,
 it's something that comes from the community as feedback after each conference
-so it's a bit of a personal goals mixed with community goals
-- which i think are fantastic motivators
-honestly okay and um
-- and there's more also
-a big success that i i would call a big success is the fact that um we don't
-need to actively go and how i call fundraise or find partnerships for the
-conference they knock at our door and that for me is again you know we managed
-to establish ourselves what we stand for and the companies or the partners
-already know about us and want to partner with us because we are known for
-quality or for um providing specific tailored yeah to their needs solutions to
-their needs that's also very relieving however covid happened so i think i
-think everything is about to change
-- fingers crossed we can keep doing a a
-good job at providing these platforms for people
-- yes uh but after eight years i and and the kovi situation happening i
-think we need to get out of the comfort zone again yet again and reinvent
-ourselves with the i i don't think that for example so we we know for sure that
-the conference as it happened last year we cannot provide that next year it's
-very unlikely that we can have a face-to-face conference just too much
-uncertainty so we either do it online uh learning from this year or we simply
+, so it's a bit of a personal goals mixed with community goals
+- **RAMÓN**: Which I think are fantastic motivators
+honestly. Okay and...
+- **TIMEA**: And there's more! Also
+a big success that i would call a big success is the fact that we don't
+need to actively go and, how I call, fundraise or find partnerships for the
+conference. They knock at our door, and that for me is, again, you know, we managed
+to establish ourselves, what we stand for and the companies or the partners
+already know about us, and want to partner with us, because we are known for
+quality or for providing specific tailored to their needs, solutions to
+their needs, that's also very relieving however COVID happened, so I think everything is about to change.
+- **RAMÓN**: Fingers crossed, we can keep doing a good job at providing these platforms for people.
+- **TIMEA**: Yes, but after eight years, the COVID situation happening I
+think we need to get out of the comfort zone again, yet again, and reinvent
+ourselves. I don't think that for example, so we know for sure that
+the conference as it happened last year, we cannot provide that next year. It's
+very unlikely that we can have a face-to-face conference, just too much
+uncertainty. So we either do it online, learning from this year or we simply
 reinvent ourselves such as the podcast whatever else our organizers and
-community members want they should just email us because we can make it happen
-- absolutely
-- not not everything in the
-whole world but you know we can discuss it
-- so what you're saying is the the
-milkshake bar at the conference is probably not going to happen anytime soon
-- never say wish for it but never say
-never
-- cool um awesome
-awesome i you know i i i just really it's been such an honor to be on this this
-organizing team because i think like you said it's been we've been at this for
-a while you see there there's there's a bit of a there's a there's after a
-while we've kind of built up the sense of camaraderie that spills over when new
-people join in or when people have to leave because they want to pursue
-different efforts or they have to move to another city i feel like that sense
-of sticking together really means a lot to me because i think it i think it
-spills out into the conference as well yeah and and like you said i'm i'm kind
-of really liking your your emphasis on jumping out of the comfort zone i think
-i think by by fostering this and and by keeping going you know something that a
-personal objective of mine with the women techmakers online conference was to
+community members want, they should just email us, because we can make it happen. Not everything in the
+whole world but you know, we can discuss it.
+- **RAMÓN**: So what you're saying is the the
+milkshake bar at the conference is probably not going to happen anytime soon.
+- **TIMEA**: Never say wish for it but never say never.
+- **RAMÓN**: Cool, awesome, awesome. You know, just really, it's been such an honor to be on this
+organizing team because I think like you said it's been we've been at this for
+a while, you see we've kind of built up the sense of camaraderie that spills over when new
+people join in, or when people have to leave, because they want to pursue
+different efforts, or they have to move to another city. I feel like that sense
+of sticking together really means a lot to me, because I think it
+spills out into the conference, as well, and like you said I'm kind
+of really liking your emphasis on jumping out of the comfort zone. I think
+by fostering this and and by keeping going, you know, something that a
+personal objective of mine with the Women Techmakers online conference was to
 establish some sort of online community that we could then push forwards and
-foster it's been a bit dormant lately uh i'll admit probably uh partly on me we
-we started up a discord community um where people can chat and attend we we
+foster. It's been a bit dormant lately I'll admit, probably, partly on me, we
+we started up a Discord community where people can chat and attend. We
 used it during the conference to sort of attend the conference where people
-could chat and ask questions we found out some things along the way uh i'm just
-going to quickly drop this because i loved it so we had a voice if you're
-unfamiliar with discord discord is a kind of an online hangout community uh
-chat platform also voice platform initially used for games but now it's also
-has a bigger online community uh uh emphasis and so tamiya had this idea that
+could chat and ask questions. We found out some things along the way I'm just
+going to quickly drop this because I loved it so we had a voice- If you're
+unfamiliar with Discord discord is a kind of an online hangout community,
+chat platform, also voice platform initially used for games but now it's also
+has a bigger online community emphasis, and so Timea had this idea that
 we do an online breakfast at the beginning of the second we split it into two
-days
-- i think it wasn't my idea
-- it wasn't your
-idea well you did have an idea that i want to that i that i wanted
-- was magic's idea
-- what was my sorry
-my bad but we had this we had this this voice channel where we had a breakfast
-and then you had the idea where you um just went into that voice channel we
-renamed it to voice hangout and you just hung out there and attendees would
-drop in every now and then do you remember yeah
-- we called it lunch the lounge
-- that's
-the lounge love it and i i was so blown away by this because hey i'd never seen
-it before at an online conference and b it would have never occurred to me in a
-million years that people would want to voice chat during talks i thought that
-was incredible and i think that's where i think this whole emphasis on stepping
-out of your comfort zone goes really well because you don't know what's going
-to come from it right
-- yeah unless you try it
-- unless you try it i kind of
-i kind of like that unless you try it like go for it
-- this year was also for me personally a
-lot of going out of the comfort zone so i'm trying to almost get comfortable
-with being out of the comfort zone
-- i like that
-- you could say that and um
-i think it's at the same time a good opportunity to tackle new topics to try
-new things also for women tech makers vienna
-- awesome cool
-well you know we've been chatting here for a bit yeah i think we could start
-winding down i think we've during
-- my last zips of the
-coffee
-- oh mine's gone
-that's a good sign of yes well i think i think this i don't know about you but
-i've had a wonderful time talking now i think you know once we we can start
+days...
+- **TIMEA**: I think it wasn't my idea, it was Mahek's idea.
+- **RAMÓN**: It wasn't your
+idea? My bad, sorry. Well you did have an idea that I wanted-
+we had this this voice channel where we had a breakfast
+and then you had the idea where you just went into that voice channel, we
+renamed it to 'voice hangout' and you just hung out there and attendees would
+drop in every now and then. Do you remember?
+- **TIMEA**: We called it the 'Lounge'.
+- **RAMÓN**: That's-
+the lounge, love it, and I was so blown away by this because A) I'd never seen
+it before at an online conference, and B) it would have never occurred to me in a
+million years that people would want to voice chat during talks. I thought that
+was incredible and I think that's where I think this whole emphasis on stepping
+out of your comfort zone goes really well, because you don't know what's going
+to come from it right.
+- **TIMEA**: Yeah unless you try it.
+- **RAMÓN**: Unless you try it. I kind of
+like that unless you try it.
+- **TIMEA**: This year was also for me personally a
+lot of going out of the comfort zone. So I'm trying to almost get comfortable
+with being out of the comfort zone.
+- **RAMÓN**: I like that.
+- **TIMEA**: You could say that, and
+I think it's at the same time a good opportunity to tackle new topics to try
+new things also for Women Techmakers Vienna.
+- **RAMÓN**: Awesome, cool.
+Well, you know, we've been chatting here for a bit yeah I think we could start
+winding down I think we've...
+- **TIMEA**: My last sips of the
+coffee.
+- **RAMÓN**: Oh, mine's gone.
+That's a good sign of yes, well I think this I don't know about you but
+I've had a wonderful time talking now, I think you know once we we can start
 bringing on guests we can start figuring out where this podcast will go how we
-can make it grow and you know make it make us grow with it i'm i don't know
-about you how are you feeling too man now that we've been at this for a while
-- i'm still excited it's like awesome
-insane i i love it awesome and i like the workshop
-- yeah me too a lot so i think with that
-we can say our goodbyes we can
-- see you next time
-- absolutely take care everybody
-- bye
-- are you on the forefront of gender equality you are invited on our podcast
-- that's right or maybe you know somebody
-that we could have a chat with on gender equality you should totally get in
-touch with us we're on twitter at gender coffee or any of the other contact
-methods on our show notes we would love to you to get in touch and for us to
-have a chat
+can make it grow and, you know, make it, make us grow with it I'm... I don't know,
+about you, how are you feeling too, now that we've been at this for a while...
+- **TIMEA**: I'm still excited, it's like "awesome".
+- **RAMÓN**: Yeah me too a lot, so I think with that
+we can say our goodbyes.
+- **TIMEA**: See you next time.
+- **RAMÓN**: Absolutely take care everybody.
+- **TIMEA**: Bye.
+- **TIMEA**: Are you on the forefront of gender equality? You are invited on our podcast.
+- **RAMÓN**: That's right! Or maybe you know somebody
+that we could have a chat with on gender equality? You should totally get in
+touch with us! We're on twitter @GenderCoffee or any of the other contact
+methods on our show notes. We would love to you to get in touch and for us to
+have a chat.
