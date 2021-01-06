@@ -8,7 +8,7 @@ episode: 1
 episodeType: full
 explicit: false
 date: 2021-01-03
-length: 394
+length: 2812
 audio: https://archive.org/download/episode1_202101/episode1.mp3
 ---
 
