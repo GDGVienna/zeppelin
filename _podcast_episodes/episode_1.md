@@ -15,22 +15,31 @@ audio: https://archive.org/download/episode1_202101/episode1.mp3
 ## Show notes
 
 Watch us on YouTube:
+
+
 https://www.youtube.com/watch?v=tqDf4Ru-4EM
+
 
 Ramón and Timea talk about 8 years of Women Techmakers Vienna: why was it created, what happens in the community, how local impact is achieved, what is our target audience, how to get sponsors and venues, how to move to an online conference, how to keep going.
 
-Kids workshop photos: https://www.womentechmakers.at/photos/
-Women Techmakers Vienna Code of conduct: https://www.womentechmakers.at/cod/
-Women Techmakers Vienna team: https://www.womentechmakers.at/team/
-Online conference experience & know how from our conference in 2020: https://ramonh.dev/2020/10/25/running-a-conference-online/
+
+- Kids workshop photos: https://www.womentechmakers.at/photos/
+- Women Techmakers Vienna Code of conduct: https://www.womentechmakers.at/cod/
+- Women Techmakers Vienna team: https://www.womentechmakers.at/team/
+- Online conference experience & know how from our conference in 2020: https://ramonh.dev/2020/10/25/running-a-conference-online/
+
 
 Some referenced talks:
-Tissue Engineering by Minu Karthika Ganesan: https://www.youtube.com/watch?v=_VsJLeVq3Dw
-How AI is Enhancing Journalism by Carolyn Stransky: https://www.youtube.com/watch?v=-qZCRHwnnbM
-Creating more Inclusive Products and Services By Andra Bria: https://www.youtube.com/watch?v=s3Dmkn5E0rE
+- Tissue Engineering by Minu Karthika Ganesan: https://www.youtube.com/watch?v=_VsJLeVq3Dw
+- How AI is Enhancing Journalism by Carolyn Stransky: https://www.youtube.com/watch?v=-qZCRHwnnbM
+- Creating more Inclusive Products and Services By Andra Bria: https://www.youtube.com/watch?v=s3Dmkn5E0rE
+
 
 Ashe Dryden's post on why have a Code of Conduct:
+
+
 https://www.ashedryden.com/blog/codes-of-conduct-101-faq#coc101why
+
 
 Are you active in pushing for a more inclusive, intersectional space? Do you
 know of someone who would be great for us to talk to? Get in touch with us:
