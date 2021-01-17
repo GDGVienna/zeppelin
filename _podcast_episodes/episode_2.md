@@ -297,7 +297,7 @@ way through things, you know, you bulldoze a little bit and then you sweep up
 the little branches that were not caught by the bulldozer so, (very bad
 analogy) but you know what I mean. So this this balance between a softer
 approach and a more aggressive approach can actually cater to a lot more people
-and it can help a varied type of people grow, and I see that at AnyLine, we
+and it can help a varied type of people grow, and I see that at Anyline, we
 have people from so many different cultures from America to South Africa to
 Brazil, so you know, Romania, really, everywhere, and some of them don't react
 to an aggressive way but some do because that's what they're used to.  So you
