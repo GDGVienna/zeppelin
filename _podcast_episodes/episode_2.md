@@ -24,17 +24,18 @@ Additional resources mentioned during and after the podcast which Krisz wanted t
 
 
 Books:
-* Invisible women by Caroline Criado Perez
-* Podcast:
-* * I Weigh with Kameela Jamil - https://podcasts.apple.com/us/podcast...
-* * Happy Place with Flo Perry: https://podcasts.apple.com/ie/podcast...
+* Invisible Women by Caroline Criado Perez
 
 
-* WTMVIE talk:
-* * How to break the brotopian cycle by Kaitlyn Chang:
-* https://www.youtube.com/watch?v=eLpAf...
-* * Krisz’ LinkedIn: https://www.linkedin.com/in/krisztina...
-* * Krisz’ Instagram: https://www.instagram.com/kriszly/
+Podcast:
+* I Weigh with Kameela Jamil - https://podcasts.apple.com/us/podcast...
+* Happy Place with Flo Perry: https://podcasts.apple.com/ie/podcast...
+
+
+WTMVIE talk:
+* How to break the brotopian cycle by Kaitlyn Chang: https://www.youtube.com/watch?v=eLpAf...
+* Krisz’ LinkedIn: https://www.linkedin.com/in/krisztina...
+* Krisz’ Instagram: https://www.instagram.com/kriszly/
 
 
 ## Transcript
