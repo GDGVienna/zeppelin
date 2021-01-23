@@ -12,12 +12,17 @@ length: 1945
 audio: https://ia601405.us.archive.org/10/items/episode2_202101/episode2.mp3
 ---
 
+# Show notes
+
+Watch us on YouTube: https://www.youtube.com/watch?v=dVymPmvTBe8
+
+
 Krisztina Orosz was Main Organizer of #WTMVIE conference back in 2016. Listen to our podcast about how years of volunteering shape a person’s future;
 the positive bias of putting the word “women” in your community name;
 why being authentic is important also in startups, especially being an authentic leader and about the startup environment, how it is really like.
 
 
-If you want to know more about what Krisz' job role at Anyline(https://anyline.com/) is, we reference another cool podcast where Krisz was invited on: https://www.youtube.com/watch?v=vVu4S...
+If you want to know more about what Krisz' job role at Anyline(https://anyline.com/) is, we reference another cool podcast where Krisz was invited on: https://www.youtube.com/watch?v=vVu4Sjq-6vo
 
 
 Additional resources mentioned during and after the podcast which Krisz wanted to you know about:
@@ -28,13 +33,13 @@ Books:
 
 
 Podcast:
-* I Weigh with Kameela Jamil - https://podcasts.apple.com/us/podcast...
-* Happy Place with Flo Perry: https://podcasts.apple.com/ie/podcast...
+* I Weigh with Kameela Jamil - https://podcasts.apple.com/us/podcast/i-weigh-with-jameela-jamil/id1498855031
+* Happy Place with Flo Perry: https://podcasts.apple.com/ie/podcast/flo-perry/id1353058891?i=1000467161491
 
 
 WTMVIE talk:
-* How to break the brotopian cycle by Kaitlyn Chang: https://www.youtube.com/watch?v=eLpAf...
-* Krisz’ LinkedIn: https://www.linkedin.com/in/krisztina...
+* How to break the brotopian cycle by Kaitlyn Chang: https://www.youtube.com/watch?v=eLpAfoZ3DSg&list=PLVr4my5fwE_XrRRqwW4LIYsPN2z5eaV2O
+* Krisz’ LinkedIn: https://www.linkedin.com/in/krisztinaorosz/
 * Krisz’ Instagram: https://www.instagram.com/kriszly/
 
 
