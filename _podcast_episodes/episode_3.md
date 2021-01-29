@@ -14,7 +14,7 @@ audio: https://archive.org/download/episode3_202101/episode3.mp3
 
 # Show notes
 
-Watch us on YouTube: https://www.youtube.com/watch?v=dVymPmvTBe8
+Watch us on YouTube: https://www.youtube.com/watch?v=VcVy3mXHceQ
 
 
 Eva was our #WTMVIE keynote speaker in 2019 and one of the 2 co-founders of the Viennese community Women && Code.
