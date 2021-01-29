@@ -9,7 +9,7 @@ permalink: /podcast/
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons License</a> |
 <a rel="license" href="/podcast.xml">RSS feed</a>
 
-{% for episode in site.podcast_episodes %}
+{% for episode in site.podcast_episodes reversed %}
   <h3 class="h2">
     <a href="{{ episode.url | prepend: site.baseurl }}.html" class="title">
       {{ episode.title }}
