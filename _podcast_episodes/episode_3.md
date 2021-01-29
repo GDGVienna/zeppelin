@@ -34,55 +34,32 @@ Mentioned resources:
 - **TIMEA**: Let's talk gender equality.
 - **RAMÓN**: I love the idea. Gimme a second I just gotta grab my coffee, I hope you've got yours, too!
 - **TIMEA**: Yep, right here.
-
-- welcome to another episode of gender
-equality over coffee
-uh i am so excited to have the two of
-you here
-uh we are joined today by eva leitner
-- hi eva hi everybody
-- i uh eva is uh
-an incredible person we are so happy to
-have you here today
-um yeah i i figured i won't do the
-talking if
-why don't you tell us a name do you have
-a fun nickname for us that you'd like to
-share
-- i don't have a nickname since my name is
-so short no
-nobody's ever bought it to make a
-nickname when people
-call me a nickname they usually prolong
-my name
-which is uh so yeah i'm just
-i'm just eva on the internet i'm i'm if
-i underscore trotslos
-which is a play on words for my
-husband's last name
-- oh i never knew that yeah
-well why don't you tell why don't we
-start off letting loose why don't you
-tell us a little bit uh
-about yourself maybe some three random
-things about you
-- some three random things um i make my
-own clothes
-uh i collect fountain pens
-this is my newest edition i love it very
-much it's very pretty
-wow yeah that's cool
-and i'm teaching myself to play the
-piano
-for two years now excellent
-- that's that's awesome i i i i
-i i love it when when people tell us
-about uh you know
-things that that that are outside of
-their regular things that you see them
-in
-uh time do you play any instruments
-- no
+- **RAMÓN**: Welcome to another episode of "Gender
+    Equality over Coffee"! I am so excited to have the two of you here. We are
+joined today by Eva Lettner.
+- **TIMEA**: Hi Eva! Hi everybody!
+- **RAMÓN**: Eva is
+an incredible person, we are so happy to have you here today. Yeah I figured
+I won't do the talking, Eva why don't you tell us, do you have a fun
+nickname for us that you'd like to share?
+- **EVA**: I don't have a nickname since my name is
+so short, no, nobody's ever bothered to make a nickname. When people call me a
+nickname they usually prolong my name, so yeah I'm just Eva.
+On the internet I'm @eva_trostlos which is a play on words for
+my husband's last name.
+- **RAMÓN**: Oh! I never knew that.
+Well, why don't we start off, letting loose, why don't you tell us a little bit
+about yourself? Maybe some three random things about you?
+- **EVA**: Some three random things... I make my
+own clothes! I collect fountain pens, this is my newest addition. I love it very
+much it's very pretty.
+- **TIMEA**: Wow yeah that's cool.
+- **EVA**: And I'm teaching myself to play the
+piano for two years now.
+- **RAMÓN**: That's awesome. I love it when people tell us
+about things that that that are outside of
+their regular things that you see them in. Timea, do you play any instruments?
+- **EVA**: no
 no i don't but i was actually
 um also interested in piano a while ago
 so i got stuck on that point but i never
@@ -93,7 +70,7 @@ but i gotta say i was thinking more
 about the collection like
 do i collect something do you collect
 something ramon
-- do i collect something um i collect
+- **EVA**: do i collect something um i collect
 random things at home
 probably mostly nintendo things it's a
 bad habit of mine
@@ -102,35 +79,35 @@ boys
 i've seen some of you had some with some
 meetings
 meetups and i was
-- like wow i've never
+- **EVA**: like wow i've never
 seen some stuff like this
 earlier and cute
-- yeah that's that's that's a little bit
+- **EVA**: yeah that's that's that's a little bit
 uh of my background
 um yeah so eva you were
 uh keynoting at our women techmakers
 conference a few years ago i think it
 was 2017
-- 19 19 19 not that far away
-- yeah but then 2020 took 38 years so
-- it it just feels like a different amount
+- **EVA**: 19 19 19 not that far away
+- **EVA**: yeah but then 2020 took 38 years so
+- **EVA**: it it just feels like a different amount
 of time
 um i'm i'm curious what how did you get
 how did you
 you know get connected with women
 techmakers vienna how do you
 find yourself leading there
-- wow
+- **EVA**: wow
 that that's actually i went to women
 techmaker's conference
 ages ago i i don't even remember
 if i was already working in tech or if i
 was just starting out but it was the
 first conference i ever went to
-- oh yeah i feel super
+- **EVA**: oh yeah i feel super
 like wow okay we were the first
 conference school
-- yeah so it was either right after i
+- **EVA**: yeah so it was either right after i
 started working in tech or just before
 um and it was just it felt so great
 there was
@@ -152,8 +129,8 @@ was
 when i saw myself first on stage i i saw
 those women speak and i was like oh
 i'm gonna do that too
-- wow
-- and i was
+- **EVA**: wow
+- **EVA**: and i was
 terrified of public speaking all of my
 life
 it's just nothing i ever uh anticipated
@@ -179,8 +156,8 @@ and eventually she asked me if i
 if i would give give a talk at women
 techmakers and obviously i was like yeah
 sure
-- wow i have
-so many actually follow-up questions on
+- **EVA**: wow i have
+so many actually follow- **EVA**:up questions on
 these points
 and you are by now a public
 figure for me um especially since you
@@ -195,8 +172,8 @@ the one point i want to catch on to is
 um in german there's a there's a
 specific word for this
 i really like it it's "quereinsteigerin"
-- oh yeah
-- right so you actually changed your
+- **EVA**: oh yeah
+- **EVA**: right so you actually changed your
 um profession yeah i want you to tell us
 a little bit um
 about that aspect yeah so
@@ -246,13 +223,13 @@ uh and i got myself back into
 programming and i enjoyed it really much
 and and yeah the rest is is history i
 just got stuck in it
-- um you got into programming uh
+- **EVA**: um you got into programming uh
 at least in one of the talks you
 mentioned you were basically teaching
 yourself
 is it so or did you do any course or
 google
-- I did a course um but
+- **EVA**: I did a course um but
 that didn't do much for me
 it it wasn't necessarily the the fault
 of the course it was just
@@ -268,7 +245,7 @@ so there was loads of php and and that
 kind of stuff that just didn't interest
 me i wanted to make things shiny and
 float um so yeah
-- right i remember that the um
+- **EVA**: right i remember that the um
 the fest you had to talk about css yes
 um and that's how you did things shiny
 and nice and
@@ -280,7 +257,7 @@ you do this amazing things with css i
 was
 fascinated is that something that
 also got you excited into coding
-- yeah uh like i i always
+- **EVA**: yeah uh like i i always
 wanted to stretch the boundaries of what
 is possible
 with a certain technology and i really
@@ -289,17 +266,17 @@ i like to be a creative but i can't draw
 it's just that's not in my skill set
 but for whatever reason maybe
 block stuff look
-- you could draw with
+- **EVA**: you could draw with
 pixels actually
 it looks so cool you had this monster
 let's uh put in the show notes a link to
 i think we still have the device talk
-- yeah should still be around
-- right on the
+- **EVA**: yeah should still be around
+- **EVA**: right on the
 youtube channel we also make sure to
 link your keynote
 talk
-- absolutely yeah
+- **EVA**: absolutely yeah
 one thing that i've always appreciated
 about about your talk save and
 and and your presence in general as a
@@ -315,8 +292,8 @@ there uh
 for you know getting others up and
 running as a
 as in this for example in this case
-front-end software developers
-- i teach myself through my own excitement
+front- **EVA**:end software developers
+- **EVA**: i teach myself through my own excitement
 i'm a very excitable person
 and i get really excited about things
 very quickly and then i
@@ -367,7 +344,7 @@ looks like and what you actually can do
 and what your job is
 and yeah so that's that's the really
 uh that's
-- absolutely and i i
+- **EVA**: absolutely and i i
 definitely want to come back to that but
 uh
 something you mentioned there about this
@@ -380,7 +357,7 @@ years ago
 with baba andersek called women in code
 so why don't you tell us a little bit
 about this this organization
-- yes we founded a non-profit organization
+- **EVA**: yes we founded a non- **EVA**:profit organization
 that aims to get more women into tech
 uh and our
 goal is to teach people
@@ -430,7 +407,7 @@ um people have become friends over this
 community it's it's just
 really nice to see um and we wanted to
 have
-a hands-off approach as much as possible
+a hands- **EVA**:off approach as much as possible
 as the founders of this movement
 because we want to enable women to
 take care of their own path and their
@@ -451,9 +428,9 @@ and the concept was always to have it in
 person so you can walk around the room
 and
 yeah that's
-- that's awesome um i'm gonna
+- **EVA**: that's awesome um i'm gonna
 i'm gonna put a link to sorry
-- yeah yeah
+- **EVA**: yeah yeah
 the link is a good point
 you have to of course i wanted to say
 that i was
@@ -471,8 +448,8 @@ i ever did in some regards and i was
 there as a tutor and i was like
 okay maybe next time i should just come
 as a participant you know
-- [Laughter]
-- and what i also liked is i've noticed
+- **EVA**: [Laughter]
+- **EVA**: and what i also liked is i've noticed
 that
 um at these events people are
 "quereinsteigerin"  a lot of them so they are
@@ -486,7 +463,7 @@ available and that was
 that would i think this is what is
 definitely missing in a lot of tech this
 multi-disciplinary aspect
-- yeah completely and and it was just very
+- **EVA**: yeah completely and and it was just very
 nice
 to see all those different perspectives
 because we have loads of participants
@@ -513,7 +490,7 @@ we don't need to change jobs but they
 will become
 better in in their current situation and
 that is just really awesome
-- so i find this to be a direct parallel
+- **EVA**: so i find this to be a direct parallel
 of
 your experience and you wanting to give
 back
@@ -522,7 +499,7 @@ experience is this the spark
 that ignited the collaboration with
 barbara
 on women and code
-- yes i think that's
+- **EVA**: yes i think that's
 that's exactly it because getting into
 tech changed my life
 so much for the better it gave me so
@@ -534,12 +511,12 @@ sometimes very unfair
 um but it just gave me so much
 more power over my own life and i want
 to share this with other women
-- that's so beautiful and thank you for
+- **EVA**: that's so beautiful and thank you for
 the
 work you do for our community
-- it's fun
+- **EVA**: it's fun
 - [Laughter]
-- well um going going back to what we're
+- **EVA**: well um going going back to what we're
 just touching up on briefly before i
 mean i think something something that
 comes
@@ -575,7 +552,7 @@ all day every day
 um why is it so important to you to have
 this
 this separation it's
-- this this is my private space this is
+- **EVA**: this this is my private space this is
 where
 where i am creative this is where i do
 my own things
@@ -656,7 +633,7 @@ uh i don't have enough spoons for
 all of the things that i want to do and
 that people want me to do
 and yeah
-- this brings me to um the
+- **EVA**: this brings me to um the
 title of your keynote which was
 it had this word polymath that i didn't
 even know before
@@ -684,11 +661,11 @@ is
 is was good for me because i could
 finally stand still and not go to a ton
 of meetups
-- yeah
-- right so i think for us this was
+- **EVA**: yeah
+- **EVA**: right so i think for us this was
 not a
 bad break in that sense
-- oddly enough
+- **EVA**: oddly enough
 i planned for 2020 to be my year of not
 speaking
 so i had planned before we knew about
@@ -703,10 +680,10 @@ i didn't know that my wish would extend
 to the whole world
 i'm very sorry for that um
 but yeah it was taken care of
-- i hope that being here with us doesn't
+- **EVA**: i hope that being here with us doesn't
 count as one of those activities
-- oh no not at all
-- hey we're
+- **EVA**: oh no not at all
+- **EVA**: hey we're
 drinking coffee here come on yeah enjoy
 friendly chat
 yeah and uh by the way friendly chat
@@ -728,10 +705,10 @@ department
 uh you know why do you switch jobs so
 often because it was in my cv do
 you did you ever get this question
-- yes
-- how do you deal with it give me a hint
+- **EVA**: yes
+- **EVA**: how do you deal with it give me a hint
 here give me a help
-- i didn't know what to say i was like i
+- **EVA**: i didn't know what to say i was like i
 was i was speechless
 that question i didn't expect it yeah
 there are always different reasons of
@@ -779,9 +756,9 @@ have this thing of
 you need to start at the company and you
 need to be there until you retire
 but that is still
-- do you think it's fair
+- **EVA**: do you think it's fair
 that they ask you this
-- no i think it's horrible because there
+- **EVA**: no i think it's horrible because there
 are situations of why
 i needed to switch and and especially
 the
@@ -794,7 +771,7 @@ all of that to them but they are not
 interested they don't care you just
 see them all the time i suppose they
 just see that
-- i don't know they see you like a
+- **EVA**: i don't know they see you like a
 fluctuation cost
 or they see was ah this person you know
 is not loyal or
@@ -804,13 +781,13 @@ can i as a company offer this person
 that
 obviously is uh striving for more and
 learning can i offer that environment
-- yeah sure that's what i just wanted to
+- **EVA**: yeah sure that's what i just wanted to
 say if i i'm
 willing to stay forever if you offer me
 an environment where i can grow
 where i
-- don't get bored
-- as as a
+- **EVA**: don't get bored
+- **EVA**: as as a
 as a my skill set and where i can grow
 and
 do all the things that i want to do and
@@ -822,17 +799,17 @@ then i have no problem staying forever i
 have not found the company
 yeah me neither so i was looking into
 founding my own
-- actually but basically um
+- **EVA**: actually but basically um
 the question basically you would go into
 explaining
 the hr person um for each job the reason
-- i have done that before but they don't
+- **EVA**: i have done that before but they don't
 care
-- okay so that doesn't it's not
+- **EVA**: okay so that doesn't it's not
 necessarily helpful but
 that's the truth in the end of the day
 yeah
-- so i can't freely
+- **EVA**: so i can't freely
 no i can't i can't speak from experience
 because i've
 uh never actually worked full time
@@ -859,12 +836,12 @@ is also a different case
 uh for for people working in something
 other than software engineering
 so yeah
-- oh i've researched this topic
+- **EVA**: oh i've researched this topic
 and i think i can do a whole podcast
 just on that
-- i think we found our topic for another
+- **EVA**: i think we found our topic for another
 episode
-- yeah yeah yeah but let's
+- **EVA**: yeah yeah yeah but let's
 let's leave it to another time because
 i'm of a different opinion about that i
 just
@@ -880,7 +857,7 @@ is more loyal if the
 company also you know invests in them to
 be
 loyal
-- i wish companies would learn
+- **EVA**: i wish companies would learn
 that they can keep even millennials
 even yeah if they
 provide a nurturing environment yes yes
@@ -890,13 +867,13 @@ my dad started his job when he was 17.
 he's still in this company and he will
 retire there
 it's
-- and that's not bad but uh
+- **EVA**: and that's not bad but uh
 he we just want a little bit more like
 maybe a
 learning budget yeah that's something
 that
 i always appreciate in job offers
-- yeah yeah it sounds like we're going to
+- **EVA**: yeah yeah it sounds like we're going to
 have to really
 research and go into i'm i definitely
 got to read up on this and and
@@ -921,12 +898,12 @@ you
 have any advice that you would like to
 pass on to people that that
 are interested in starting out here
-- or quereinstegerinnen
-- them yeah i'm not going to try and
+- **EVA**: or quereinstegerinnen
+- **EVA**: them yeah i'm not going to try and
 pronounce that
-- it's a mouthful for me too but i like
+- **EVA**: it's a mouthful for me too but i like
 the word
-- um there are actually programs where you
+- **EVA**: um there are actually programs where you
 can sign
 up if you're starting out and you want a
 mentor
@@ -944,7 +921,7 @@ through women and code or at least
 they were part of the women in co
 community and that is super awesome
 we're very
-- cool right when because this is what
+- **EVA**: cool right when because this is what
 happens at women techmakers too and i'm
 always so proud of that
 uh sparking and empowering other
@@ -964,9 +941,9 @@ um because it can be super scary to just
 write to somebody
 if you want a mentor that feels kind of
 weird
-- for introverts difficult to do
+- **EVA**: for introverts difficult to do
 i myself like that
-- yeah so especially in
+- **EVA**: yeah so especially in
 in a digital age in 2020
 where we don't go anywhere you can't
 meet potential mentors
@@ -1001,9 +978,9 @@ nobody did approach me
 yeah so it it's we are normal people
 please talk to us it's fine we might be
 a little bit shy
-- [Laughter]
-- yeah can relate
-- that's that's also a way to
+- **EVA**: [Laughter]
+- **EVA**: yeah can relate
+- **EVA**: that's that's also a way to
 get to know people
 that are in the industry and that that
 have their foot in the door already
@@ -1023,12 +1000,12 @@ rock star thing it's it's they they are
 normal people
 that yes on stage and talk about stuff
 that they're proud of
-- most importantly everybody can be a
+- **EVA**: most importantly everybody can be a
 public speaker
 of course and at women tank makers we
 try to make space all for for newcomers
-- yeah
-- that speak the first time and are
+- **EVA**: yeah
+- **EVA**: that speak the first time and are
 just passionate about their domain or
 their project
 and you mentor them too in in making
@@ -1049,7 +1026,7 @@ being prepared really helps
 and yeah it's it's a lot of fun it's you
 get so much energy from the people that
 listen to your talk
-- that's amazing
+- **EVA**: that's amazing
 thank you yeah i think
 i think to add on to that if i may um
 one thing that i've experienced a lot
@@ -1074,7 +1051,7 @@ guess i think i'm saying this more to
 feel like you should be on stage but
 don't want to don't force yourself
 either
-- no no of course not it's not a career
+- **EVA**: no no of course not it's not a career
 driver
 i mean it is a little bit but it's not
 it doesn't give you more
@@ -1097,7 +1074,7 @@ completely fine
 you don't have to be a conference
 speaker to be a developer
 there is no such thing
-- that's awesome thanks a lot eva i think
+- **EVA**: that's awesome thanks a lot eva i think
 i think with that i think we've taken
 enough of your time we're so grateful
 that you could come on today eva
@@ -1107,19 +1084,19 @@ in touch with you that they
 if they'd like to or maybe a shout out
 you'd like to give to some organization
 that we can put in our show notes
-- uh i am reachable on twitter is the
+- **EVA**: uh i am reachable on twitter is the
 easiest
 that's @eva_trostlos
 and with the organization you just caught me off guard
-- women and code!
-- yeah but we are on break so i don't want to really
+- **EVA**: women and code!
+- **EVA**: yeah but we are on break so i don't want to really
 advertise
 that until we are back
-- okay let's talk
+- **EVA**: okay let's talk
 about it in the next episode
-- all good well thanks a lot and uh
+- **EVA**: all good well thanks a lot and uh
 thanks see you next time have a good day
-- bye bye bye to everybody
+- **EVA**: bye bye bye to everybody
 - **TIMEA**: Are you on the forefront of gender equality? You are invited on our podcast.
 - **RAMÓN**: That's right! Or maybe you know somebody
 that we could have a chat with on gender equality? You should totally get in
