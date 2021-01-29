@@ -7,8 +7,8 @@ image: ../podcast/logo.JPG
 episode: 3
 episodeType: full
 explicit: false
-date: 2021-01-17
-length: 1945
+date: 2021-01-29
+length: 2438
 audio: https://archive.org/download/episode3_202101/episode3.mp3
 ---
 
