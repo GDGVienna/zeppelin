@@ -22,9 +22,12 @@ We talk to Eva about her experiences and her drive for getting more women into T
 
 
 Mentioned resources:
+
+
 * Women && Code: https://womenandcode.org/
 * Her keynote #WTM19: The peculiar life of a polymath by Eva Lettner: https://www.youtube.com/watch?v=PdlY8-oOSmk
 * Connect with her on Twitter: https://twitter.com/eva_trostlos
+* Womentor: https://www.womentor.at/
 
 
 ## Transcript
@@ -105,7 +108,7 @@ Mentioned resources:
     a lot to do and it was just a little bit too stressful, but then Timea
     and I stayed in contact and eventually she asked me if I would give
     give a talk at Women Techmakers and obviously I was like 'yeah sure'.
-- **EVA**: Wow I have
+- **TIMEA**: Wow I have
     so many actually follow-up questions on these points, and you are by now a
     public figure for me especially. Since you became a Google Developer Expert
     and so if one Googles your name you they can find talks with you. You've been
@@ -157,7 +160,7 @@ Mentioned resources:
     and I really got stuck in CSS because I like to be a creative but I can't draw.
     It's just, that's not in my skill set but for whatever reason maybe block stuff
     looks...
-- **EVA**: You could draw with
+- **TIMEA**: You could draw with
     pixels actually!
     It looks so cool, you had this monster,
     let's put in the show notes, a link to,
@@ -437,232 +440,119 @@ Mentioned resources:
     ways. My dad started his job when he was 17. He's still in this company
     and he will retire there.
 - **TIMEA**: And that's not bad but
-    we just want a little bit more like maybe a learning budget yeah that's
-    something that i always appreciate in job offers
-- **EVA**: yeah yeah it sounds like we're going to
-    have to really
-    research and go into i'm i definitely
-    got to read up on this and and
-    get ready for a big throw down
-    we have one to talk about well um
-    let's uh not not keep you forever ava i
-    know you've got you're busy and you know
-    you've got stuff to do
-    uh i you know one one question that we
-    always ask our guests
-    here is you know for this is a big
-    purpose of this podcast is to
-    for people to be able to find where they
-    can do their volunteering how they can
-    find mentors and get started
-    in doing their part to improve uh
-    improve the intersectionality and
-    inclusivity of of
-    organizations and and and uh and
-    activities and so i'm wondering if do
-    you
-    have any advice that you would like to
-    pass on to people that that
-    are interested in starting out here
-- **EVA**: or quereinstegerinnen
-- **EVA**: them yeah i'm not going to try and
-    pronounce that
-- **EVA**: it's a mouthful for me too but i like
-    the word
-- **EVA**: um there are actually programs where you
-    can sign
-    up if you're starting out and you want a
-    mentor
-    uh one of these programs actually was
-    uh developed and and uh was the idea was
-    born
-    in a hackathon that pablo and i
-    organized
-    uh and it's called WeMentor so it's
-    mentors for women uh and and it's
-    there's those women that actually
-    founded the organization
-    uh i think they got to know each other
-    through women and code or at least
-    they were part of the women in co
-    community and that is super awesome
-    we're very
-- **EVA**: cool right when because this is what
-    happens at women techmakers too and i'm
-    always so proud of that
-    uh sparking and empowering other
-    communities to show up
-    yeah yeah it's really i call i know we
-    meant that i'm hoping we can get
-    somebody on our podcast yeah
-    yeah they had this great idea and it's
-    it's just it became a whole movement and
-    yeah i enjoyed a lot i know people who
-    aren't mentored there i'm
-    i meant to somebody as well through
-    mentor uh
-    it's it's just a that's a structured
-    approach to finding a mentor
-    um because it can be super scary to just
-    write to somebody
-    if you want a mentor that feels kind of
-    weird
-- **EVA**: for introverts difficult to do
-    i myself like that
-- **EVA**: yeah so especially in
-    in a digital age in 2020
-    where we don't go anywhere you can't
-    meet potential mentors
-    um so there are a couple of networks
-    also
-    internationally where you can actually
-    find a mentor some of them are paid
-    but it gives you a good network of
-    people that you can reach out to
-    when you can go outside again and when
-    there are meetups again
-    uh obviously going to meetups and
-    meeting people
-    is super fun going to conferences and
-    then talking to the speakers
-    is also really great idea because you
-    might
-    think that's super scary and you can't
-    talk to
-    to one of the speakers because
-    i enjoy talking to people and so does
-    everybody else of the speakers that i
-    know
-    and we're just normal people that hang
-    out at a conference
-    and it's completely normal to go up to
-    us and ask us questions and
-    and chat with us and have lunch with us
-    because there have been conferences
-    where i had lunch alone because
-    nobody did approach me
-    yeah so it it's we are normal people
-    please talk to us it's fine we might be
-    a little bit shy
-- **EVA**: [Laughter]
-- **EVA**: yeah can relate
-- **EVA**: that's that's also a way to
-    get to know people
-    that are in the industry and that that
-    have their foot in the door already
-    um thank you for telling that aspect
-    thank you for telling us this aspect of
-    how it is to be a speaker and
-    eating a loan lunch because people think
-    you're
-    i don't know unapproachable not true
-    people not true
-    but i i know from going to conferences
-    before i was actually speaking there i
-    was like oh i can't talk to the speaker
-    they are super famous
-    um but that is not true this is not a
-    rock star thing it's it's they they are
-    normal people
-    that yes on stage and talk about stuff
-    that they're proud of
-- **EVA**: most importantly everybody can be a
-    public speaker
-    of course and at women tank makers we
-    try to make space all for for newcomers
-- **EVA**: yeah
-- **EVA**: that speak the first time and are
-    just passionate about their domain or
-    their project
-    and you mentor them too in in making
-    their talk professional and and uh
-    losing stage fright if they have it and
-    and that is super cool that's a great
-    first time speaking experience
-    because it's a very positive environment
-    and and
-    yeah speaking is is super fun
-    and it was very scary for me for the
-    first time
-    but practicing in front of a small crowd
-    first
-    and then giving the talk at a conference
-    really helps
-    being prepared really helps
-    and yeah it's it's a lot of fun it's you
-    get so much energy from the people that
-    listen to your talk
-- **EVA**: that's amazing
-    thank you yeah i think
-    i think to add on to that if i may um
-    one thing that i've experienced a lot
-    with public speaking is that
-    a lot of folks sometimes some folks that
-    i try to think that i think to myself
-    these these people could be amazing
-    public speakers and you know i try to
-    gently very friendly nudge them in that
-    direction
-    sometimes sometimes some folks really
-    are just not
-    interested in becoming public speakers
-    or don't want to or maybe
-    the the the the the concept of being on
-    a stage in front of
-    dozens hundreds thousands of people is
-    just not something they jibe with
-    and i think it's important to remember i
-    guess i think i'm saying this more to
-    24 year old me um if you
-    feel like you should be on stage but
-    don't want to don't force yourself
-    either
-- **EVA**: no no of course not it's not a career
-    driver
-    i mean it is a little bit but it's not
-    it doesn't give you more
-    than than if you would just do your job
-    that's it's completely fine to not do it
-    um it's it's a great experience
-    especially
-    when when you can travel you see
-    different cities you need a lot of
-    people it's a cool experience but
-    if it's not something that you feel
-    will benefit you then don't do it
-    or try it out and see if you like it but
-    if you don't like it
-    don't also find it's fine it's fine to
-    just listen it's fine to just go to
-    conferences
-    it's fine to watch them on youtube it's
-    completely fine
-    you don't have to be a conference
-    speaker to be a developer
-    there is no such thing
-- **EVA**: that's awesome thanks a lot eva i think
-    i think with that i think we've taken
-    enough of your time we're so grateful
-    that you could come on today eva
-    um one last tiny thing um is there any
-    um is there anywhere that people can get
-    in touch with you that they
-    if they'd like to or maybe a shout out
-    you'd like to give to some organization
-    that we can put in our show notes
-- **EVA**: uh i am reachable on twitter is the
-    easiest
-    that's @eva_trostlos
-    and with the organization you just caught me off guard
-- **EVA**: women and code!
-- **EVA**: yeah but we are on break so i don't want to really
-    advertise
-    that until we are back
-- **EVA**: okay let's talk
-    about it in the next episode
-- **EVA**: all good well thanks a lot and uh
-    thanks see you next time have a good day
-- **EVA**: bye bye bye to everybody
+    we just want a little bit more like maybe a learning budget, yeah that's
+    something that I always appreciate in job offers.
+- **RAMÓN**: Yeah it sounds like we're going to
+    have to really research and go into it, I definitely got to read up on this
+    and get ready for a big throw down we have one to talk about. Well
+    let's not not keep you forever Eva I know you're busy and got stuff to do. One question that we always
+    ask our guests here is, this is a big purpose of this podcast
+    is to for people to be able to find where they can do their volunteering,
+    how they can find mentors, and get started in doing their part to improve
+    the intersectionality and inclusivity of organizations and
+    and activities and so I'm wondering, do you have any advice that
+    you would like to pass on to people that are interested in starting
+    out here?
+- **TIMEA**: Or quereinstegerinnen?
+- **RAMÓN**: Them, yeah, I'm not going to try and
+    pronounce that.
+- **TIMEA**: It's a mouthful for me too but I like
+    the word.
+- **EVA**: There are actually programs where you
+    can sign up if you're starting out and you want a mentor, one of these
+    programs actually was developed and was the idea was born in a
+    hackathon that Barbara and I organized and it's called Womentor so it's
+    mentors for women and it's, there's those women that actually founded
+    the organization, I think they got to know each other through Women &&
+    Code, or at least they were part of the Women && Code community and that is
+    super awesome.
+- **TIMEA**: Cool, right, because this is what
+    happens at Women Techmakers too and I'm always so proud of that sparking
+    and empowering other communities to show up. Yeah I
+    know we meant that I'm hoping we can get somebody on our podcast.
+- **EVA**: Yeah!
+    They had this great idea and it's just, it became a whole movement and
+    yeah. I enjoyed it a lot. I know people who are mentored there I mentor
+    somebody as well through Womentor. That's a structured
+    approach to finding a mentor, because it can be super scary to just write
+    to somebody if you want a mentor, that feels kind of weird.
+- **TIMEA**: For introverts difficult to do,
+    I myself like that.
+- **EVA**: Yeah, so especially
+    in a digital age in 2020 where we don't go anywhere, you can't meet
+    potential mentors, so there are a couple of networks also internationally
+    where you can actually find a mentor, some of them are paid but it gives
+    you a good network of people that you can reach out to when you can go
+    outside again, and when there are meetups again, obviously going to meetups
+    and meeting people is super fun, going to conferences and then talking to
+    the speakers is also really great ideam because you might think that's
+    super scary but you can talk to one of the speakers because I enjoy talking
+    to people and so does everybody else of the speakers that I know and we're
+    just normal people that hang out at a conference, and it's completely
+    normal to go up to us and ask us questions and chat with us, and have lunch
+    with us, because there have been conferences where I had lunch alone,
+    because nobody dared approach me. Yeah, so we are normal people! Please
+    talk to us, it's fine we might be a little bit shy.
+- **RAMÓN**: Yeah, can relate.
+- **EVA**: That's also a way to
+    get to know people that are in the industry and that have their foot in the
+    door already.
+- **TIMEA**: Thank you for telling that aspect of how it is to be a speaker and
+    eating lunch alone because people think you're, I don't know, unapproachable.
+    Not true, people, not true.
+- **EVA**: But I know from going to conferences
+    before I was actually speaking there, I was like "Oh I can't talk to the
+    speaker they are super famous", but that is not true, this is not a rock
+    star thing, they are normal people, yes on stage and that talk
+    about stuff that they're proud of.
+- **TIMEA**: Most importantly everybody can be a
+    public speaker and at Women Techmakers we try to make space also for
+    newcomers, that speak the first time and are just passionate about their
+    domain or their project.
+- **EVA**: And you mentor them too, in making
+    their talk professional, and losing stage fright, if they have it, and that
+    is super cool! That's a great first time speaking experience because it's a
+    very positive environment and yeah, speaking is super fun and it was very
+    scary for me for the first time, but practicing in front of a small crowd
+    first, and then giving the talk at a conference really helps, being
+    prepared really helps, and yeah it's a lot of fun. You get so much energy
+    from the people that listen to your talk.
+- **RAMÓN**: That's amazing,
+    thank you. Yeah I think to add on to that, if I may, one thing that I've
+    experienced a lot with public speaking is that some folks that I think to
+    myself these people could be amazing public speakers and I try to gently,
+    very friendly, nudge them in that direction sometimes some folks really are
+    just not interested in becoming public speakers, or the concept of being on
+    a stage in front of dozens, hundreds, thousands of people is just not
+    something they jibe with.  And I think it's important to remember, I guess
+    I'm saying this more to 24 year old me if you feel like you should be on
+    stage but don't want to, don't force yourself either.
+- **EVA**: No of course not, it's not a career
+    driver, I mean it is a little bit, but it doesn't give you more than than
+    if you would just do your job that's it's completely fine to not do it.
+    It's a great experience, especially when you can travel, you see different
+    cities, you meet a lot of people, it's a cool experience, but if it's not
+    something that you feel will benefit you then don't do it. Try it out and
+    see if you like it but if you don't like it, it's fine it's fine to just
+    listen it's fine to just go to conferences it's fine to watch them on
+    YouTube, it's completely fine.  You don't have to be a conference speaker
+    to be a developer, there is no such thing.
+- **RAMÓN**: That's awesome, thanks a lot Eva. I think
+    with that, we've taken enough of your time. We're so grateful that you
+    could come on today, Eva.  One last tiny thing, is there anywhere that
+    people can get in touch with you if they'd like to, or maybe a shout out
+    you'd like to give to some organization that we can put in our show notes?
+- **EVA**: I am reachable on Twitter it's the
+    easiest that's @eva_trostlos and with the organization you just caught me
+    off guard.
+- **TIMEA**: women and code!
+- **EVA**: Yeah but we are on break so I don't want to really
+    advertise that until we are back.
+- **TIMEA**: Okay, let's talk
+    about it in the next episode.
+- **RAMÓN**: All good! Well, thanks a lot see you next time have a good day.
+- **EVA**: Bye!
+- **TIMEA**: Bye bye to everybody!
 - **TIMEA**: Are you on the forefront of gender equality? You are invited on our podcast.
 - **RAMÓN**: That's right! Or maybe you know somebody
     that we could have a chat with on gender equality? You should totally get in
