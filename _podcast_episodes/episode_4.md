@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: "4. Women And Code #genderEqualityOrganization #WTMVIE"
+title: "4. Women &#038;&#038; Code #genderEqualityOrganization #WTMVIE"
 author: Women Techmakers Vienna
 isStaticPost: true
 image: ../podcast/logo.JPG
