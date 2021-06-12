@@ -4,7 +4,7 @@ title: "8. Tina Landreau #genderEqualityRoleModel #WTMVIE"
 author: Women Techmakers Vienna
 isStaticPost: true
 image: ../podcast/logo.JPG
-episode: 7
+episode: 8
 episodeType: full
 explicit: false
 date: 2021-04-25
@@ -283,3 +283,9 @@ TINA: Bye-bye thank
 
 
 RAMÓN: you. Bye-bye
+
+TIMEA:
+Are you on the forefront of gender equality? You are invited on our podcast.
+
+RAMÓN:
+That's right. Or maybe you know somebody that we could have a chat with on gender quality. You should totally get in touch with us. We're on Twitter @GenderCoffee. Or any of the other contact methods on our show notes, we would love you to get in touch and for us to have a chat.
